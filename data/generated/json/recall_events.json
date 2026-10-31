@@ -1,6 +1,6 @@
 {
   "table_name": "recall_events",
-  "row_count": 9,
+  "row_count": 51,
   "data": [
     {
       "event_id": "RECEVT-2026-000001",
@@ -31,57 +31,435 @@
     },
     {
       "event_id": "RECEVT-2026-000004",
+      "recall_id": "REC-2026-000004",
+      "previous_status": "NONE",
+      "new_status": "OPEN",
+      "reason": "Recall initiated following confirmed CONTAMINATED_FINISHED_LOT for lot FINLOT-2026-000004",
+      "trigger_source": "QUALITY_AUDIT",
+      "created_at": "2026-04-20T08:00:00"
+    },
+    {
+      "event_id": "RECEVT-2026-000005",
+      "recall_id": "REC-2026-000005",
+      "previous_status": "NONE",
+      "new_status": "OPEN",
+      "reason": "Recall initiated following confirmed CONTAMINATED_RAW_LOT for lot RAWLOT-SUP-0005-2026-000005",
+      "trigger_source": "QUALITY_AUDIT",
+      "created_at": "2026-04-25T08:00:00"
+    },
+    {
+      "event_id": "RECEVT-2026-000006",
+      "recall_id": "REC-2026-000006",
+      "previous_status": "NONE",
+      "new_status": "OPEN",
+      "reason": "Recall initiated following confirmed CONTAMINATED_FINISHED_LOT for lot FINLOT-2026-000006",
+      "trigger_source": "QUALITY_AUDIT",
+      "created_at": "2026-04-30T08:00:00"
+    },
+    {
+      "event_id": "RECEVT-2026-000007",
+      "recall_id": "REC-2026-000007",
+      "previous_status": "NONE",
+      "new_status": "OPEN",
+      "reason": "Recall initiated following confirmed CONTAMINATED_RAW_LOT for lot RAWLOT-SUP-0007-2026-000007",
+      "trigger_source": "QUALITY_AUDIT",
+      "created_at": "2026-05-05T08:00:00"
+    },
+    {
+      "event_id": "RECEVT-2026-000008",
+      "recall_id": "REC-2026-000008",
+      "previous_status": "NONE",
+      "new_status": "OPEN",
+      "reason": "Recall initiated following confirmed CONTAMINATED_FINISHED_LOT for lot FINLOT-2026-000008",
+      "trigger_source": "QUALITY_AUDIT",
+      "created_at": "2026-05-10T08:00:00"
+    },
+    {
+      "event_id": "RECEVT-2026-000009",
+      "recall_id": "REC-2026-000009",
+      "previous_status": "NONE",
+      "new_status": "OPEN",
+      "reason": "Recall initiated following confirmed CONTAMINATED_RAW_LOT for lot RAWLOT-SUP-0009-2026-000009",
+      "trigger_source": "QUALITY_AUDIT",
+      "created_at": "2026-05-15T08:00:00"
+    },
+    {
+      "event_id": "RECEVT-2026-000010",
+      "recall_id": "REC-2026-000010",
+      "previous_status": "NONE",
+      "new_status": "OPEN",
+      "reason": "Recall initiated following confirmed CONTAMINATED_FINISHED_LOT for lot FINLOT-2026-000010",
+      "trigger_source": "QUALITY_AUDIT",
+      "created_at": "2026-05-20T08:00:00"
+    },
+    {
+      "event_id": "RECEVT-2026-000011",
       "recall_id": "REC-2026-000001",
       "previous_status": "OPEN",
       "new_status": "INVESTIGATING",
       "reason": "Downstream genealogy scope analysis started",
       "trigger_source": "RECALL_ENGINE",
-      "created_at": "2026-10-31T17:36:16.497839"
+      "created_at": "2026-10-31T18:20:47.166159"
     },
     {
-      "event_id": "RECEVT-2026-000005",
+      "event_id": "RECEVT-2026-000012",
       "recall_id": "REC-2026-000001",
       "previous_status": "INVESTIGATING",
       "new_status": "CONTAINMENT_IN_PROGRESS",
       "reason": "Initiating warehouse stock quarantine and hold",
       "trigger_source": "RECALL_ENGINE",
-      "created_at": "2026-10-31T17:36:16.565200"
+      "created_at": "2026-10-31T18:20:47.218921"
     },
     {
-      "event_id": "RECEVT-2026-000006",
+      "event_id": "RECEVT-2026-000013",
       "recall_id": "REC-2026-000001",
       "previous_status": "CONTAINMENT_IN_PROGRESS",
       "new_status": "CUSTOMERS_NOTIFIED",
       "reason": "Dispatching urgent customer safety notices",
       "trigger_source": "RECALL_ENGINE",
-      "created_at": "2026-10-31T17:36:16.599222"
+      "created_at": "2026-10-31T18:20:47.250264"
     },
     {
-      "event_id": "RECEVT-2026-000007",
+      "event_id": "RECEVT-2026-000014",
       "recall_id": "REC-2026-000001",
       "previous_status": "CUSTOMERS_NOTIFIED",
       "new_status": "RECOVERY_IN_PROGRESS",
       "reason": "Simulating product returns and field recovery",
       "trigger_source": "RECALL_ENGINE",
-      "created_at": "2026-10-31T17:36:16.641249"
+      "created_at": "2026-10-31T18:20:47.283828"
     },
     {
-      "event_id": "RECEVT-2026-000008",
+      "event_id": "RECEVT-2026-000015",
       "recall_id": "REC-2026-000001",
       "previous_status": "RECOVERY_IN_PROGRESS",
       "new_status": "COMPLETED",
       "reason": "All mandatory containment, notification, and recovery milestones satisfied",
       "trigger_source": "RECALL_ENGINE",
-      "created_at": "2026-10-31T17:36:16.658074"
+      "created_at": "2026-10-31T18:20:47.295427"
     },
     {
-      "event_id": "RECEVT-2026-000009",
+      "event_id": "RECEVT-2026-000016",
       "recall_id": "REC-2026-000001",
       "previous_status": "COMPLETED",
       "new_status": "COMPLETED",
       "reason": "All mandatory containment, notification, and recovery milestones satisfied",
       "trigger_source": "RECALL_ENGINE",
-      "created_at": "2026-10-31T17:37:53.088172"
+      "created_at": "2026-10-31T18:20:47.369408"
+    },
+    {
+      "event_id": "RECEVT-2026-000017",
+      "recall_id": "REC-2026-000002",
+      "previous_status": "OPEN",
+      "new_status": "INVESTIGATING",
+      "reason": "Downstream genealogy scope analysis started",
+      "trigger_source": "RECALL_ENGINE",
+      "created_at": "2026-10-31T18:20:47.375578"
+    },
+    {
+      "event_id": "RECEVT-2026-000018",
+      "recall_id": "REC-2026-000002",
+      "previous_status": "INVESTIGATING",
+      "new_status": "CONTAINMENT_IN_PROGRESS",
+      "reason": "Initiating warehouse stock quarantine and hold",
+      "trigger_source": "RECALL_ENGINE",
+      "created_at": "2026-10-31T18:20:47.383680"
+    },
+    {
+      "event_id": "RECEVT-2026-000019",
+      "recall_id": "REC-2026-000002",
+      "previous_status": "CONTAINMENT_IN_PROGRESS",
+      "new_status": "CUSTOMERS_NOTIFIED",
+      "reason": "Dispatching urgent customer safety notices",
+      "trigger_source": "RECALL_ENGINE",
+      "created_at": "2026-10-31T18:20:47.388599"
+    },
+    {
+      "event_id": "RECEVT-2026-000020",
+      "recall_id": "REC-2026-000002",
+      "previous_status": "CUSTOMERS_NOTIFIED",
+      "new_status": "RECOVERY_IN_PROGRESS",
+      "reason": "Simulating product returns and field recovery",
+      "trigger_source": "RECALL_ENGINE",
+      "created_at": "2026-10-31T18:20:47.397592"
+    },
+    {
+      "event_id": "RECEVT-2026-000021",
+      "recall_id": "REC-2026-000002",
+      "previous_status": "RECOVERY_IN_PROGRESS",
+      "new_status": "COMPLETED",
+      "reason": "All mandatory containment, notification, and recovery milestones satisfied",
+      "trigger_source": "RECALL_ENGINE",
+      "created_at": "2026-10-31T18:20:47.402178"
+    },
+    {
+      "event_id": "RECEVT-2026-000022",
+      "recall_id": "REC-2026-000002",
+      "previous_status": "COMPLETED",
+      "new_status": "COMPLETED",
+      "reason": "All mandatory containment, notification, and recovery milestones satisfied",
+      "trigger_source": "RECALL_ENGINE",
+      "created_at": "2026-10-31T18:20:47.423204"
+    },
+    {
+      "event_id": "RECEVT-2026-000023",
+      "recall_id": "REC-2026-000001",
+      "previous_status": "COMPLETED",
+      "new_status": "COMPLETED",
+      "reason": "All mandatory containment, notification, and recovery milestones satisfied",
+      "trigger_source": "RECALL_ENGINE",
+      "created_at": "2026-10-31T18:21:30.097243"
+    },
+    {
+      "event_id": "RECEVT-2026-000024",
+      "recall_id": "REC-2026-000001",
+      "previous_status": "COMPLETED",
+      "new_status": "COMPLETED",
+      "reason": "All mandatory containment, notification, and recovery milestones satisfied",
+      "trigger_source": "RECALL_ENGINE",
+      "created_at": "2026-10-31T18:21:30.165705"
+    },
+    {
+      "event_id": "RECEVT-2026-000025",
+      "recall_id": "REC-2026-000002",
+      "previous_status": "COMPLETED",
+      "new_status": "COMPLETED",
+      "reason": "All mandatory containment, notification, and recovery milestones satisfied",
+      "trigger_source": "RECALL_ENGINE",
+      "created_at": "2026-10-31T18:21:30.188502"
+    },
+    {
+      "event_id": "RECEVT-2026-000026",
+      "recall_id": "REC-2026-000002",
+      "previous_status": "COMPLETED",
+      "new_status": "COMPLETED",
+      "reason": "All mandatory containment, notification, and recovery milestones satisfied",
+      "trigger_source": "RECALL_ENGINE",
+      "created_at": "2026-10-31T18:21:30.208585"
+    },
+    {
+      "event_id": "RECEVT-2026-000027",
+      "recall_id": "REC-2026-000001",
+      "previous_status": "COMPLETED",
+      "new_status": "COMPLETED",
+      "reason": "All mandatory containment, notification, and recovery milestones satisfied",
+      "trigger_source": "RECALL_ENGINE",
+      "created_at": "2026-10-31T18:23:01.130976"
+    },
+    {
+      "event_id": "RECEVT-2026-000028",
+      "recall_id": "REC-2026-000001",
+      "previous_status": "COMPLETED",
+      "new_status": "COMPLETED",
+      "reason": "All mandatory containment, notification, and recovery milestones satisfied",
+      "trigger_source": "RECALL_ENGINE",
+      "created_at": "2026-10-31T18:23:01.198337"
+    },
+    {
+      "event_id": "RECEVT-2026-000029",
+      "recall_id": "REC-2026-000002",
+      "previous_status": "COMPLETED",
+      "new_status": "COMPLETED",
+      "reason": "All mandatory containment, notification, and recovery milestones satisfied",
+      "trigger_source": "RECALL_ENGINE",
+      "created_at": "2026-10-31T18:23:01.222256"
+    },
+    {
+      "event_id": "RECEVT-2026-000030",
+      "recall_id": "REC-2026-000002",
+      "previous_status": "COMPLETED",
+      "new_status": "COMPLETED",
+      "reason": "All mandatory containment, notification, and recovery milestones satisfied",
+      "trigger_source": "RECALL_ENGINE",
+      "created_at": "2026-10-31T18:23:01.243713"
+    },
+    {
+      "event_id": "RECEVT-2026-000031",
+      "recall_id": "REC-2026-000001",
+      "previous_status": "COMPLETED",
+      "new_status": "COMPLETED",
+      "reason": "All mandatory containment, notification, and recovery milestones satisfied",
+      "trigger_source": "RECALL_ENGINE",
+      "created_at": "2026-10-31T18:23:56.382927"
+    },
+    {
+      "event_id": "RECEVT-2026-000032",
+      "recall_id": "REC-2026-000001",
+      "previous_status": "COMPLETED",
+      "new_status": "COMPLETED",
+      "reason": "All mandatory containment, notification, and recovery milestones satisfied",
+      "trigger_source": "RECALL_ENGINE",
+      "created_at": "2026-10-31T18:23:56.448265"
+    },
+    {
+      "event_id": "RECEVT-2026-000033",
+      "recall_id": "REC-2026-000002",
+      "previous_status": "COMPLETED",
+      "new_status": "COMPLETED",
+      "reason": "All mandatory containment, notification, and recovery milestones satisfied",
+      "trigger_source": "RECALL_ENGINE",
+      "created_at": "2026-10-31T18:23:56.470368"
+    },
+    {
+      "event_id": "RECEVT-2026-000034",
+      "recall_id": "REC-2026-000002",
+      "previous_status": "COMPLETED",
+      "new_status": "COMPLETED",
+      "reason": "All mandatory containment, notification, and recovery milestones satisfied",
+      "trigger_source": "RECALL_ENGINE",
+      "created_at": "2026-10-31T18:23:56.489754"
+    },
+    {
+      "event_id": "RECEVT-2026-000035",
+      "recall_id": "REC-2026-000001",
+      "previous_status": "COMPLETED",
+      "new_status": "COMPLETED",
+      "reason": "All mandatory containment, notification, and recovery milestones satisfied",
+      "trigger_source": "RECALL_ENGINE",
+      "created_at": "2026-10-31T18:24:40.782147"
+    },
+    {
+      "event_id": "RECEVT-2026-000036",
+      "recall_id": "REC-2026-000001",
+      "previous_status": "COMPLETED",
+      "new_status": "COMPLETED",
+      "reason": "All mandatory containment, notification, and recovery milestones satisfied",
+      "trigger_source": "RECALL_ENGINE",
+      "created_at": "2026-10-31T18:24:40.856160"
+    },
+    {
+      "event_id": "RECEVT-2026-000037",
+      "recall_id": "REC-2026-000002",
+      "previous_status": "COMPLETED",
+      "new_status": "COMPLETED",
+      "reason": "All mandatory containment, notification, and recovery milestones satisfied",
+      "trigger_source": "RECALL_ENGINE",
+      "created_at": "2026-10-31T18:24:40.881651"
+    },
+    {
+      "event_id": "RECEVT-2026-000038",
+      "recall_id": "REC-2026-000002",
+      "previous_status": "COMPLETED",
+      "new_status": "COMPLETED",
+      "reason": "All mandatory containment, notification, and recovery milestones satisfied",
+      "trigger_source": "RECALL_ENGINE",
+      "created_at": "2026-10-31T18:24:40.904237"
+    },
+    {
+      "event_id": "RECEVT-2026-000039",
+      "recall_id": "REC-2026-000001",
+      "previous_status": "COMPLETED",
+      "new_status": "COMPLETED",
+      "reason": "All mandatory containment, notification, and recovery milestones satisfied",
+      "trigger_source": "RECALL_ENGINE",
+      "created_at": "2026-10-31T18:25:38.222099"
+    },
+    {
+      "event_id": "RECEVT-2026-000040",
+      "recall_id": "REC-2026-000001",
+      "previous_status": "COMPLETED",
+      "new_status": "COMPLETED",
+      "reason": "All mandatory containment, notification, and recovery milestones satisfied",
+      "trigger_source": "RECALL_ENGINE",
+      "created_at": "2026-10-31T18:25:38.284411"
+    },
+    {
+      "event_id": "RECEVT-2026-000041",
+      "recall_id": "REC-2026-000002",
+      "previous_status": "COMPLETED",
+      "new_status": "COMPLETED",
+      "reason": "All mandatory containment, notification, and recovery milestones satisfied",
+      "trigger_source": "RECALL_ENGINE",
+      "created_at": "2026-10-31T18:25:38.306301"
+    },
+    {
+      "event_id": "RECEVT-2026-000042",
+      "recall_id": "REC-2026-000002",
+      "previous_status": "COMPLETED",
+      "new_status": "COMPLETED",
+      "reason": "All mandatory containment, notification, and recovery milestones satisfied",
+      "trigger_source": "RECALL_ENGINE",
+      "created_at": "2026-10-31T18:25:38.325300"
+    },
+    {
+      "event_id": "RECEVT-2026-000043",
+      "recall_id": "REC-2026-000011",
+      "previous_status": "NONE",
+      "new_status": "OPEN",
+      "reason": "Recall initiated for RAW lot RAWLOT-SUP-0006-2026-000006. Scope: 3 finished lots, 8 customers.",
+      "trigger_source": "RECALL_ENGINE",
+      "created_at": "2026-10-31T18:26:02.747444"
+    },
+    {
+      "event_id": "RECEVT-2026-000044",
+      "recall_id": "REC-2026-000011",
+      "previous_status": "OPEN",
+      "new_status": "INVESTIGATING",
+      "reason": "Downstream genealogy scope analysis started",
+      "trigger_source": "RECALL_ENGINE",
+      "created_at": "2026-10-31T18:26:02.769841"
+    },
+    {
+      "event_id": "RECEVT-2026-000045",
+      "recall_id": "REC-2026-000011",
+      "previous_status": "INVESTIGATING",
+      "new_status": "CONTAINMENT_IN_PROGRESS",
+      "reason": "Initiating warehouse stock quarantine and hold",
+      "trigger_source": "RECALL_ENGINE",
+      "created_at": "2026-10-31T18:26:02.782884"
+    },
+    {
+      "event_id": "RECEVT-2026-000046",
+      "recall_id": "REC-2026-000011",
+      "previous_status": "CONTAINMENT_IN_PROGRESS",
+      "new_status": "CUSTOMERS_NOTIFIED",
+      "reason": "Dispatching urgent customer safety notices",
+      "trigger_source": "RECALL_ENGINE",
+      "created_at": "2026-10-31T18:26:02.794241"
+    },
+    {
+      "event_id": "RECEVT-2026-000047",
+      "recall_id": "REC-2026-000011",
+      "previous_status": "CUSTOMERS_NOTIFIED",
+      "new_status": "RECOVERY_IN_PROGRESS",
+      "reason": "Simulating product returns and field recovery",
+      "trigger_source": "RECALL_ENGINE",
+      "created_at": "2026-10-31T18:26:02.812688"
+    },
+    {
+      "event_id": "RECEVT-2026-000048",
+      "recall_id": "REC-2026-000011",
+      "previous_status": "RECOVERY_IN_PROGRESS",
+      "new_status": "COMPLETED",
+      "reason": "All mandatory containment, notification, and recovery milestones satisfied",
+      "trigger_source": "RECALL_ENGINE",
+      "created_at": "2026-10-31T18:26:02.820263"
+    },
+    {
+      "event_id": "RECEVT-2026-000049",
+      "recall_id": "REC-2026-000012",
+      "previous_status": "NONE",
+      "new_status": "OPEN",
+      "reason": "Recall initiated for RAW lot RAWLOT-SUP-0001-2026-000001. Scope: 6 finished lots, 14 customers.",
+      "trigger_source": "RECALL_ENGINE",
+      "created_at": "2026-10-31T18:28:44.434700"
+    },
+    {
+      "event_id": "RECEVT-2026-000050",
+      "recall_id": "REC-2026-000001",
+      "previous_status": "COMPLETED",
+      "new_status": "COMPLETED",
+      "reason": "All mandatory containment, notification, and recovery milestones satisfied",
+      "trigger_source": "RECALL_ENGINE",
+      "created_at": "2026-10-31T18:28:44.537025"
+    },
+    {
+      "event_id": "RECEVT-2026-000051",
+      "recall_id": "REC-2026-000001",
+      "previous_status": "COMPLETED",
+      "new_status": "COMPLETED",
+      "reason": "All mandatory containment, notification, and recovery milestones satisfied",
+      "trigger_source": "RECALL_ENGINE",
+      "created_at": "2026-10-31T18:28:44.583811"
     }
   ]
 }

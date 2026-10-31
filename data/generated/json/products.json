@@ -1,6 +1,6 @@
 {
   "table_name": "products",
-  "row_count": 10,
+  "row_count": 40,
   "data": [
     {
       "product_id": "PRD-0001",
@@ -11,8 +11,8 @@
       "shelf_life_days": 730,
       "standard_cost": 6.8,
       "is_active": true,
-      "created_at": "2025-08-23T08:00:00",
-      "updated_at": "2025-08-23T08:00:00"
+      "created_at": "2025-10-04T08:00:00",
+      "updated_at": "2025-10-04T08:00:00"
     },
     {
       "product_id": "PRD-0002",
@@ -23,8 +23,8 @@
       "shelf_life_days": 365,
       "standard_cost": 9.4,
       "is_active": true,
-      "created_at": "2025-09-01T08:00:00",
-      "updated_at": "2025-09-01T08:00:00"
+      "created_at": "2025-10-11T08:00:00",
+      "updated_at": "2025-10-11T08:00:00"
     },
     {
       "product_id": "PRD-0003",
@@ -35,8 +35,8 @@
       "shelf_life_days": 1095,
       "standard_cost": 5.25,
       "is_active": true,
-      "created_at": "2025-10-05T08:00:00",
-      "updated_at": "2025-10-05T08:00:00"
+      "created_at": "2025-09-25T08:00:00",
+      "updated_at": "2025-09-25T08:00:00"
     },
     {
       "product_id": "PRD-0004",
@@ -47,8 +47,8 @@
       "shelf_life_days": 730,
       "standard_cost": 7.1,
       "is_active": true,
-      "created_at": "2025-07-28T08:00:00",
-      "updated_at": "2025-07-28T08:00:00"
+      "created_at": "2025-06-27T08:00:00",
+      "updated_at": "2025-06-27T08:00:00"
     },
     {
       "product_id": "PRD-0005",
@@ -59,8 +59,8 @@
       "shelf_life_days": 730,
       "standard_cost": 4.5,
       "is_active": true,
-      "created_at": "2025-09-14T08:00:00",
-      "updated_at": "2025-09-14T08:00:00"
+      "created_at": "2025-08-15T08:00:00",
+      "updated_at": "2025-08-15T08:00:00"
     },
     {
       "product_id": "PRD-0006",
@@ -71,8 +71,8 @@
       "shelf_life_days": 540,
       "standard_cost": 8.15,
       "is_active": true,
-      "created_at": "2025-08-04T08:00:00",
-      "updated_at": "2025-08-04T08:00:00"
+      "created_at": "2025-07-16T08:00:00",
+      "updated_at": "2025-07-16T08:00:00"
     },
     {
       "product_id": "PRD-0007",
@@ -83,8 +83,8 @@
       "shelf_life_days": 730,
       "standard_cost": 6.8,
       "is_active": true,
-      "created_at": "2025-09-25T08:00:00",
-      "updated_at": "2025-09-25T08:00:00"
+      "created_at": "2025-09-30T08:00:00",
+      "updated_at": "2025-09-30T08:00:00"
     },
     {
       "product_id": "PRD-0008",
@@ -95,8 +95,8 @@
       "shelf_life_days": 365,
       "standard_cost": 9.4,
       "is_active": true,
-      "created_at": "2025-08-03T08:00:00",
-      "updated_at": "2025-08-03T08:00:00"
+      "created_at": "2025-09-19T08:00:00",
+      "updated_at": "2025-09-19T08:00:00"
     },
     {
       "product_id": "PRD-0009",
@@ -107,13 +107,373 @@
       "shelf_life_days": 1095,
       "standard_cost": 5.25,
       "is_active": true,
-      "created_at": "2025-07-12T08:00:00",
-      "updated_at": "2025-07-12T08:00:00"
+      "created_at": "2025-07-18T08:00:00",
+      "updated_at": "2025-07-18T08:00:00"
     },
     {
       "product_id": "PRD-0010",
       "sku": "SKU-PHARM-0010",
       "product_name": "Metformin HCl 500mg Extended Release [Batch Series 10]",
+      "category": "PHARMACEUTICAL",
+      "unit_of_measure": "BOTTLES",
+      "shelf_life_days": 730,
+      "standard_cost": 7.1,
+      "is_active": true,
+      "created_at": "2025-09-05T08:00:00",
+      "updated_at": "2025-09-05T08:00:00"
+    },
+    {
+      "product_id": "PRD-0011",
+      "sku": "SKU-NUTRA-0011",
+      "product_name": "Vitamin C 1000mg Effervescent Boost [Batch Series 11]",
+      "category": "NUTRACEUTICAL",
+      "unit_of_measure": "TUBES",
+      "shelf_life_days": 730,
+      "standard_cost": 4.5,
+      "is_active": true,
+      "created_at": "2025-08-02T08:00:00",
+      "updated_at": "2025-08-02T08:00:00"
+    },
+    {
+      "product_id": "PRD-0012",
+      "sku": "SKU-PHARM-0012",
+      "product_name": "Pediatric Cough & Cold Elixir 120ml [Batch Series 12]",
+      "category": "PHARMACEUTICAL",
+      "unit_of_measure": "BOTTLES",
+      "shelf_life_days": 540,
+      "standard_cost": 8.15,
+      "is_active": true,
+      "created_at": "2025-08-18T08:00:00",
+      "updated_at": "2025-08-18T08:00:00"
+    },
+    {
+      "product_id": "PRD-0013",
+      "sku": "SKU-PHARM-0013",
+      "product_name": "Acetaminophen 500mg Extra Strength Tablets [Batch Series 13]",
+      "category": "PHARMACEUTICAL",
+      "unit_of_measure": "BOTTLES",
+      "shelf_life_days": 730,
+      "standard_cost": 6.8,
+      "is_active": true,
+      "created_at": "2025-08-23T08:00:00",
+      "updated_at": "2025-08-23T08:00:00"
+    },
+    {
+      "product_id": "PRD-0014",
+      "sku": "SKU-PHARM-0014",
+      "product_name": "Amoxicillin 250mg Oral Suspension [Batch Series 14]",
+      "category": "PHARMACEUTICAL",
+      "unit_of_measure": "BOTTLES",
+      "shelf_life_days": 365,
+      "standard_cost": 9.4,
+      "is_active": true,
+      "created_at": "2025-09-29T08:00:00",
+      "updated_at": "2025-09-29T08:00:00"
+    },
+    {
+      "product_id": "PRD-0015",
+      "sku": "SKU-PHARM-0015",
+      "product_name": "Ibuprofen 200mg Rapid Action Caplets [Batch Series 15]",
+      "category": "PHARMACEUTICAL",
+      "unit_of_measure": "BOXES",
+      "shelf_life_days": 1095,
+      "standard_cost": 5.25,
+      "is_active": true,
+      "created_at": "2025-09-22T08:00:00",
+      "updated_at": "2025-09-22T08:00:00"
+    },
+    {
+      "product_id": "PRD-0016",
+      "sku": "SKU-PHARM-0016",
+      "product_name": "Metformin HCl 500mg Extended Release [Batch Series 16]",
+      "category": "PHARMACEUTICAL",
+      "unit_of_measure": "BOTTLES",
+      "shelf_life_days": 730,
+      "standard_cost": 7.1,
+      "is_active": true,
+      "created_at": "2025-08-24T08:00:00",
+      "updated_at": "2025-08-24T08:00:00"
+    },
+    {
+      "product_id": "PRD-0017",
+      "sku": "SKU-NUTRA-0017",
+      "product_name": "Vitamin C 1000mg Effervescent Boost [Batch Series 17]",
+      "category": "NUTRACEUTICAL",
+      "unit_of_measure": "TUBES",
+      "shelf_life_days": 730,
+      "standard_cost": 4.5,
+      "is_active": true,
+      "created_at": "2025-08-02T08:00:00",
+      "updated_at": "2025-08-02T08:00:00"
+    },
+    {
+      "product_id": "PRD-0018",
+      "sku": "SKU-PHARM-0018",
+      "product_name": "Pediatric Cough & Cold Elixir 120ml [Batch Series 18]",
+      "category": "PHARMACEUTICAL",
+      "unit_of_measure": "BOTTLES",
+      "shelf_life_days": 540,
+      "standard_cost": 8.15,
+      "is_active": true,
+      "created_at": "2025-08-14T08:00:00",
+      "updated_at": "2025-08-14T08:00:00"
+    },
+    {
+      "product_id": "PRD-0019",
+      "sku": "SKU-PHARM-0019",
+      "product_name": "Acetaminophen 500mg Extra Strength Tablets [Batch Series 19]",
+      "category": "PHARMACEUTICAL",
+      "unit_of_measure": "BOTTLES",
+      "shelf_life_days": 730,
+      "standard_cost": 6.8,
+      "is_active": true,
+      "created_at": "2025-08-11T08:00:00",
+      "updated_at": "2025-08-11T08:00:00"
+    },
+    {
+      "product_id": "PRD-0020",
+      "sku": "SKU-PHARM-0020",
+      "product_name": "Amoxicillin 250mg Oral Suspension [Batch Series 20]",
+      "category": "PHARMACEUTICAL",
+      "unit_of_measure": "BOTTLES",
+      "shelf_life_days": 365,
+      "standard_cost": 9.4,
+      "is_active": true,
+      "created_at": "2025-10-12T08:00:00",
+      "updated_at": "2025-10-12T08:00:00"
+    },
+    {
+      "product_id": "PRD-0021",
+      "sku": "SKU-PHARM-0021",
+      "product_name": "Ibuprofen 200mg Rapid Action Caplets [Batch Series 21]",
+      "category": "PHARMACEUTICAL",
+      "unit_of_measure": "BOXES",
+      "shelf_life_days": 1095,
+      "standard_cost": 5.25,
+      "is_active": true,
+      "created_at": "2025-10-11T08:00:00",
+      "updated_at": "2025-10-11T08:00:00"
+    },
+    {
+      "product_id": "PRD-0022",
+      "sku": "SKU-PHARM-0022",
+      "product_name": "Metformin HCl 500mg Extended Release [Batch Series 22]",
+      "category": "PHARMACEUTICAL",
+      "unit_of_measure": "BOTTLES",
+      "shelf_life_days": 730,
+      "standard_cost": 7.1,
+      "is_active": true,
+      "created_at": "2025-08-09T08:00:00",
+      "updated_at": "2025-08-09T08:00:00"
+    },
+    {
+      "product_id": "PRD-0023",
+      "sku": "SKU-NUTRA-0023",
+      "product_name": "Vitamin C 1000mg Effervescent Boost [Batch Series 23]",
+      "category": "NUTRACEUTICAL",
+      "unit_of_measure": "TUBES",
+      "shelf_life_days": 730,
+      "standard_cost": 4.5,
+      "is_active": true,
+      "created_at": "2025-08-04T08:00:00",
+      "updated_at": "2025-08-04T08:00:00"
+    },
+    {
+      "product_id": "PRD-0024",
+      "sku": "SKU-PHARM-0024",
+      "product_name": "Pediatric Cough & Cold Elixir 120ml [Batch Series 24]",
+      "category": "PHARMACEUTICAL",
+      "unit_of_measure": "BOTTLES",
+      "shelf_life_days": 540,
+      "standard_cost": 8.15,
+      "is_active": true,
+      "created_at": "2025-07-09T08:00:00",
+      "updated_at": "2025-07-09T08:00:00"
+    },
+    {
+      "product_id": "PRD-0025",
+      "sku": "SKU-PHARM-0025",
+      "product_name": "Acetaminophen 500mg Extra Strength Tablets [Batch Series 25]",
+      "category": "PHARMACEUTICAL",
+      "unit_of_measure": "BOTTLES",
+      "shelf_life_days": 730,
+      "standard_cost": 6.8,
+      "is_active": true,
+      "created_at": "2025-10-09T08:00:00",
+      "updated_at": "2025-10-09T08:00:00"
+    },
+    {
+      "product_id": "PRD-0026",
+      "sku": "SKU-PHARM-0026",
+      "product_name": "Amoxicillin 250mg Oral Suspension [Batch Series 26]",
+      "category": "PHARMACEUTICAL",
+      "unit_of_measure": "BOTTLES",
+      "shelf_life_days": 365,
+      "standard_cost": 9.4,
+      "is_active": true,
+      "created_at": "2025-09-26T08:00:00",
+      "updated_at": "2025-09-26T08:00:00"
+    },
+    {
+      "product_id": "PRD-0027",
+      "sku": "SKU-PHARM-0027",
+      "product_name": "Ibuprofen 200mg Rapid Action Caplets [Batch Series 27]",
+      "category": "PHARMACEUTICAL",
+      "unit_of_measure": "BOXES",
+      "shelf_life_days": 1095,
+      "standard_cost": 5.25,
+      "is_active": true,
+      "created_at": "2025-08-28T08:00:00",
+      "updated_at": "2025-08-28T08:00:00"
+    },
+    {
+      "product_id": "PRD-0028",
+      "sku": "SKU-PHARM-0028",
+      "product_name": "Metformin HCl 500mg Extended Release [Batch Series 28]",
+      "category": "PHARMACEUTICAL",
+      "unit_of_measure": "BOTTLES",
+      "shelf_life_days": 730,
+      "standard_cost": 7.1,
+      "is_active": true,
+      "created_at": "2025-08-27T08:00:00",
+      "updated_at": "2025-08-27T08:00:00"
+    },
+    {
+      "product_id": "PRD-0029",
+      "sku": "SKU-NUTRA-0029",
+      "product_name": "Vitamin C 1000mg Effervescent Boost [Batch Series 29]",
+      "category": "NUTRACEUTICAL",
+      "unit_of_measure": "TUBES",
+      "shelf_life_days": 730,
+      "standard_cost": 4.5,
+      "is_active": true,
+      "created_at": "2025-09-12T08:00:00",
+      "updated_at": "2025-09-12T08:00:00"
+    },
+    {
+      "product_id": "PRD-0030",
+      "sku": "SKU-PHARM-0030",
+      "product_name": "Pediatric Cough & Cold Elixir 120ml [Batch Series 30]",
+      "category": "PHARMACEUTICAL",
+      "unit_of_measure": "BOTTLES",
+      "shelf_life_days": 540,
+      "standard_cost": 8.15,
+      "is_active": true,
+      "created_at": "2025-09-05T08:00:00",
+      "updated_at": "2025-09-05T08:00:00"
+    },
+    {
+      "product_id": "PRD-0031",
+      "sku": "SKU-PHARM-0031",
+      "product_name": "Acetaminophen 500mg Extra Strength Tablets [Batch Series 31]",
+      "category": "PHARMACEUTICAL",
+      "unit_of_measure": "BOTTLES",
+      "shelf_life_days": 730,
+      "standard_cost": 6.8,
+      "is_active": true,
+      "created_at": "2025-08-04T08:00:00",
+      "updated_at": "2025-08-04T08:00:00"
+    },
+    {
+      "product_id": "PRD-0032",
+      "sku": "SKU-PHARM-0032",
+      "product_name": "Amoxicillin 250mg Oral Suspension [Batch Series 32]",
+      "category": "PHARMACEUTICAL",
+      "unit_of_measure": "BOTTLES",
+      "shelf_life_days": 365,
+      "standard_cost": 9.4,
+      "is_active": true,
+      "created_at": "2025-08-29T08:00:00",
+      "updated_at": "2025-08-29T08:00:00"
+    },
+    {
+      "product_id": "PRD-0033",
+      "sku": "SKU-PHARM-0033",
+      "product_name": "Ibuprofen 200mg Rapid Action Caplets [Batch Series 33]",
+      "category": "PHARMACEUTICAL",
+      "unit_of_measure": "BOXES",
+      "shelf_life_days": 1095,
+      "standard_cost": 5.25,
+      "is_active": true,
+      "created_at": "2025-09-09T08:00:00",
+      "updated_at": "2025-09-09T08:00:00"
+    },
+    {
+      "product_id": "PRD-0034",
+      "sku": "SKU-PHARM-0034",
+      "product_name": "Metformin HCl 500mg Extended Release [Batch Series 34]",
+      "category": "PHARMACEUTICAL",
+      "unit_of_measure": "BOTTLES",
+      "shelf_life_days": 730,
+      "standard_cost": 7.1,
+      "is_active": true,
+      "created_at": "2025-07-15T08:00:00",
+      "updated_at": "2025-07-15T08:00:00"
+    },
+    {
+      "product_id": "PRD-0035",
+      "sku": "SKU-NUTRA-0035",
+      "product_name": "Vitamin C 1000mg Effervescent Boost [Batch Series 35]",
+      "category": "NUTRACEUTICAL",
+      "unit_of_measure": "TUBES",
+      "shelf_life_days": 730,
+      "standard_cost": 4.5,
+      "is_active": true,
+      "created_at": "2025-07-29T08:00:00",
+      "updated_at": "2025-07-29T08:00:00"
+    },
+    {
+      "product_id": "PRD-0036",
+      "sku": "SKU-PHARM-0036",
+      "product_name": "Pediatric Cough & Cold Elixir 120ml [Batch Series 36]",
+      "category": "PHARMACEUTICAL",
+      "unit_of_measure": "BOTTLES",
+      "shelf_life_days": 540,
+      "standard_cost": 8.15,
+      "is_active": true,
+      "created_at": "2025-08-20T08:00:00",
+      "updated_at": "2025-08-20T08:00:00"
+    },
+    {
+      "product_id": "PRD-0037",
+      "sku": "SKU-PHARM-0037",
+      "product_name": "Acetaminophen 500mg Extra Strength Tablets [Batch Series 37]",
+      "category": "PHARMACEUTICAL",
+      "unit_of_measure": "BOTTLES",
+      "shelf_life_days": 730,
+      "standard_cost": 6.8,
+      "is_active": true,
+      "created_at": "2025-07-18T08:00:00",
+      "updated_at": "2025-07-18T08:00:00"
+    },
+    {
+      "product_id": "PRD-0038",
+      "sku": "SKU-PHARM-0038",
+      "product_name": "Amoxicillin 250mg Oral Suspension [Batch Series 38]",
+      "category": "PHARMACEUTICAL",
+      "unit_of_measure": "BOTTLES",
+      "shelf_life_days": 365,
+      "standard_cost": 9.4,
+      "is_active": true,
+      "created_at": "2025-10-10T08:00:00",
+      "updated_at": "2025-10-10T08:00:00"
+    },
+    {
+      "product_id": "PRD-0039",
+      "sku": "SKU-PHARM-0039",
+      "product_name": "Ibuprofen 200mg Rapid Action Caplets [Batch Series 39]",
+      "category": "PHARMACEUTICAL",
+      "unit_of_measure": "BOXES",
+      "shelf_life_days": 1095,
+      "standard_cost": 5.25,
+      "is_active": true,
+      "created_at": "2025-09-18T08:00:00",
+      "updated_at": "2025-09-18T08:00:00"
+    },
+    {
+      "product_id": "PRD-0040",
+      "sku": "SKU-PHARM-0040",
+      "product_name": "Metformin HCl 500mg Extended Release [Batch Series 40]",
       "category": "PHARMACEUTICAL",
       "unit_of_measure": "BOTTLES",
       "shelf_life_days": 730,

@@ -1,29 +1,29 @@
 {
   "project_name": "LotTrace AI",
   "generation_seed": 20261022,
-  "manifest_generated_at": "2026-10-31T17:45:07.034347",
+  "manifest_generated_at": "2026-10-31T18:30:27.684208",
   "dataset_row_counts": {
-    "total_suppliers": 25,
-    "total_products": 10,
-    "total_boms": 20,
-    "total_material_lots": 200,
-    "total_production_orders": 100,
-    "total_finished_lots": 150,
-    "total_shipments": 120,
-    "total_deliveries": 360,
-    "total_customers": 50,
-    "total_recalls": 3
+    "total_suppliers": 500,
+    "total_products": 40,
+    "total_boms": 80,
+    "total_material_lots": 10000,
+    "total_production_orders": 5000,
+    "total_finished_lots": 8000,
+    "total_shipments": 7500,
+    "total_deliveries": 20000,
+    "total_customers": 1500,
+    "total_recalls": 12
   },
   "data_quality_summary": {
     "primary_key_integrity_pct": 100.0,
     "foreign_key_integrity_pct": 100.0,
     "duplicate_rate_pct": 0.0,
-    "date_consistency_rate_pct": 99.69,
-    "quantity_reconciliation_rate_pct": 99.69,
-    "overall_validation_pass_rate_pct": 99.69,
-    "total_checks_evaluated": 1637,
-    "passed_checks": 1632,
-    "failed_checks": 5
+    "date_consistency_rate_pct": 99.99,
+    "quantity_reconciliation_rate_pct": 99.99,
+    "overall_validation_pass_rate_pct": 99.99,
+    "total_checks_evaluated": 86057,
+    "passed_checks": 86046,
+    "failed_checks": 11
   },
   "total_exported_files": 61,
   "files": [
@@ -31,442 +31,442 @@
       "format": "CSV",
       "file_name": "bom_materials.csv",
       "relative_path": "data/generated/csv/bom_materials.csv",
-      "size_bytes": 6079,
-      "sha256_checksum": "5710f9d95aab12f6e2f12dd13abf0868be2597e1de3f19ef917bcccdc57138cc"
+      "size_bytes": 24522,
+      "sha256_checksum": "f3704760d6b93214fa1a7a06b3d8c191fddff146a915382282e4a6920311d939"
     },
     {
       "format": "CSV",
       "file_name": "boms.csv",
       "relative_path": "data/generated/csv/boms.csv",
-      "size_bytes": 2390,
-      "sha256_checksum": "c059834d6b42b9f9e1c2a9e46982e85d0b7ab5dead8269b4a54b6bf91623882b"
+      "size_bytes": 9200,
+      "sha256_checksum": "959ed7b50f5afe6e446f7cba6c822b869e936221735aa65f1c8805fb8f84f729"
     },
     {
       "format": "CSV",
       "file_name": "customer_notifications.csv",
       "relative_path": "data/generated/csv/customer_notifications.csv",
-      "size_bytes": 4576,
-      "sha256_checksum": "a2cd941e51c500f34405a8647227ce245fcffda3354c56d9591e89cf5209e13f"
+      "size_bytes": 7577,
+      "sha256_checksum": "fe68d8ec9a3cf629b0ade14f48cbfd927213811326bc799de829db25dc061879"
     },
     {
       "format": "CSV",
       "file_name": "customers.csv",
       "relative_path": "data/generated/csv/customers.csv",
-      "size_bytes": 9366,
-      "sha256_checksum": "2e1f4bb9270e1d6126c93f1b1bb00582e402d6e09027a570cb3fb53a4bfc3e44"
+      "size_bytes": 281022,
+      "sha256_checksum": "0d0203f79c0e1768e8c2826e638d68ffadd50e5b675899ff2606c55d99ec7849"
     },
     {
       "format": "CSV",
       "file_name": "deliveries.csv",
       "relative_path": "data/generated/csv/deliveries.csv",
-      "size_bytes": 65156,
-      "sha256_checksum": "8d4d06bcc1565909622483f313be8e9cf2d6a42b5b1dd2dbfab1e2fa53e74c64"
+      "size_bytes": 3649164,
+      "sha256_checksum": "1c2bdc4f6971b77d5d66438208c01257ae509d7116ed6bf474b7d866e3c41a08"
     },
     {
       "format": "CSV",
       "file_name": "finished_lots.csv",
       "relative_path": "data/generated/csv/finished_lots.csv",
-      "size_bytes": 32391,
-      "sha256_checksum": "7f9c9b289925c2b078acff400ac5783b6ddd914cb6e9e54dce7d965f27383965"
+      "size_bytes": 1720227,
+      "sha256_checksum": "f9f457d48cfe75001fe03ea7c551de01fd4fd49b8dce968cb70ce23163877f2d"
     },
     {
       "format": "CSV",
       "file_name": "inventories.csv",
       "relative_path": "data/generated/csv/inventories.csv",
-      "size_bytes": 56078,
-      "sha256_checksum": "fe1aca6f7d9504bceaf5f3c49f6f133860d58ed4a46f1981ec8e0f4fc1d1f9cd"
+      "size_bytes": 2874129,
+      "sha256_checksum": "b563948e247c08ebdc5df10d46159ebef7f36f702f4dc89d516ecc6d111a3b5d"
     },
     {
       "format": "CSV",
       "file_name": "inventory_events.csv",
       "relative_path": "data/generated/csv/inventory_events.csv",
-      "size_bytes": 167260,
-      "sha256_checksum": "ff3cc2efbf1def701595bd9882e2ec116625ebd5bcd393f998c0273553b4c9a1"
+      "size_bytes": 8684518,
+      "sha256_checksum": "0fe9e08b3a4b22f76c5a63fdaa35db6dec098dc4acfa63069935fe07efe1204b"
     },
     {
       "format": "CSV",
       "file_name": "lot_genealogies.csv",
       "relative_path": "data/generated/csv/lot_genealogies.csv",
-      "size_bytes": 73902,
-      "sha256_checksum": "2419a9985727f1d856002984f59346a10ab544a688537d8a35f940cd7adcb86f"
+      "size_bytes": 3984102,
+      "sha256_checksum": "ac3b818bf7a06a6b51043bc7a059d0a29e2327a949d186d1b09be4a11a9a83e7"
     },
     {
       "format": "CSV",
       "file_name": "material_lots.csv",
       "relative_path": "data/generated/csv/material_lots.csv",
-      "size_bytes": 44409,
-      "sha256_checksum": "f304aa183020cfe841098791cbba602e331829d07c86c5e2b2f4210612d89970"
+      "size_bytes": 2228795,
+      "sha256_checksum": "96b3d5fdf1c8979ed94085af9f147bf51567c8307ae62fdffd402d7dec0cefa1"
     },
     {
       "format": "CSV",
       "file_name": "production_consumptions.csv",
       "relative_path": "data/generated/csv/production_consumptions.csv",
-      "size_bytes": 36209,
-      "sha256_checksum": "8652472c2eb0dd33e5c74780844f62badb5180204cc2f34a36366e78b0b01bfd"
+      "size_bytes": 1826818,
+      "sha256_checksum": "07227fcae7fca2615654238564df412497d8811d3beb2b8aae6994c8cd998580"
     },
     {
       "format": "CSV",
       "file_name": "production_orders.csv",
       "relative_path": "data/generated/csv/production_orders.csv",
-      "size_bytes": 22551,
-      "sha256_checksum": "e7e24ee1a395de8f5d175c0b8d5436b4979d1874ad2d0e4ae846a2b254b001d4"
+      "size_bytes": 1121641,
+      "sha256_checksum": "c678066442f3b69d61ba661915d296342e4e5abb85f4b6468ff8b5851844a563"
     },
     {
       "format": "CSV",
       "file_name": "products.csv",
       "relative_path": "data/generated/csv/products.csv",
-      "size_bytes": 1669,
-      "sha256_checksum": "1d4d50a3489b171ac89f7cd4d79c06304c94212d443f480a35dc22dc4fd33834"
+      "size_bytes": 6344,
+      "sha256_checksum": "b06564ec50a04c175133422dbfb148c5169461b27e2bda4eebc1b0ce1dea3e52"
     },
     {
       "format": "CSV",
       "file_name": "recall_actions.csv",
       "relative_path": "data/generated/csv/recall_actions.csv",
-      "size_bytes": 7367,
-      "sha256_checksum": "9d33438b03f662de00dc55b38c56abb7cbdd2b194508bd332b0f13c208ac8d1a"
+      "size_bytes": 12515,
+      "sha256_checksum": "b3bf7cfb7150912cec2313b5b3d00d177bf598df143a9abab3932bce8ddf14a5"
     },
     {
       "format": "CSV",
       "file_name": "recall_cases.csv",
       "relative_path": "data/generated/csv/recall_cases.csv",
-      "size_bytes": 1300,
-      "sha256_checksum": "b4305f744ff9462ad203e18f1460fff81b7ed174efa818219336747f49b37696"
+      "size_bytes": 3918,
+      "sha256_checksum": "6874b5e2531afe8434769a04f1abadc0d2689a2973861d650afebb6e374cbb43"
     },
     {
       "format": "CSV",
       "file_name": "recall_events.csv",
       "relative_path": "data/generated/csv/recall_events.csv",
-      "size_bytes": 1585,
-      "sha256_checksum": "a620d56cb4ae46881eb430aa71ae9efa35bbd6163cc6d660f0028fabe07a7d8d"
+      "size_bytes": 8784,
+      "sha256_checksum": "72f2f27c7f232bf1e86f906ae79662c0053bf27d7329f24a38bbfa416327058d"
     },
     {
       "format": "CSV",
       "file_name": "shipment_items.csv",
       "relative_path": "data/generated/csv/shipment_items.csv",
-      "size_bytes": 8468,
-      "sha256_checksum": "004ee349cc99e21b9195017e5c9c2a1fbfae3b423d372257a5e419a067c93592"
+      "size_bytes": 524238,
+      "sha256_checksum": "ed259e65f47222e51dd3b3923755e760aad7addfa98218c1453c80526d72d761"
     },
     {
       "format": "CSV",
       "file_name": "shipments.csv",
       "relative_path": "data/generated/csv/shipments.csv",
-      "size_bytes": 18476,
-      "sha256_checksum": "8e6c97a335734db0bbe03ed3f5dd3a04cc6e0038e7b4f00284bcdb4b69e75d58"
+      "size_bytes": 1150120,
+      "sha256_checksum": "b2b392c80cae7e0613d9f40db1763c1b1883e9e9472d10e0ca0176aaf88d6003"
     },
     {
       "format": "CSV",
       "file_name": "suppliers.csv",
       "relative_path": "data/generated/csv/suppliers.csv",
-      "size_bytes": 4898,
-      "sha256_checksum": "50a97cc086473a7a13f72c07de29cc1edba3da5b68604232eef591ee5e8b436c"
+      "size_bytes": 96256,
+      "sha256_checksum": "44e29a35c60e51a99bbf8cb02b4c71079a91ecc6c5101f8538e757f4fc79eae6"
     },
     {
       "format": "CSV",
       "file_name": "validation_issues.csv",
       "relative_path": "data/generated/csv/validation_issues.csv",
       "size_bytes": 1068,
-      "sha256_checksum": "7941c464af29f17ffa60a939c18ffed9d9e6f624e5c3b04c3dd16b0a7e16d69e"
+      "sha256_checksum": "8c80ba446415a2fdf4917096d1601ddb31c41e67fa34df6bddbc732403816f8f"
     },
     {
       "format": "JSON",
       "file_name": "bom_materials.json",
       "relative_path": "data/generated/json/bom_materials.json",
-      "size_bytes": 21398,
-      "sha256_checksum": "cd64ee2b69c368d69fad00a211401d598ecd44720cd5558ee11c1a856e8ca327"
+      "size_bytes": 86592,
+      "sha256_checksum": "705d3eb5a7f70b2081f2af12c727cc7adf2c3f91d19307e49b6463116ae835a3"
     },
     {
       "format": "JSON",
       "file_name": "boms.json",
       "relative_path": "data/generated/json/boms.json",
-      "size_bytes": 7476,
-      "sha256_checksum": "22293cc435354ae8cbd169c8978d12592ad7d47f0f0082c4576616db2b0626f6"
+      "size_bytes": 29706,
+      "sha256_checksum": "48146515f47afbd39833b0a30b36a579b8c5c8a4f4721ab2af2c3b5977014ae4"
     },
     {
       "format": "JSON",
       "file_name": "customer_notifications.json",
       "relative_path": "data/generated/json/customer_notifications.json",
-      "size_bytes": 9618,
-      "sha256_checksum": "22e094148f942f551a85029c924cced69b2ca2b5d7c98bd5086453603b7ab9a3"
+      "size_bytes": 16039,
+      "sha256_checksum": "99fab76f7ed4f8df7639f04b04e0bc82624c4a26aeea431356ba78baf3700d3d"
     },
     {
       "format": "JSON",
       "file_name": "customers.json",
       "relative_path": "data/generated/json/customers.json",
-      "size_bytes": 23067,
-      "sha256_checksum": "3b1b7b5e02c6afdfe363465f1f1fb0601096f4e5b83e79e402a06e5f672aaa96"
+      "size_bytes": 693475,
+      "sha256_checksum": "c72b4596c9a9d7c76213d6325efea7da2441807549c409e99e5dbccad1abff1c"
     },
     {
       "format": "JSON",
       "file_name": "deliveries.json",
       "relative_path": "data/generated/json/deliveries.json",
-      "size_bytes": 160504,
-      "sha256_checksum": "a07fd943be1332a6fa23174c8e98b52139f67808b2eb0f5b2b50f0df3c896494"
+      "size_bytes": 8949114,
+      "sha256_checksum": "e81aadda6199e0475105e7e61f43008a56d96e6f59e5af7cea5757b7ebe96365"
     },
     {
       "format": "JSON",
       "file_name": "finished_lots.json",
       "relative_path": "data/generated/json/finished_lots.json",
-      "size_bytes": 86729,
-      "sha256_checksum": "a7ba2be6846d9b2c5555710acec708c18decceeeef11e16a5f8d86af3d464b64"
+      "size_bytes": 4624116,
+      "sha256_checksum": "d4889283f51737c8519e5e4fc556344b1b43ec88cdb1f0647bad8183c7dd3b75"
     },
     {
       "format": "JSON",
       "file_name": "inventories.json",
       "relative_path": "data/generated/json/inventories.json",
-      "size_bytes": 167645,
-      "sha256_checksum": "7cfdaeecd2f5146b4f5f062ca74d77e9cc551256c16d0406a4aa9dca46425b02"
+      "size_bytes": 8616048,
+      "sha256_checksum": "1eee095359bf7cda6a4e7bdf08745cc340738237ee8cfb67e3eaea3e7f4c66a3"
     },
     {
       "format": "JSON",
       "file_name": "inventory_events.json",
       "relative_path": "data/generated/json/inventory_events.json",
-      "size_bytes": 396323,
-      "sha256_checksum": "ad85667bf85a7d0bd27bc66cf7384d57491eba72edc1fe2d8c92990bddf35635"
+      "size_bytes": 20620075,
+      "sha256_checksum": "29c34c707db748a7cfc5e60bd8d9aa886de1a3ba5d8b398c96106a3d7535e829"
     },
     {
       "format": "JSON",
       "file_name": "lot_genealogies.json",
       "relative_path": "data/generated/json/lot_genealogies.json",
-      "size_bytes": 198723,
-      "sha256_checksum": "3c008e3291ba13e1edb028511375f422e178001a3a49d951310c7767974fa32a"
+      "size_bytes": 10723680,
+      "sha256_checksum": "8c7e9e7562defcd075dd42b7f1728f0c5565845b61c0d9333ad09db799a07de5"
     },
     {
       "format": "JSON",
       "file_name": "material_lots.json",
       "relative_path": "data/generated/json/material_lots.json",
-      "size_bytes": 125080,
-      "sha256_checksum": "88942bd57383b240aa1bba71a199a9d8974a3b0dbccc42829d95df209294d430"
+      "size_bytes": 6268668,
+      "sha256_checksum": "7a31f53e1513d4f212d0dc0f3c0784510d490c47bbf6d88a47d3f413e963c3e3"
     },
     {
       "format": "JSON",
       "file_name": "production_consumptions.json",
       "relative_path": "data/generated/json/production_consumptions.json",
-      "size_bytes": 114502,
-      "sha256_checksum": "68aac4010992a93accb6189cc94bde39ffef61bec754bc997a41525c278a115d"
+      "size_bytes": 5790053,
+      "sha256_checksum": "0e01a4e2c9d22676a5bb06299bf2a49f6c24bd33863d8d0cbb2d0158434cc355"
     },
     {
       "format": "JSON",
       "file_name": "production_orders.json",
       "relative_path": "data/generated/json/production_orders.json",
-      "size_bytes": 55773,
-      "sha256_checksum": "e808bbbca1192fb0a555b72092f85a4d525be190fd1f62999f5988382d642918"
+      "size_bytes": 2786564,
+      "sha256_checksum": "ab0a8d8150b49445a87ea7ce1ed9372678640de762522805a4dda377d9100a68"
     },
     {
       "format": "JSON",
       "file_name": "products.json",
       "relative_path": "data/generated/json/products.json",
-      "size_bytes": 4143,
-      "sha256_checksum": "2f41da803438c599037671fc67e2ca4ad989abc9bc56ead9516574e99457da7c"
+      "size_bytes": 16378,
+      "sha256_checksum": "0aa53e2abaead30fb2a787778a7c41d33509c8b5d1db0526c7662d55c946fede"
     },
     {
       "format": "JSON",
       "file_name": "recall_actions.json",
       "relative_path": "data/generated/json/recall_actions.json",
-      "size_bytes": 14833,
-      "sha256_checksum": "7b0a33cf92143e95f413bc72e317e5d13f0ca195bdb2f0e11293207584fb2ea7"
+      "size_bytes": 25319,
+      "sha256_checksum": "df56dd6ee1a123a01ecb8f0849fae1428987bbe42f8697ee2d0d3424ac74c7a8"
     },
     {
       "format": "JSON",
       "file_name": "recall_cases.json",
       "relative_path": "data/generated/json/recall_cases.json",
-      "size_bytes": 3054,
-      "sha256_checksum": "702f11ac4f1bf4e293d8cdb7807f436ec178942f2985390942f6502ba0dddc14"
+      "size_bytes": 11933,
+      "sha256_checksum": "b379f228fe80e0186030caba08467cdd55d68b01840237847df853674373ac0f"
     },
     {
       "format": "JSON",
       "file_name": "recall_events.json",
       "relative_path": "data/generated/json/recall_events.json",
-      "size_bytes": 3222,
-      "sha256_checksum": "adea8461bf21b35986bc02d56120d92a241d61dcc66cb176a9c04f167249a454"
+      "size_bytes": 18054,
+      "sha256_checksum": "a6667f15f498345e62e3b82b0aca869bac50cb50ba3d9da5dd70809bccfbe512"
     },
     {
       "format": "JSON",
       "file_name": "shipment_items.json",
       "relative_path": "data/generated/json/shipment_items.json",
-      "size_bytes": 25875,
-      "sha256_checksum": "dce64fbdcca1e82a6517dd46fb4c7a41638b9dff596928297efbc758db4a0561"
+      "size_bytes": 1611746,
+      "sha256_checksum": "821816c04c4aae8dc81c0ca20d478520d7319076b4f857b13627165186869917"
     },
     {
       "format": "JSON",
       "file_name": "shipments.json",
       "relative_path": "data/generated/json/shipments.json",
-      "size_bytes": 50104,
-      "sha256_checksum": "b0addea50712519b1c83555b027da15068d5a397d4756f660dd7b6251fd8010a"
+      "size_bytes": 3130069,
+      "sha256_checksum": "459cbd9f4352e760360ed0904efe17b04498c536597b8ce40d36a1d31b1b4c18"
     },
     {
       "format": "JSON",
       "file_name": "suppliers.json",
       "relative_path": "data/generated/json/suppliers.json",
-      "size_bytes": 11580,
-      "sha256_checksum": "0f1f0b406093d931d1f61b375db84a0b0aa9de6b84c4c497201ee46379478dd6"
+      "size_bytes": 230714,
+      "sha256_checksum": "be036917865bce7e3b1317d93cb986014f8cb4c0fb7226cea34892cb421179e6"
     },
     {
       "format": "JSON",
       "file_name": "validation_issues.json",
       "relative_path": "data/generated/json/validation_issues.json",
       "size_bytes": 2112,
-      "sha256_checksum": "44687651b3de85d825a98734fac14a67e5ce8b18abdb2768d95bcc9e1922d7c1"
+      "sha256_checksum": "92d91677881961fa7ac4641cd1a39a32656224ab77e045d4c1de1ddcccde2860"
     },
     {
       "format": "SQL",
       "file_name": "bom_materials.sql",
       "relative_path": "data/generated/sql/bom_materials.sql",
-      "size_bytes": 19216,
-      "sha256_checksum": "a33b7121a150365093949f0edaa613747c5ac13794d7c13564d2faa04110bad6"
+      "size_bytes": 77909,
+      "sha256_checksum": "bcd04823ebe3dc9fdb27a2b8648e91c2beeb6b03a8e7b1b1372c929819ce1c87"
     },
     {
       "format": "SQL",
       "file_name": "boms.sql",
       "relative_path": "data/generated/sql/boms.sql",
-      "size_bytes": 6306,
-      "sha256_checksum": "5c131c3a067ed2205582fe8d5448c9e09bd20e360eb344d4999bde7900c0998b"
+      "size_bytes": 25176,
+      "sha256_checksum": "f658be1e5729c7cb5e8db1b949759286d21612641911c164e4e8f2e7748cca4b"
     },
     {
       "format": "SQL",
       "file_name": "customer_notifications.sql",
       "relative_path": "data/generated/sql/customer_notifications.sql",
-      "size_bytes": 8788,
-      "sha256_checksum": "dd21f1dcfeca65619e78f68ac0bfb00e61d7f0b304235272b009a846c6d1a623"
+      "size_bytes": 14689,
+      "sha256_checksum": "bf60047622d044f78d3ab14815ca088c6b67476d09a6e5f26e42b8d4c0deb20a"
     },
     {
       "format": "SQL",
       "file_name": "customers.sql",
       "relative_path": "data/generated/sql/customers.sql",
-      "size_bytes": 20117,
-      "sha256_checksum": "d3224e29ea39c3a8043ac93079c96452c01ad65f5bc95ebd740d5d0bd11fc65f"
+      "size_bytes": 606423,
+      "sha256_checksum": "0e9e6fda0b485af4241a1758e3a35f156655580d71e645b73d4506b6eb1eb7db"
     },
     {
       "format": "SQL",
       "file_name": "deliveries.sql",
       "relative_path": "data/generated/sql/deliveries.sql",
-      "size_bytes": 142453,
-      "sha256_checksum": "97e6748045cf750cab4a94b92a543d672eb39245767de158d96b58e69c1d4d9f"
+      "size_bytes": 7949061,
+      "sha256_checksum": "ada85cfe4b8470ea98b5a94e0b0fc64fc9f79d12b5a7e099ce41f3bc8d8474aa"
     },
     {
       "format": "SQL",
       "file_name": "finished_lots.sql",
       "relative_path": "data/generated/sql/finished_lots.sql",
-      "size_bytes": 76478,
-      "sha256_checksum": "dfcd91e907d5b2f24e0e3a95036441b59735fd132a118f2cccb098d4df26a570"
+      "size_bytes": 4080064,
+      "sha256_checksum": "00a4bca4acf7505338e5680e6335f4b75a13e736cc3accab7e60130541c40f74"
     },
     {
       "format": "SQL",
       "file_name": "inventories.sql",
       "relative_path": "data/generated/sql/inventories.sql",
-      "size_bytes": 145544,
-      "sha256_checksum": "9308cff0ca87f0380a41285fa289f575103d92602b1c1ad3ced788b3b3547e6e"
+      "size_bytes": 7481995,
+      "sha256_checksum": "15c833e5c16c8b81577f9d5466759ad963eea75e67f8db6ad6e4014750c72a20"
     },
     {
       "format": "SQL",
       "file_name": "inventory_events.sql",
       "relative_path": "data/generated/sql/inventory_events.sql",
-      "size_bytes": 357200,
-      "sha256_checksum": "a012f6b07e1fe181dcbb9a647a99bbb2b5f61d689fbdf6b60b41fc09cb19cdd5"
+      "size_bytes": 18584494,
+      "sha256_checksum": "894f57de00b1704a3431011a16d04665eb021695f071d73d4c3933dc3c514bc4"
     },
     {
       "format": "SQL",
       "file_name": "lot_genealogies.sql",
       "relative_path": "data/generated/sql/lot_genealogies.sql",
-      "size_bytes": 183912,
-      "sha256_checksum": "cb504ff5a01f8d164d974ded9d8e87b0f495abcf7f410e2db93f147127642601"
+      "size_bytes": 9926827,
+      "sha256_checksum": "218affd69412d8f1d6ae53599a9c774a6f31a828b0d89a10666255ef7a24c0f7"
     },
     {
       "format": "SQL",
       "file_name": "lottrace_dump.sql",
       "relative_path": "data/generated/sql/lottrace_dump.sql",
-      "size_bytes": 1331696,
-      "sha256_checksum": "82d7ea7f5a18476518eb07ce6d3a6232a52b687c7762df2ea20ee76363912a47"
+      "size_bytes": 66809349,
+      "sha256_checksum": "a1b61ef8a39e328efe359fa9273ee4c787d5bee2107236e0f1a595162dcdf665"
     },
     {
       "format": "SQL",
       "file_name": "material_lots.sql",
       "relative_path": "data/generated/sql/material_lots.sql",
-      "size_bytes": 108629,
-      "sha256_checksum": "8e1438fb2b49cf2d79043bc5483eb043d492b31bf2fabd413533cf106a95ca8b"
+      "size_bytes": 5448615,
+      "sha256_checksum": "a8e986d81ad70fd5678976a9d6d5c313697b3dc387ee088482b02b47274f201b"
     },
     {
       "format": "SQL",
       "file_name": "production_consumptions.sql",
       "relative_path": "data/generated/sql/production_consumptions.sql",
-      "size_bytes": 110761,
-      "sha256_checksum": "b77763c0ab52782857abbc648b0e9bfa6b13b1e3b6cde727cbb1f29fa2d4c257"
+      "size_bytes": 5603250,
+      "sha256_checksum": "02b5594ec4aaff212bcbdad0a708263a1117725e992e1a0f65f86e637d50ce23"
     },
     {
       "format": "SQL",
       "file_name": "production_orders.sql",
       "relative_path": "data/generated/sql/production_orders.sql",
-      "size_bytes": 49322,
-      "sha256_checksum": "d386576d54fe307a3479d7d84448582daf51099469ca981c8d07b6eba5c0b403"
+      "size_bytes": 2466512,
+      "sha256_checksum": "1e6e47c6cc9a592b59bea6dcfbe5aba92f0deebd22bb2a7c553ece0a2e9fb6ce"
     },
     {
       "format": "SQL",
       "file_name": "products.sql",
       "relative_path": "data/generated/sql/products.sql",
-      "size_bytes": 3573,
-      "sha256_checksum": "1b1ed4a68b1fd448bc3f85c888cf874bb19448e02a319307aa69ae14c75a9c9c"
+      "size_bytes": 14248,
+      "sha256_checksum": "5dd9041fc8f739eb9de952152f78bfcf89ad287d78a5237315b8de250f3b172a"
     },
     {
       "format": "SQL",
       "file_name": "recall_actions.sql",
       "relative_path": "data/generated/sql/recall_actions.sql",
-      "size_bytes": 13343,
-      "sha256_checksum": "c281641d90459c4ba7bf0fbcbf7aec46c5f84712cb5ec26204a0253eaa6940b7"
+      "size_bytes": 22809,
+      "sha256_checksum": "89cac07d0a40753ef28a6d402dc30af87b63a74da9c6c5a5173bf6d88876272a"
     },
     {
       "format": "SQL",
       "file_name": "recall_cases.sql",
       "relative_path": "data/generated/sql/recall_cases.sql",
-      "size_bytes": 2588,
-      "sha256_checksum": "1cfd6a76c7f42bdc2f6cb8708b8bd044c082e48158fac0e9dc1570051ab92988"
+      "size_bytes": 10215,
+      "sha256_checksum": "4d75f52315802c9b2c46a16f922d08e31c95569c281b60eea0468c811b71d1e7"
     },
     {
       "format": "SQL",
       "file_name": "recall_events.sql",
       "relative_path": "data/generated/sql/recall_events.sql",
-      "size_bytes": 2939,
-      "sha256_checksum": "faae721dee6ecaa67c4477977b1c5bfffc29e3350fbe1c682d81157a214b7c10"
+      "size_bytes": 16678,
+      "sha256_checksum": "59850dc83e716ea9480034f39d96c594e9df23cb6cea7132a7c4dc68cf908d0a"
     },
     {
       "format": "SQL",
       "file_name": "shipment_items.sql",
       "relative_path": "data/generated/sql/shipment_items.sql",
-      "size_bytes": 24504,
-      "sha256_checksum": "68fde6edae45a1a4173bb733b9ce27999181eb9c362b8017014b86c4627746fb"
+      "size_bytes": 1529194,
+      "sha256_checksum": "e226e0065d771ca9c2abef62c09c6d056e9ae659a05e12f1e37faf122082312e"
     },
     {
       "format": "SQL",
       "file_name": "shipments.sql",
       "relative_path": "data/generated/sql/shipments.sql",
-      "size_bytes": 43933,
-      "sha256_checksum": "6841edcfeecd4437bd7d65af5b7762718dd555fbd1b90148fd405b9c627c9346"
+      "size_bytes": 2747517,
+      "sha256_checksum": "917ade3444c0e5b18c1a4146302fd3f389c94b97efa57f0032403c1eb8f898bb"
     },
     {
       "format": "SQL",
       "file_name": "suppliers.sql",
       "relative_path": "data/generated/sql/suppliers.sql",
-      "size_bytes": 10080,
-      "sha256_checksum": "a86f6b2b2602da8a4f423ca83b91807ade26f9dc2a0df8ba833c7d8283839990"
+      "size_bytes": 201663,
+      "sha256_checksum": "f4f43a6e777bb7c47fd48bf9ba681d90c828397b8a801e7bb157131d0148c4e2"
     },
     {
       "format": "SQL",
       "file_name": "validation_issues.sql",
       "relative_path": "data/generated/sql/validation_issues.sql",
       "size_bytes": 1891,
-      "sha256_checksum": "b001be83d5a6cac27985897fc9c814ea90978f72465d73bd9afe2955e688b3b2"
+      "sha256_checksum": "9d511febaec506d99f21747938123782df30528887a406acfc97960e6a607c23"
     }
   ],
   "ground_truth_manifest": [
     {
       "file_name": "ground_truth.csv",
       "relative_path": "data/ground_truth/ground_truth.csv",
-      "size_bytes": 2394,
-      "sha256_checksum": "e848331bb741df4763b1e627158f4656a204e3a60401159e85ca26dab9aae351"
+      "size_bytes": 4706,
+      "sha256_checksum": "976f9cce35d6a15b44a717819556286a04fbebc2fd5060447748c134bcee0752"
     },
     {
       "file_name": "ground_truth.json",
       "relative_path": "data/ground_truth/ground_truth.json",
-      "size_bytes": 4270,
-      "sha256_checksum": "eb9905c7f1190bed33793eac1b29682faf4753884cd9aeeb6ba314368d810b66"
+      "size_bytes": 8442,
+      "sha256_checksum": "c1aaf01a267bbc9733f49e12d8de519e405efe16d9d3581c53d0295c87dc9b1d"
     }
   ]
 }

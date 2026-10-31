@@ -20,8 +20,8 @@
       "entity_id": "DEL-2026-000001",
       "issue_type": "DELIVERED_EXCEEDS_PRODUCED",
       "severity": "CRITICAL",
-      "expected_value": "Delivery quantity <= produced 171.13",
-      "actual_value": "Delivered quantity 671.13",
+      "expected_value": "Delivery quantity <= produced 280.27",
+      "actual_value": "Delivered quantity 780.27",
       "validation_status": "FAILED",
       "detected_at": "2026-04-16T08:00:00",
       "ground_truth_label": "ANOMALY_B_DELIVERY_EXCEEDS_PRODUCED"
@@ -41,7 +41,7 @@
     {
       "validation_id": "VAL-2026-000004",
       "entity_name": "Inventory",
-      "entity_id": "INV-2026-000203",
+      "entity_id": "INV-2026-010003",
       "issue_type": "RECALLED_INVENTORY_AVAILABLE_FOR_SALE",
       "severity": "CRITICAL",
       "expected_value": "Inventory status = QUARANTINED, quantity_quarantined > 0",

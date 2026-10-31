@@ -440,9 +440,12 @@ class DataGenerator:
                 self.inventory_events.append(raw_inv_evt)
 
             # Generate Finished Lots for this work order
-            num_lots_for_this_wo = 1
-            if fin_lot_idx < finished_lots_count and (finished_lots_count - fin_lot_idx) > (orders_count - wo_idx):
-                num_lots_for_this_wo = min(2, finished_lots_count - fin_lot_idx + 1)
+            remaining_orders = orders_count - wo_idx + 1
+            remaining_lots = finished_lots_count - len(self.finished_lots)
+            num_lots_for_this_wo = remaining_lots // remaining_orders
+            if remaining_lots % remaining_orders > 0:
+                num_lots_for_this_wo += 1
+            num_lots_for_this_wo = max(1, num_lots_for_this_wo)
 
             qty_per_lot = round(produced_qty / num_lots_for_this_wo, 2)
 
@@ -644,9 +647,12 @@ class DataGenerator:
             self.inventory_events.append(inv_evt)
 
             # Generate Deliveries for this shipment
-            deliveries_for_shp = deliveries_per_shipment
-            if del_idx < deliveries_count and (deliveries_count - del_idx) > (shipments_count - shp_idx):
-                deliveries_for_shp = min(3, deliveries_count - del_idx + 1)
+            remaining_shipments = shipments_count - shp_idx + 1
+            remaining_deliveries = deliveries_count - len(self.deliveries)
+            deliveries_for_shp = remaining_deliveries // remaining_shipments
+            if remaining_deliveries % remaining_shipments > 0:
+                deliveries_for_shp += 1
+            deliveries_for_shp = max(1, deliveries_for_shp)
 
             qty_per_del = round(ship_qty / deliveries_for_shp, 2)
 
@@ -939,89 +945,77 @@ class DataGenerator:
 
         counts = {}
         with get_db_session() as session:
+            def insert_chunked(items, chunk_size=2000):
+                for i in range(0, len(items), chunk_size):
+                    session.add_all(items[i : i + chunk_size])
+                    session.flush()
+
             # 1. Suppliers
-            session.add_all(self.suppliers)
-            session.flush()
+            insert_chunked(self.suppliers)
             counts["suppliers"] = len(self.suppliers)
 
             # 2. Products
-            session.add_all(self.products)
-            session.flush()
+            insert_chunked(self.products)
             counts["products"] = len(self.products)
 
             # 3. BOMs
-            session.add_all(self.boms)
-            session.flush()
+            insert_chunked(self.boms)
             counts["boms"] = len(self.boms)
 
             # 4. Raw Material Lots
-            session.add_all(self.material_lots)
-            session.flush()
+            insert_chunked(self.material_lots)
             counts["material_lots"] = len(self.material_lots)
 
             # 5. Production Orders
-            session.add_all(self.production_orders)
-            session.flush()
+            insert_chunked(self.production_orders)
             counts["production_orders"] = len(self.production_orders)
 
             # 6. Production Consumptions
-            session.add_all(self.consumptions)
-            session.flush()
+            insert_chunked(self.consumptions)
             counts["production_consumptions"] = len(self.consumptions)
 
             # 7. Finished Lots
-            session.add_all(self.finished_lots)
-            session.flush()
+            insert_chunked(self.finished_lots)
             counts["finished_lots"] = len(self.finished_lots)
 
             # 8. Lot Genealogy
-            session.add_all(self.genealogies)
-            session.flush()
+            insert_chunked(self.genealogies)
             counts["lot_genealogies"] = len(self.genealogies)
 
             # 9. Customers
-            session.add_all(self.customers)
-            session.flush()
+            insert_chunked(self.customers)
             counts["customers"] = len(self.customers)
 
             # 10. Shipments
-            session.add_all(self.shipments)
-            session.flush()
+            insert_chunked(self.shipments)
             counts["shipments"] = len(self.shipments)
 
             # 11. Shipment Items
-            session.add_all(self.shipment_items)
-            session.flush()
+            insert_chunked(self.shipment_items)
             counts["shipment_items"] = len(self.shipment_items)
 
             # 12. Deliveries
-            session.add_all(self.deliveries)
-            session.flush()
+            insert_chunked(self.deliveries)
             counts["deliveries"] = len(self.deliveries)
 
             # 13. Inventories
-            session.add_all(self.inventories)
-            session.flush()
+            insert_chunked(self.inventories)
             counts["inventories"] = len(self.inventories)
 
             # 14. Inventory Events
-            session.add_all(self.inventory_events)
-            session.flush()
+            insert_chunked(self.inventory_events)
             counts["inventory_events"] = len(self.inventory_events)
 
             # 15. Recall Cases
-            session.add_all(self.recall_cases)
-            session.flush()
+            insert_chunked(self.recall_cases)
             counts["recall_cases"] = len(self.recall_cases)
 
             # 16. Recall Events
-            session.add_all(self.recall_events)
-            session.flush()
+            insert_chunked(self.recall_events)
             counts["recall_events"] = len(self.recall_events)
 
             # 17. Validation Issues
-            session.add_all(self.validation_issues)
-            session.flush()
+            insert_chunked(self.validation_issues)
             counts["validation_issues"] = len(self.validation_issues)
 
         return counts

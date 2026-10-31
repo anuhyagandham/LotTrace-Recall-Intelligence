@@ -74,6 +74,7 @@ def create_app() -> Flask:
     # ------------------------------------------------------------------------
     # Health & System Status
     # ------------------------------------------------------------------------
+    @app.route("/health", methods=["GET"])
     @app.route("/api/health", methods=["GET"])
     def health_check():
         """Health check endpoint verifying DB connectivity."""
@@ -273,6 +274,7 @@ def create_app() -> Flask:
     # Recall Management Endpoints
     # ------------------------------------------------------------------------
     @app.route("/api/recalls", methods=["GET"])
+    @app.route("/api/v1/recalls", methods=["GET"])
     def get_recalls():
         """Lists product recall cases with status and severity filters."""
         page = request.args.get("page", 1, type=int)
@@ -291,6 +293,7 @@ def create_app() -> Flask:
             return jsonify({"success": True, **res}), 200
 
     @app.route("/api/recalls/<recall_id>", methods=["GET"])
+    @app.route("/api/v1/recalls/<recall_id>", methods=["GET"])
     def get_recall_detail(recall_id: str):
         """Returns single recall dossier with metrics and status."""
         with get_db_session() as session:
@@ -300,6 +303,7 @@ def create_app() -> Flask:
             return jsonify({"success": True, "recall": recall.to_dict()}), 200
 
     @app.route("/api/recalls", methods=["POST"])
+    @app.route("/api/v1/recalls", methods=["POST"])
     def create_recall():
         """Initiates a new product recall docket for a contaminated raw or finished lot."""
         data = request.get_json() or {}
@@ -329,6 +333,7 @@ def create_app() -> Flask:
             return jsonify({"success": False, "error": str(e)}), 400
 
     @app.route("/api/recalls/<recall_id>/process", methods=["POST"])
+    @app.route("/api/v1/recalls/<recall_id>/process", methods=["POST"])
     def process_recall(recall_id: str):
         """Executes idempotent containment, quarantine, customer notifications, and recovery."""
         data = request.get_json() or {}
@@ -415,6 +420,21 @@ def create_app() -> Flask:
             calc = MetricsCalculator(session=session)
             perf = calc.get_recall_performance_metrics(db=session)
             return jsonify({"success": True, "performance": perf}), 200
+
+    # ------------------------------------------------------------------------
+    # Export Manifest Endpoint
+    # ------------------------------------------------------------------------
+    @app.route("/api/exports/manifest", methods=["GET"])
+    def get_exports_manifest():
+        """Returns source manifest and cryptographic checksums for generated data."""
+        try:
+            from src.exporters.manifest_generator import ManifestGenerator
+            generator = ManifestGenerator()
+            manifest = generator.generate_manifest()
+            return jsonify({"success": True, "manifest": manifest}), 200
+        except Exception as e:
+            logger.error(f"Failed to generate manifest: {e}")
+            return jsonify({"success": False, "error": str(e)}), 500
 
     return app
 
