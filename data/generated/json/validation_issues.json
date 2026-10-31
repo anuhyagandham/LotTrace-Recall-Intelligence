@@ -1,0 +1,54 @@
+{
+  "table_name": "validation_issues",
+  "row_count": 4,
+  "data": [
+    {
+      "validation_id": "VAL-2026-000001",
+      "entity_name": "FinishedLot",
+      "entity_id": "FINLOT-2026-000001",
+      "issue_type": "MISSING_INPUT_LOT",
+      "severity": "CRITICAL",
+      "expected_value": "Verified upstream MaterialLot in database",
+      "actual_value": "RAWLOT-SUP-9999-2026-999999",
+      "validation_status": "FAILED",
+      "detected_at": "2026-04-15T08:00:00",
+      "ground_truth_label": "ANOMALY_A_MISSING_INPUT_LOT"
+    },
+    {
+      "validation_id": "VAL-2026-000002",
+      "entity_name": "Delivery",
+      "entity_id": "DEL-2026-000001",
+      "issue_type": "DELIVERED_EXCEEDS_PRODUCED",
+      "severity": "CRITICAL",
+      "expected_value": "Delivery quantity <= produced 171.13",
+      "actual_value": "Delivered quantity 671.13",
+      "validation_status": "FAILED",
+      "detected_at": "2026-04-16T08:00:00",
+      "ground_truth_label": "ANOMALY_B_DELIVERY_EXCEEDS_PRODUCED"
+    },
+    {
+      "validation_id": "VAL-2026-000003",
+      "entity_name": "CustomerNotification",
+      "entity_id": "CUST-0001",
+      "issue_type": "MISSED_CUSTOMER_NOTIFICATION",
+      "severity": "HIGH",
+      "expected_value": "CustomerNotification dispatched for delivery DEL-2026-000001",
+      "actual_value": "No notification record found in customer notification ledger",
+      "validation_status": "FAILED",
+      "detected_at": "2026-04-17T08:00:00",
+      "ground_truth_label": "ANOMALY_C_MISSED_CUSTOMER_NOTIFICATION"
+    },
+    {
+      "validation_id": "VAL-2026-000004",
+      "entity_name": "Inventory",
+      "entity_id": "INV-2026-000203",
+      "issue_type": "RECALLED_INVENTORY_AVAILABLE_FOR_SALE",
+      "severity": "CRITICAL",
+      "expected_value": "Inventory status = QUARANTINED, quantity_quarantined > 0",
+      "actual_value": "Inventory status = AVAILABLE, quarantined = 0.0",
+      "validation_status": "FAILED",
+      "detected_at": "2026-04-18T08:00:00",
+      "ground_truth_label": "ANOMALY_D_RECALLED_STOCK_SALEABLE"
+    }
+  ]
+}

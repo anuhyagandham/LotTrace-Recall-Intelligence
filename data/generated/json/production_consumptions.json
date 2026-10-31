@@ -1,0 +1,3286 @@
+{
+  "table_name": "production_consumptions",
+  "row_count": 410,
+  "data": [
+    {
+      "consumption_id": "PC-2026-000001",
+      "production_order_id": "WO-2026-000001",
+      "material_lot_id": "RAWLOT-SUP-0013-2026-000013",
+      "quantity_consumed": 17.3,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-01T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000002",
+      "production_order_id": "WO-2026-000001",
+      "material_lot_id": "RAWLOT-SUP-0020-2026-000020",
+      "quantity_consumed": 10.38,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-01T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000003",
+      "production_order_id": "WO-2026-000001",
+      "material_lot_id": "RAWLOT-SUP-0001-2026-000026",
+      "quantity_consumed": 0.69,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-01T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000004",
+      "production_order_id": "WO-2026-000001",
+      "material_lot_id": "RAWLOT-SUP-0008-2026-000033",
+      "quantity_consumed": 346.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-01T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000005",
+      "production_order_id": "WO-2026-000002",
+      "material_lot_id": "RAWLOT-SUP-0018-2026-000043",
+      "quantity_consumed": 23.19,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-21T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000006",
+      "production_order_id": "WO-2026-000002",
+      "material_lot_id": "RAWLOT-SUP-0002-2026-000052",
+      "quantity_consumed": 77.3,
+      "unit_of_measure": "L",
+      "consumption_date": "2026-02-21T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000007",
+      "production_order_id": "WO-2026-000002",
+      "material_lot_id": "RAWLOT-SUP-0009-2026-000059",
+      "quantity_consumed": 3.87,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-21T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000008",
+      "production_order_id": "WO-2026-000002",
+      "material_lot_id": "RAWLOT-SUP-0016-2026-000066",
+      "quantity_consumed": 0.77,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-21T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000009",
+      "production_order_id": "WO-2026-000002",
+      "material_lot_id": "RAWLOT-SUP-0019-2026-000069",
+      "quantity_consumed": 773.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-21T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000010",
+      "production_order_id": "WO-2026-000003",
+      "material_lot_id": "RAWLOT-SUP-0004-2026-000079",
+      "quantity_consumed": 14.24,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-06T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000011",
+      "production_order_id": "WO-2026-000003",
+      "material_lot_id": "RAWLOT-SUP-0011-2026-000086",
+      "quantity_consumed": 10.68,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-06T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000012",
+      "production_order_id": "WO-2026-000003",
+      "material_lot_id": "RAWLOT-SUP-0018-2026-000093",
+      "quantity_consumed": 1424.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-06T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000013",
+      "production_order_id": "WO-2026-000004",
+      "material_lot_id": "RAWLOT-SUP-0003-2026-000103",
+      "quantity_consumed": 17.3,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-15T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000014",
+      "production_order_id": "WO-2026-000004",
+      "material_lot_id": "RAWLOT-SUP-0010-2026-000110",
+      "quantity_consumed": 6.92,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-15T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000015",
+      "production_order_id": "WO-2026-000004",
+      "material_lot_id": "RAWLOT-SUP-0016-2026-000116",
+      "quantity_consumed": 0.69,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-15T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000016",
+      "production_order_id": "WO-2026-000004",
+      "material_lot_id": "RAWLOT-SUP-0023-2026-000123",
+      "quantity_consumed": 346.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-15T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000017",
+      "production_order_id": "WO-2026-000005",
+      "material_lot_id": "RAWLOT-SUP-0008-2026-000133",
+      "quantity_consumed": 17.03,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-16T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000018",
+      "production_order_id": "WO-2026-000005",
+      "material_lot_id": "RAWLOT-SUP-0018-2026-000143",
+      "quantity_consumed": 2.04,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-16T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000019",
+      "production_order_id": "WO-2026-000005",
+      "material_lot_id": "RAWLOT-SUP-0021-2026-000146",
+      "quantity_consumed": 6.81,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-16T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000020",
+      "production_order_id": "WO-2026-000005",
+      "material_lot_id": "RAWLOT-SUP-0003-2026-000153",
+      "quantity_consumed": 681.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-16T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000021",
+      "production_order_id": "WO-2026-000006",
+      "material_lot_id": "RAWLOT-SUP-0013-2026-000163",
+      "quantity_consumed": 4.54,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-21T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000022",
+      "production_order_id": "WO-2026-000006",
+      "material_lot_id": "RAWLOT-SUP-0022-2026-000172",
+      "quantity_consumed": 36.28,
+      "unit_of_measure": "L",
+      "consumption_date": "2026-03-21T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000023",
+      "production_order_id": "WO-2026-000006",
+      "material_lot_id": "RAWLOT-SUP-0004-2026-000179",
+      "quantity_consumed": 1.81,
+      "unit_of_measure": "L",
+      "consumption_date": "2026-03-21T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000024",
+      "production_order_id": "WO-2026-000006",
+      "material_lot_id": "RAWLOT-SUP-0011-2026-000186",
+      "quantity_consumed": 0.91,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-21T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000025",
+      "production_order_id": "WO-2026-000006",
+      "material_lot_id": "RAWLOT-SUP-0014-2026-000189",
+      "quantity_consumed": 907.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-21T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000026",
+      "production_order_id": "WO-2026-000007",
+      "material_lot_id": "RAWLOT-SUP-0024-2026-000199",
+      "quantity_consumed": 21.8,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-12T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000027",
+      "production_order_id": "WO-2026-000007",
+      "material_lot_id": "RAWLOT-SUP-0002-2026-000002",
+      "quantity_consumed": 13.08,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-12T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000028",
+      "production_order_id": "WO-2026-000007",
+      "material_lot_id": "RAWLOT-SUP-0008-2026-000008",
+      "quantity_consumed": 0.87,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-12T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000029",
+      "production_order_id": "WO-2026-000007",
+      "material_lot_id": "RAWLOT-SUP-0021-2026-000021",
+      "quantity_consumed": 436.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-12T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000030",
+      "production_order_id": "WO-2026-000008",
+      "material_lot_id": "RAWLOT-SUP-0025-2026-000025",
+      "quantity_consumed": 28.59,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-13T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000031",
+      "production_order_id": "WO-2026-000008",
+      "material_lot_id": "RAWLOT-SUP-0015-2026-000040",
+      "quantity_consumed": 95.3,
+      "unit_of_measure": "L",
+      "consumption_date": "2026-03-13T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000032",
+      "production_order_id": "WO-2026-000008",
+      "material_lot_id": "RAWLOT-SUP-0022-2026-000047",
+      "quantity_consumed": 4.76,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-13T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000033",
+      "production_order_id": "WO-2026-000008",
+      "material_lot_id": "RAWLOT-SUP-0004-2026-000054",
+      "quantity_consumed": 0.95,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-13T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000034",
+      "production_order_id": "WO-2026-000008",
+      "material_lot_id": "RAWLOT-SUP-0007-2026-000057",
+      "quantity_consumed": 953.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-13T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000035",
+      "production_order_id": "WO-2026-000009",
+      "material_lot_id": "RAWLOT-SUP-0011-2026-000061",
+      "quantity_consumed": 10.32,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-02T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000036",
+      "production_order_id": "WO-2026-000009",
+      "material_lot_id": "RAWLOT-SUP-0018-2026-000068",
+      "quantity_consumed": 7.74,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-02T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000037",
+      "production_order_id": "WO-2026-000009",
+      "material_lot_id": "RAWLOT-SUP-0006-2026-000081",
+      "quantity_consumed": 1032.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-02T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000038",
+      "production_order_id": "WO-2026-000010",
+      "material_lot_id": "RAWLOT-SUP-0010-2026-000085",
+      "quantity_consumed": 19.9,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-28T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000039",
+      "production_order_id": "WO-2026-000010",
+      "material_lot_id": "RAWLOT-SUP-0017-2026-000092",
+      "quantity_consumed": 7.96,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-28T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000040",
+      "production_order_id": "WO-2026-000010",
+      "material_lot_id": "RAWLOT-SUP-0023-2026-000098",
+      "quantity_consumed": 0.8,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-28T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000041",
+      "production_order_id": "WO-2026-000010",
+      "material_lot_id": "RAWLOT-SUP-0011-2026-000111",
+      "quantity_consumed": 398.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-28T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000042",
+      "production_order_id": "WO-2026-000011",
+      "material_lot_id": "RAWLOT-SUP-0015-2026-000115",
+      "quantity_consumed": 18.7,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-13T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000043",
+      "production_order_id": "WO-2026-000011",
+      "material_lot_id": "RAWLOT-SUP-0022-2026-000122",
+      "quantity_consumed": 11.22,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-13T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000044",
+      "production_order_id": "WO-2026-000011",
+      "material_lot_id": "RAWLOT-SUP-0003-2026-000128",
+      "quantity_consumed": 0.75,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-13T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000045",
+      "production_order_id": "WO-2026-000011",
+      "material_lot_id": "RAWLOT-SUP-0016-2026-000141",
+      "quantity_consumed": 374.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-13T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000046",
+      "production_order_id": "WO-2026-000012",
+      "material_lot_id": "RAWLOT-SUP-0020-2026-000145",
+      "quantity_consumed": 17.31,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-16T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000047",
+      "production_order_id": "WO-2026-000012",
+      "material_lot_id": "RAWLOT-SUP-0010-2026-000160",
+      "quantity_consumed": 57.7,
+      "unit_of_measure": "L",
+      "consumption_date": "2026-03-16T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000048",
+      "production_order_id": "WO-2026-000012",
+      "material_lot_id": "RAWLOT-SUP-0017-2026-000167",
+      "quantity_consumed": 2.89,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-16T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000049",
+      "production_order_id": "WO-2026-000012",
+      "material_lot_id": "RAWLOT-SUP-0024-2026-000174",
+      "quantity_consumed": 0.58,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-16T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000050",
+      "production_order_id": "WO-2026-000012",
+      "material_lot_id": "RAWLOT-SUP-0002-2026-000177",
+      "quantity_consumed": 577.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-16T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000051",
+      "production_order_id": "WO-2026-000013",
+      "material_lot_id": "RAWLOT-SUP-0006-2026-000181",
+      "quantity_consumed": 18.7,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-20T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000052",
+      "production_order_id": "WO-2026-000013",
+      "material_lot_id": "RAWLOT-SUP-0013-2026-000188",
+      "quantity_consumed": 14.03,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-20T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000053",
+      "production_order_id": "WO-2026-000013",
+      "material_lot_id": "RAWLOT-SUP-0003-2026-000003",
+      "quantity_consumed": 1870.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-20T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000054",
+      "production_order_id": "WO-2026-000014",
+      "material_lot_id": "RAWLOT-SUP-0001-2026-000001",
+      "quantity_consumed": 39.05,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-19T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000055",
+      "production_order_id": "WO-2026-000014",
+      "material_lot_id": "RAWLOT-SUP-0008-2026-000008",
+      "quantity_consumed": 15.62,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-19T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000056",
+      "production_order_id": "WO-2026-000014",
+      "material_lot_id": "RAWLOT-SUP-0014-2026-000014",
+      "quantity_consumed": 1.56,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-19T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000057",
+      "production_order_id": "WO-2026-000014",
+      "material_lot_id": "RAWLOT-SUP-0008-2026-000033",
+      "quantity_consumed": 781.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-19T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000058",
+      "production_order_id": "WO-2026-000015",
+      "material_lot_id": "RAWLOT-SUP-0006-2026-000031",
+      "quantity_consumed": 20.4,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-18T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000059",
+      "production_order_id": "WO-2026-000015",
+      "material_lot_id": "RAWLOT-SUP-0003-2026-000053",
+      "quantity_consumed": 2.45,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-18T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000060",
+      "production_order_id": "WO-2026-000015",
+      "material_lot_id": "RAWLOT-SUP-0019-2026-000044",
+      "quantity_consumed": 8.16,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-18T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000061",
+      "production_order_id": "WO-2026-000015",
+      "material_lot_id": "RAWLOT-SUP-0013-2026-000063",
+      "quantity_consumed": 816.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-18T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000062",
+      "production_order_id": "WO-2026-000016",
+      "material_lot_id": "RAWLOT-SUP-0011-2026-000061",
+      "quantity_consumed": 4.19,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-21T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000063",
+      "production_order_id": "WO-2026-000016",
+      "material_lot_id": "RAWLOT-SUP-0007-2026-000082",
+      "quantity_consumed": 33.48,
+      "unit_of_measure": "L",
+      "consumption_date": "2026-03-21T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000064",
+      "production_order_id": "WO-2026-000016",
+      "material_lot_id": "RAWLOT-SUP-0014-2026-000089",
+      "quantity_consumed": 1.67,
+      "unit_of_measure": "L",
+      "consumption_date": "2026-03-21T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000065",
+      "production_order_id": "WO-2026-000016",
+      "material_lot_id": "RAWLOT-SUP-0021-2026-000096",
+      "quantity_consumed": 0.84,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-21T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000066",
+      "production_order_id": "WO-2026-000016",
+      "material_lot_id": "RAWLOT-SUP-0024-2026-000099",
+      "quantity_consumed": 837.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-21T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000067",
+      "production_order_id": "WO-2026-000017",
+      "material_lot_id": "RAWLOT-SUP-0022-2026-000097",
+      "quantity_consumed": 32.45,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-26T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000068",
+      "production_order_id": "WO-2026-000017",
+      "material_lot_id": "RAWLOT-SUP-0004-2026-000104",
+      "quantity_consumed": 19.47,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-26T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000069",
+      "production_order_id": "WO-2026-000017",
+      "material_lot_id": "RAWLOT-SUP-0010-2026-000110",
+      "quantity_consumed": 1.3,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-26T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000070",
+      "production_order_id": "WO-2026-000017",
+      "material_lot_id": "RAWLOT-SUP-0004-2026-000129",
+      "quantity_consumed": 649.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-26T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000071",
+      "production_order_id": "WO-2026-000018",
+      "material_lot_id": "RAWLOT-SUP-0002-2026-000127",
+      "quantity_consumed": 10.92,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-19T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000072",
+      "production_order_id": "WO-2026-000018",
+      "material_lot_id": "RAWLOT-SUP-0023-2026-000148",
+      "quantity_consumed": 36.4,
+      "unit_of_measure": "L",
+      "consumption_date": "2026-03-19T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000073",
+      "production_order_id": "WO-2026-000018",
+      "material_lot_id": "RAWLOT-SUP-0005-2026-000155",
+      "quantity_consumed": 1.82,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-19T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000074",
+      "production_order_id": "WO-2026-000018",
+      "material_lot_id": "RAWLOT-SUP-0012-2026-000162",
+      "quantity_consumed": 0.36,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-19T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000075",
+      "production_order_id": "WO-2026-000018",
+      "material_lot_id": "RAWLOT-SUP-0015-2026-000165",
+      "quantity_consumed": 364.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-19T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000076",
+      "production_order_id": "WO-2026-000019",
+      "material_lot_id": "RAWLOT-SUP-0013-2026-000163",
+      "quantity_consumed": 6.06,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-20T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000077",
+      "production_order_id": "WO-2026-000019",
+      "material_lot_id": "RAWLOT-SUP-0020-2026-000170",
+      "quantity_consumed": 4.54,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-20T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000078",
+      "production_order_id": "WO-2026-000019",
+      "material_lot_id": "RAWLOT-SUP-0014-2026-000189",
+      "quantity_consumed": 606.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-20T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000079",
+      "production_order_id": "WO-2026-000020",
+      "material_lot_id": "RAWLOT-SUP-0012-2026-000187",
+      "quantity_consumed": 46.45,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-03T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000080",
+      "production_order_id": "WO-2026-000020",
+      "material_lot_id": "RAWLOT-SUP-0019-2026-000194",
+      "quantity_consumed": 18.58,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-03T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000081",
+      "production_order_id": "WO-2026-000020",
+      "material_lot_id": "RAWLOT-SUP-0025-2026-000200",
+      "quantity_consumed": 1.86,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-03T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000082",
+      "production_order_id": "WO-2026-000020",
+      "material_lot_id": "RAWLOT-SUP-0021-2026-000021",
+      "quantity_consumed": 929.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-03T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000083",
+      "production_order_id": "WO-2026-000021",
+      "material_lot_id": "RAWLOT-SUP-0013-2026-000013",
+      "quantity_consumed": 38.2,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-20T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000084",
+      "production_order_id": "WO-2026-000021",
+      "material_lot_id": "RAWLOT-SUP-0020-2026-000020",
+      "quantity_consumed": 22.92,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-20T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000085",
+      "production_order_id": "WO-2026-000021",
+      "material_lot_id": "RAWLOT-SUP-0001-2026-000026",
+      "quantity_consumed": 1.53,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-20T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000086",
+      "production_order_id": "WO-2026-000021",
+      "material_lot_id": "RAWLOT-SUP-0001-2026-000051",
+      "quantity_consumed": 764.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-20T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000087",
+      "production_order_id": "WO-2026-000022",
+      "material_lot_id": "RAWLOT-SUP-0018-2026-000043",
+      "quantity_consumed": 17.64,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-20T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000088",
+      "production_order_id": "WO-2026-000022",
+      "material_lot_id": "RAWLOT-SUP-0020-2026-000070",
+      "quantity_consumed": 58.8,
+      "unit_of_measure": "L",
+      "consumption_date": "2026-02-20T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000089",
+      "production_order_id": "WO-2026-000022",
+      "material_lot_id": "RAWLOT-SUP-0002-2026-000077",
+      "quantity_consumed": 2.94,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-20T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000090",
+      "production_order_id": "WO-2026-000022",
+      "material_lot_id": "RAWLOT-SUP-0009-2026-000084",
+      "quantity_consumed": 0.59,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-20T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000091",
+      "production_order_id": "WO-2026-000022",
+      "material_lot_id": "RAWLOT-SUP-0012-2026-000087",
+      "quantity_consumed": 588.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-20T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000092",
+      "production_order_id": "WO-2026-000023",
+      "material_lot_id": "RAWLOT-SUP-0004-2026-000079",
+      "quantity_consumed": 18.94,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-19T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000093",
+      "production_order_id": "WO-2026-000023",
+      "material_lot_id": "RAWLOT-SUP-0011-2026-000086",
+      "quantity_consumed": 14.21,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-19T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000094",
+      "production_order_id": "WO-2026-000023",
+      "material_lot_id": "RAWLOT-SUP-0011-2026-000111",
+      "quantity_consumed": 1894.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-19T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000095",
+      "production_order_id": "WO-2026-000024",
+      "material_lot_id": "RAWLOT-SUP-0003-2026-000103",
+      "quantity_consumed": 25.9,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-10T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000096",
+      "production_order_id": "WO-2026-000024",
+      "material_lot_id": "RAWLOT-SUP-0010-2026-000110",
+      "quantity_consumed": 10.36,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-10T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000097",
+      "production_order_id": "WO-2026-000024",
+      "material_lot_id": "RAWLOT-SUP-0016-2026-000116",
+      "quantity_consumed": 1.04,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-10T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000098",
+      "production_order_id": "WO-2026-000024",
+      "material_lot_id": "RAWLOT-SUP-0016-2026-000141",
+      "quantity_consumed": 518.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-10T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000099",
+      "production_order_id": "WO-2026-000025",
+      "material_lot_id": "RAWLOT-SUP-0008-2026-000133",
+      "quantity_consumed": 18.65,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-13T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000100",
+      "production_order_id": "WO-2026-000025",
+      "material_lot_id": "RAWLOT-SUP-0011-2026-000161",
+      "quantity_consumed": 2.24,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-13T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000101",
+      "production_order_id": "WO-2026-000025",
+      "material_lot_id": "RAWLOT-SUP-0021-2026-000146",
+      "quantity_consumed": 7.46,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-13T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000102",
+      "production_order_id": "WO-2026-000025",
+      "material_lot_id": "RAWLOT-SUP-0021-2026-000171",
+      "quantity_consumed": 746.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-13T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000103",
+      "production_order_id": "WO-2026-000026",
+      "material_lot_id": "RAWLOT-SUP-0013-2026-000163",
+      "quantity_consumed": 2.69,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-02T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000104",
+      "production_order_id": "WO-2026-000026",
+      "material_lot_id": "RAWLOT-SUP-0015-2026-000190",
+      "quantity_consumed": 21.56,
+      "unit_of_measure": "L",
+      "consumption_date": "2026-03-02T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000105",
+      "production_order_id": "WO-2026-000026",
+      "material_lot_id": "RAWLOT-SUP-0022-2026-000197",
+      "quantity_consumed": 1.08,
+      "unit_of_measure": "L",
+      "consumption_date": "2026-03-02T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000106",
+      "production_order_id": "WO-2026-000026",
+      "material_lot_id": "RAWLOT-SUP-0006-2026-000006",
+      "quantity_consumed": 0.54,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-02T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000107",
+      "production_order_id": "WO-2026-000026",
+      "material_lot_id": "RAWLOT-SUP-0009-2026-000009",
+      "quantity_consumed": 539.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-02T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000108",
+      "production_order_id": "WO-2026-000027",
+      "material_lot_id": "RAWLOT-SUP-0024-2026-000199",
+      "quantity_consumed": 49.95,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-25T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000109",
+      "production_order_id": "WO-2026-000027",
+      "material_lot_id": "RAWLOT-SUP-0002-2026-000002",
+      "quantity_consumed": 29.97,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-25T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000110",
+      "production_order_id": "WO-2026-000027",
+      "material_lot_id": "RAWLOT-SUP-0008-2026-000008",
+      "quantity_consumed": 2.0,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-25T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000111",
+      "production_order_id": "WO-2026-000027",
+      "material_lot_id": "RAWLOT-SUP-0014-2026-000039",
+      "quantity_consumed": 999.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-25T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000112",
+      "production_order_id": "WO-2026-000028",
+      "material_lot_id": "RAWLOT-SUP-0025-2026-000025",
+      "quantity_consumed": 20.7,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-17T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000113",
+      "production_order_id": "WO-2026-000028",
+      "material_lot_id": "RAWLOT-SUP-0008-2026-000058",
+      "quantity_consumed": 69.0,
+      "unit_of_measure": "L",
+      "consumption_date": "2026-03-17T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000114",
+      "production_order_id": "WO-2026-000028",
+      "material_lot_id": "RAWLOT-SUP-0015-2026-000065",
+      "quantity_consumed": 3.45,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-17T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000115",
+      "production_order_id": "WO-2026-000028",
+      "material_lot_id": "RAWLOT-SUP-0022-2026-000072",
+      "quantity_consumed": 0.69,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-17T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000116",
+      "production_order_id": "WO-2026-000028",
+      "material_lot_id": "RAWLOT-SUP-0025-2026-000075",
+      "quantity_consumed": 690.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-17T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000117",
+      "production_order_id": "WO-2026-000029",
+      "material_lot_id": "RAWLOT-SUP-0011-2026-000061",
+      "quantity_consumed": 6.68,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-19T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000118",
+      "production_order_id": "WO-2026-000029",
+      "material_lot_id": "RAWLOT-SUP-0018-2026-000068",
+      "quantity_consumed": 5.01,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-19T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000119",
+      "production_order_id": "WO-2026-000029",
+      "material_lot_id": "RAWLOT-SUP-0024-2026-000099",
+      "quantity_consumed": 668.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-19T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000120",
+      "production_order_id": "WO-2026-000030",
+      "material_lot_id": "RAWLOT-SUP-0010-2026-000085",
+      "quantity_consumed": 20.75,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-08T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000121",
+      "production_order_id": "WO-2026-000030",
+      "material_lot_id": "RAWLOT-SUP-0017-2026-000092",
+      "quantity_consumed": 8.3,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-08T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000122",
+      "production_order_id": "WO-2026-000030",
+      "material_lot_id": "RAWLOT-SUP-0023-2026-000098",
+      "quantity_consumed": 0.83,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-08T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000123",
+      "production_order_id": "WO-2026-000030",
+      "material_lot_id": "RAWLOT-SUP-0004-2026-000129",
+      "quantity_consumed": 415.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-08T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000124",
+      "production_order_id": "WO-2026-000031",
+      "material_lot_id": "RAWLOT-SUP-0015-2026-000115",
+      "quantity_consumed": 42.7,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-26T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000125",
+      "production_order_id": "WO-2026-000031",
+      "material_lot_id": "RAWLOT-SUP-0022-2026-000122",
+      "quantity_consumed": 25.62,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-26T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000126",
+      "production_order_id": "WO-2026-000031",
+      "material_lot_id": "RAWLOT-SUP-0003-2026-000128",
+      "quantity_consumed": 1.71,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-26T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000127",
+      "production_order_id": "WO-2026-000031",
+      "material_lot_id": "RAWLOT-SUP-0009-2026-000159",
+      "quantity_consumed": 854.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-26T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000128",
+      "production_order_id": "WO-2026-000032",
+      "material_lot_id": "RAWLOT-SUP-0020-2026-000145",
+      "quantity_consumed": 16.89,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-15T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000129",
+      "production_order_id": "WO-2026-000032",
+      "material_lot_id": "RAWLOT-SUP-0003-2026-000178",
+      "quantity_consumed": 56.3,
+      "unit_of_measure": "L",
+      "consumption_date": "2026-03-15T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000130",
+      "production_order_id": "WO-2026-000032",
+      "material_lot_id": "RAWLOT-SUP-0010-2026-000185",
+      "quantity_consumed": 2.81,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-15T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000131",
+      "production_order_id": "WO-2026-000032",
+      "material_lot_id": "RAWLOT-SUP-0017-2026-000192",
+      "quantity_consumed": 0.56,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-15T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000132",
+      "production_order_id": "WO-2026-000032",
+      "material_lot_id": "RAWLOT-SUP-0020-2026-000195",
+      "quantity_consumed": 563.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-15T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000133",
+      "production_order_id": "WO-2026-000033",
+      "material_lot_id": "RAWLOT-SUP-0006-2026-000181",
+      "quantity_consumed": 12.06,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-09T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000134",
+      "production_order_id": "WO-2026-000033",
+      "material_lot_id": "RAWLOT-SUP-0013-2026-000188",
+      "quantity_consumed": 9.04,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-09T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000135",
+      "production_order_id": "WO-2026-000033",
+      "material_lot_id": "RAWLOT-SUP-0021-2026-000021",
+      "quantity_consumed": 1206.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-09T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000136",
+      "production_order_id": "WO-2026-000034",
+      "material_lot_id": "RAWLOT-SUP-0001-2026-000001",
+      "quantity_consumed": 21.5,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-03T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000137",
+      "production_order_id": "WO-2026-000034",
+      "material_lot_id": "RAWLOT-SUP-0008-2026-000008",
+      "quantity_consumed": 8.6,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-03T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000138",
+      "production_order_id": "WO-2026-000034",
+      "material_lot_id": "RAWLOT-SUP-0014-2026-000014",
+      "quantity_consumed": 0.86,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-03T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000139",
+      "production_order_id": "WO-2026-000034",
+      "material_lot_id": "RAWLOT-SUP-0001-2026-000051",
+      "quantity_consumed": 430.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-03T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000140",
+      "production_order_id": "WO-2026-000035",
+      "material_lot_id": "RAWLOT-SUP-0006-2026-000031",
+      "quantity_consumed": 5.9,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-18T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000141",
+      "production_order_id": "WO-2026-000035",
+      "material_lot_id": "RAWLOT-SUP-0021-2026-000071",
+      "quantity_consumed": 0.71,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-18T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000142",
+      "production_order_id": "WO-2026-000035",
+      "material_lot_id": "RAWLOT-SUP-0019-2026-000044",
+      "quantity_consumed": 2.36,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-18T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000143",
+      "production_order_id": "WO-2026-000035",
+      "material_lot_id": "RAWLOT-SUP-0006-2026-000081",
+      "quantity_consumed": 236.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-18T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000144",
+      "production_order_id": "WO-2026-000036",
+      "material_lot_id": "RAWLOT-SUP-0011-2026-000061",
+      "quantity_consumed": 2.46,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-20T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000145",
+      "production_order_id": "WO-2026-000036",
+      "material_lot_id": "RAWLOT-SUP-0025-2026-000100",
+      "quantity_consumed": 19.72,
+      "unit_of_measure": "L",
+      "consumption_date": "2026-03-20T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000146",
+      "production_order_id": "WO-2026-000036",
+      "material_lot_id": "RAWLOT-SUP-0007-2026-000107",
+      "quantity_consumed": 0.99,
+      "unit_of_measure": "L",
+      "consumption_date": "2026-03-20T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000147",
+      "production_order_id": "WO-2026-000036",
+      "material_lot_id": "RAWLOT-SUP-0014-2026-000114",
+      "quantity_consumed": 0.49,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-20T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000148",
+      "production_order_id": "WO-2026-000036",
+      "material_lot_id": "RAWLOT-SUP-0017-2026-000117",
+      "quantity_consumed": 493.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-20T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000149",
+      "production_order_id": "WO-2026-000037",
+      "material_lot_id": "RAWLOT-SUP-0022-2026-000097",
+      "quantity_consumed": 36.95,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-04T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000150",
+      "production_order_id": "WO-2026-000037",
+      "material_lot_id": "RAWLOT-SUP-0004-2026-000104",
+      "quantity_consumed": 22.17,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-04T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000151",
+      "production_order_id": "WO-2026-000037",
+      "material_lot_id": "RAWLOT-SUP-0010-2026-000110",
+      "quantity_consumed": 1.48,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-04T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000152",
+      "production_order_id": "WO-2026-000037",
+      "material_lot_id": "RAWLOT-SUP-0022-2026-000147",
+      "quantity_consumed": 739.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-04T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000153",
+      "production_order_id": "WO-2026-000038",
+      "material_lot_id": "RAWLOT-SUP-0002-2026-000127",
+      "quantity_consumed": 16.89,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-16T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000154",
+      "production_order_id": "WO-2026-000038",
+      "material_lot_id": "RAWLOT-SUP-0016-2026-000166",
+      "quantity_consumed": 56.3,
+      "unit_of_measure": "L",
+      "consumption_date": "2026-03-16T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000155",
+      "production_order_id": "WO-2026-000038",
+      "material_lot_id": "RAWLOT-SUP-0023-2026-000173",
+      "quantity_consumed": 2.81,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-16T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000156",
+      "production_order_id": "WO-2026-000038",
+      "material_lot_id": "RAWLOT-SUP-0005-2026-000180",
+      "quantity_consumed": 0.56,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-16T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000157",
+      "production_order_id": "WO-2026-000038",
+      "material_lot_id": "RAWLOT-SUP-0008-2026-000183",
+      "quantity_consumed": 563.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-16T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000158",
+      "production_order_id": "WO-2026-000039",
+      "material_lot_id": "RAWLOT-SUP-0013-2026-000163",
+      "quantity_consumed": 5.98,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-22T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000159",
+      "production_order_id": "WO-2026-000039",
+      "material_lot_id": "RAWLOT-SUP-0020-2026-000170",
+      "quantity_consumed": 4.48,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-22T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000160",
+      "production_order_id": "WO-2026-000039",
+      "material_lot_id": "RAWLOT-SUP-0009-2026-000009",
+      "quantity_consumed": 598.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-22T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000161",
+      "production_order_id": "WO-2026-000040",
+      "material_lot_id": "RAWLOT-SUP-0012-2026-000187",
+      "quantity_consumed": 33.5,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-18T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000162",
+      "production_order_id": "WO-2026-000040",
+      "material_lot_id": "RAWLOT-SUP-0019-2026-000194",
+      "quantity_consumed": 13.4,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-18T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000163",
+      "production_order_id": "WO-2026-000040",
+      "material_lot_id": "RAWLOT-SUP-0025-2026-000200",
+      "quantity_consumed": 1.34,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-18T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000164",
+      "production_order_id": "WO-2026-000040",
+      "material_lot_id": "RAWLOT-SUP-0014-2026-000039",
+      "quantity_consumed": 670.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-18T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000165",
+      "production_order_id": "WO-2026-000041",
+      "material_lot_id": "RAWLOT-SUP-0013-2026-000013",
+      "quantity_consumed": 20.15,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-07T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000166",
+      "production_order_id": "WO-2026-000041",
+      "material_lot_id": "RAWLOT-SUP-0020-2026-000020",
+      "quantity_consumed": 12.09,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-07T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000167",
+      "production_order_id": "WO-2026-000041",
+      "material_lot_id": "RAWLOT-SUP-0001-2026-000026",
+      "quantity_consumed": 0.81,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-07T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000168",
+      "production_order_id": "WO-2026-000041",
+      "material_lot_id": "RAWLOT-SUP-0019-2026-000069",
+      "quantity_consumed": 403.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-07T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000169",
+      "production_order_id": "WO-2026-000042",
+      "material_lot_id": "RAWLOT-SUP-0018-2026-000043",
+      "quantity_consumed": 9.75,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-05T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000170",
+      "production_order_id": "WO-2026-000042",
+      "material_lot_id": "RAWLOT-SUP-0013-2026-000088",
+      "quantity_consumed": 32.5,
+      "unit_of_measure": "L",
+      "consumption_date": "2026-03-05T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000171",
+      "production_order_id": "WO-2026-000042",
+      "material_lot_id": "RAWLOT-SUP-0020-2026-000095",
+      "quantity_consumed": 1.62,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-05T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000172",
+      "production_order_id": "WO-2026-000042",
+      "material_lot_id": "RAWLOT-SUP-0002-2026-000102",
+      "quantity_consumed": 0.33,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-05T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000173",
+      "production_order_id": "WO-2026-000042",
+      "material_lot_id": "RAWLOT-SUP-0005-2026-000105",
+      "quantity_consumed": 325.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-05T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000174",
+      "production_order_id": "WO-2026-000043",
+      "material_lot_id": "RAWLOT-SUP-0004-2026-000079",
+      "quantity_consumed": 17.9,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-13T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000175",
+      "production_order_id": "WO-2026-000043",
+      "material_lot_id": "RAWLOT-SUP-0011-2026-000086",
+      "quantity_consumed": 13.42,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-13T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000176",
+      "production_order_id": "WO-2026-000043",
+      "material_lot_id": "RAWLOT-SUP-0004-2026-000129",
+      "quantity_consumed": 1790.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-13T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000177",
+      "production_order_id": "WO-2026-000044",
+      "material_lot_id": "RAWLOT-SUP-0003-2026-000103",
+      "quantity_consumed": 37.5,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-19T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000178",
+      "production_order_id": "WO-2026-000044",
+      "material_lot_id": "RAWLOT-SUP-0010-2026-000110",
+      "quantity_consumed": 15.0,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-19T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000179",
+      "production_order_id": "WO-2026-000044",
+      "material_lot_id": "RAWLOT-SUP-0016-2026-000116",
+      "quantity_consumed": 1.5,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-19T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000180",
+      "production_order_id": "WO-2026-000044",
+      "material_lot_id": "RAWLOT-SUP-0009-2026-000159",
+      "quantity_consumed": 750.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-19T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000181",
+      "production_order_id": "WO-2026-000045",
+      "material_lot_id": "RAWLOT-SUP-0008-2026-000133",
+      "quantity_consumed": 9.45,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-23T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000182",
+      "production_order_id": "WO-2026-000045",
+      "material_lot_id": "RAWLOT-SUP-0004-2026-000179",
+      "quantity_consumed": 1.13,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-23T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000183",
+      "production_order_id": "WO-2026-000045",
+      "material_lot_id": "RAWLOT-SUP-0021-2026-000146",
+      "quantity_consumed": 3.78,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-23T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000184",
+      "production_order_id": "WO-2026-000045",
+      "material_lot_id": "RAWLOT-SUP-0014-2026-000189",
+      "quantity_consumed": 378.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-23T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000185",
+      "production_order_id": "WO-2026-000046",
+      "material_lot_id": "RAWLOT-SUP-0013-2026-000163",
+      "quantity_consumed": 2.17,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-11T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000186",
+      "production_order_id": "WO-2026-000046",
+      "material_lot_id": "RAWLOT-SUP-0010-2026-000010",
+      "quantity_consumed": 17.32,
+      "unit_of_measure": "L",
+      "consumption_date": "2026-02-11T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000187",
+      "production_order_id": "WO-2026-000046",
+      "material_lot_id": "RAWLOT-SUP-0017-2026-000017",
+      "quantity_consumed": 0.87,
+      "unit_of_measure": "L",
+      "consumption_date": "2026-02-11T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000188",
+      "production_order_id": "WO-2026-000046",
+      "material_lot_id": "RAWLOT-SUP-0024-2026-000024",
+      "quantity_consumed": 0.43,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-11T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000189",
+      "production_order_id": "WO-2026-000046",
+      "material_lot_id": "RAWLOT-SUP-0002-2026-000027",
+      "quantity_consumed": 433.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-11T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000190",
+      "production_order_id": "WO-2026-000047",
+      "material_lot_id": "RAWLOT-SUP-0024-2026-000199",
+      "quantity_consumed": 22.7,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-15T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000191",
+      "production_order_id": "WO-2026-000047",
+      "material_lot_id": "RAWLOT-SUP-0002-2026-000002",
+      "quantity_consumed": 13.62,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-15T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000192",
+      "production_order_id": "WO-2026-000047",
+      "material_lot_id": "RAWLOT-SUP-0008-2026-000008",
+      "quantity_consumed": 0.91,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-15T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000193",
+      "production_order_id": "WO-2026-000047",
+      "material_lot_id": "RAWLOT-SUP-0007-2026-000057",
+      "quantity_consumed": 454.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-15T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000194",
+      "production_order_id": "WO-2026-000048",
+      "material_lot_id": "RAWLOT-SUP-0025-2026-000025",
+      "quantity_consumed": 22.41,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-22T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000195",
+      "production_order_id": "WO-2026-000048",
+      "material_lot_id": "RAWLOT-SUP-0001-2026-000076",
+      "quantity_consumed": 74.7,
+      "unit_of_measure": "L",
+      "consumption_date": "2026-03-22T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000196",
+      "production_order_id": "WO-2026-000048",
+      "material_lot_id": "RAWLOT-SUP-0008-2026-000083",
+      "quantity_consumed": 3.73,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-22T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000197",
+      "production_order_id": "WO-2026-000048",
+      "material_lot_id": "RAWLOT-SUP-0015-2026-000090",
+      "quantity_consumed": 0.75,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-22T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000198",
+      "production_order_id": "WO-2026-000048",
+      "material_lot_id": "RAWLOT-SUP-0018-2026-000093",
+      "quantity_consumed": 747.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-22T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000199",
+      "production_order_id": "WO-2026-000049",
+      "material_lot_id": "RAWLOT-SUP-0011-2026-000061",
+      "quantity_consumed": 12.78,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-09T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000200",
+      "production_order_id": "WO-2026-000049",
+      "material_lot_id": "RAWLOT-SUP-0018-2026-000068",
+      "quantity_consumed": 9.58,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-09T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000201",
+      "production_order_id": "WO-2026-000049",
+      "material_lot_id": "RAWLOT-SUP-0017-2026-000117",
+      "quantity_consumed": 1278.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-09T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000202",
+      "production_order_id": "WO-2026-000050",
+      "material_lot_id": "RAWLOT-SUP-0010-2026-000085",
+      "quantity_consumed": 14.65,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-17T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000203",
+      "production_order_id": "WO-2026-000050",
+      "material_lot_id": "RAWLOT-SUP-0017-2026-000092",
+      "quantity_consumed": 5.86,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-17T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000204",
+      "production_order_id": "WO-2026-000050",
+      "material_lot_id": "RAWLOT-SUP-0023-2026-000098",
+      "quantity_consumed": 0.59,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-17T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000205",
+      "production_order_id": "WO-2026-000050",
+      "material_lot_id": "RAWLOT-SUP-0022-2026-000147",
+      "quantity_consumed": 293.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-17T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000206",
+      "production_order_id": "WO-2026-000051",
+      "material_lot_id": "RAWLOT-SUP-0015-2026-000115",
+      "quantity_consumed": 25.4,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-14T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000207",
+      "production_order_id": "WO-2026-000051",
+      "material_lot_id": "RAWLOT-SUP-0022-2026-000122",
+      "quantity_consumed": 15.24,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-14T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000208",
+      "production_order_id": "WO-2026-000051",
+      "material_lot_id": "RAWLOT-SUP-0003-2026-000128",
+      "quantity_consumed": 1.02,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-14T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000209",
+      "production_order_id": "WO-2026-000051",
+      "material_lot_id": "RAWLOT-SUP-0002-2026-000177",
+      "quantity_consumed": 508.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-14T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000210",
+      "production_order_id": "WO-2026-000052",
+      "material_lot_id": "RAWLOT-SUP-0020-2026-000145",
+      "quantity_consumed": 28.65,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-08T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000211",
+      "production_order_id": "WO-2026-000052",
+      "material_lot_id": "RAWLOT-SUP-0021-2026-000196",
+      "quantity_consumed": 95.5,
+      "unit_of_measure": "L",
+      "consumption_date": "2026-03-08T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000212",
+      "production_order_id": "WO-2026-000052",
+      "material_lot_id": "RAWLOT-SUP-0005-2026-000005",
+      "quantity_consumed": 4.78,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-08T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000213",
+      "production_order_id": "WO-2026-000052",
+      "material_lot_id": "RAWLOT-SUP-0012-2026-000012",
+      "quantity_consumed": 0.96,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-08T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000214",
+      "production_order_id": "WO-2026-000052",
+      "material_lot_id": "RAWLOT-SUP-0015-2026-000015",
+      "quantity_consumed": 955.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-08T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000215",
+      "production_order_id": "WO-2026-000053",
+      "material_lot_id": "RAWLOT-SUP-0006-2026-000181",
+      "quantity_consumed": 13.6,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-08T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000216",
+      "production_order_id": "WO-2026-000053",
+      "material_lot_id": "RAWLOT-SUP-0013-2026-000188",
+      "quantity_consumed": 10.2,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-08T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000217",
+      "production_order_id": "WO-2026-000053",
+      "material_lot_id": "RAWLOT-SUP-0014-2026-000039",
+      "quantity_consumed": 1360.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-08T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000218",
+      "production_order_id": "WO-2026-000054",
+      "material_lot_id": "RAWLOT-SUP-0001-2026-000001",
+      "quantity_consumed": 32.25,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-15T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000219",
+      "production_order_id": "WO-2026-000054",
+      "material_lot_id": "RAWLOT-SUP-0008-2026-000008",
+      "quantity_consumed": 12.9,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-15T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000220",
+      "production_order_id": "WO-2026-000054",
+      "material_lot_id": "RAWLOT-SUP-0014-2026-000014",
+      "quantity_consumed": 1.29,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-15T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000221",
+      "production_order_id": "WO-2026-000054",
+      "material_lot_id": "RAWLOT-SUP-0019-2026-000069",
+      "quantity_consumed": 645.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-15T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000222",
+      "production_order_id": "WO-2026-000055",
+      "material_lot_id": "RAWLOT-SUP-0006-2026-000031",
+      "quantity_consumed": 23.6,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-01-31T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000223",
+      "production_order_id": "WO-2026-000055",
+      "material_lot_id": "RAWLOT-SUP-0014-2026-000089",
+      "quantity_consumed": 2.83,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-01-31T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000224",
+      "production_order_id": "WO-2026-000055",
+      "material_lot_id": "RAWLOT-SUP-0019-2026-000044",
+      "quantity_consumed": 9.44,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-01-31T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000225",
+      "production_order_id": "WO-2026-000055",
+      "material_lot_id": "RAWLOT-SUP-0024-2026-000099",
+      "quantity_consumed": 944.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-01-31T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000226",
+      "production_order_id": "WO-2026-000056",
+      "material_lot_id": "RAWLOT-SUP-0011-2026-000061",
+      "quantity_consumed": 3.8,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-16T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000227",
+      "production_order_id": "WO-2026-000056",
+      "material_lot_id": "RAWLOT-SUP-0018-2026-000118",
+      "quantity_consumed": 30.4,
+      "unit_of_measure": "L",
+      "consumption_date": "2026-03-16T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000228",
+      "production_order_id": "WO-2026-000056",
+      "material_lot_id": "RAWLOT-SUP-0025-2026-000125",
+      "quantity_consumed": 1.52,
+      "unit_of_measure": "L",
+      "consumption_date": "2026-03-16T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000229",
+      "production_order_id": "WO-2026-000056",
+      "material_lot_id": "RAWLOT-SUP-0007-2026-000132",
+      "quantity_consumed": 0.76,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-16T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000230",
+      "production_order_id": "WO-2026-000056",
+      "material_lot_id": "RAWLOT-SUP-0010-2026-000135",
+      "quantity_consumed": 760.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-16T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000231",
+      "production_order_id": "WO-2026-000057",
+      "material_lot_id": "RAWLOT-SUP-0022-2026-000097",
+      "quantity_consumed": 40.35,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-17T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000232",
+      "production_order_id": "WO-2026-000057",
+      "material_lot_id": "RAWLOT-SUP-0004-2026-000104",
+      "quantity_consumed": 24.21,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-17T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000233",
+      "production_order_id": "WO-2026-000057",
+      "material_lot_id": "RAWLOT-SUP-0010-2026-000110",
+      "quantity_consumed": 1.61,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-17T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000234",
+      "production_order_id": "WO-2026-000057",
+      "material_lot_id": "RAWLOT-SUP-0015-2026-000165",
+      "quantity_consumed": 807.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-17T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000235",
+      "production_order_id": "WO-2026-000058",
+      "material_lot_id": "RAWLOT-SUP-0002-2026-000127",
+      "quantity_consumed": 10.08,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-23T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000236",
+      "production_order_id": "WO-2026-000058",
+      "material_lot_id": "RAWLOT-SUP-0009-2026-000184",
+      "quantity_consumed": 33.6,
+      "unit_of_measure": "L",
+      "consumption_date": "2026-02-23T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000237",
+      "production_order_id": "WO-2026-000058",
+      "material_lot_id": "RAWLOT-SUP-0016-2026-000191",
+      "quantity_consumed": 1.68,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-23T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000238",
+      "production_order_id": "WO-2026-000058",
+      "material_lot_id": "RAWLOT-SUP-0023-2026-000198",
+      "quantity_consumed": 0.34,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-23T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000239",
+      "production_order_id": "WO-2026-000058",
+      "material_lot_id": "RAWLOT-SUP-0003-2026-000003",
+      "quantity_consumed": 336.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-23T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000240",
+      "production_order_id": "WO-2026-000059",
+      "material_lot_id": "RAWLOT-SUP-0013-2026-000163",
+      "quantity_consumed": 8.18,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-21T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000241",
+      "production_order_id": "WO-2026-000059",
+      "material_lot_id": "RAWLOT-SUP-0020-2026-000170",
+      "quantity_consumed": 6.13,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-21T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000242",
+      "production_order_id": "WO-2026-000059",
+      "material_lot_id": "RAWLOT-SUP-0002-2026-000027",
+      "quantity_consumed": 818.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-21T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000243",
+      "production_order_id": "WO-2026-000060",
+      "material_lot_id": "RAWLOT-SUP-0012-2026-000187",
+      "quantity_consumed": 44.15,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-18T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000244",
+      "production_order_id": "WO-2026-000060",
+      "material_lot_id": "RAWLOT-SUP-0019-2026-000194",
+      "quantity_consumed": 17.66,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-18T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000245",
+      "production_order_id": "WO-2026-000060",
+      "material_lot_id": "RAWLOT-SUP-0025-2026-000200",
+      "quantity_consumed": 1.77,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-18T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000246",
+      "production_order_id": "WO-2026-000060",
+      "material_lot_id": "RAWLOT-SUP-0007-2026-000057",
+      "quantity_consumed": 883.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-18T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000247",
+      "production_order_id": "WO-2026-000061",
+      "material_lot_id": "RAWLOT-SUP-0013-2026-000013",
+      "quantity_consumed": 44.8,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-07T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000248",
+      "production_order_id": "WO-2026-000061",
+      "material_lot_id": "RAWLOT-SUP-0020-2026-000020",
+      "quantity_consumed": 26.88,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-07T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000249",
+      "production_order_id": "WO-2026-000061",
+      "material_lot_id": "RAWLOT-SUP-0001-2026-000026",
+      "quantity_consumed": 1.79,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-07T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000250",
+      "production_order_id": "WO-2026-000061",
+      "material_lot_id": "RAWLOT-SUP-0012-2026-000087",
+      "quantity_consumed": 896.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-07T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000251",
+      "production_order_id": "WO-2026-000062",
+      "material_lot_id": "RAWLOT-SUP-0018-2026-000043",
+      "quantity_consumed": 13.29,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-22T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000252",
+      "production_order_id": "WO-2026-000062",
+      "material_lot_id": "RAWLOT-SUP-0006-2026-000106",
+      "quantity_consumed": 44.3,
+      "unit_of_measure": "L",
+      "consumption_date": "2026-03-22T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000253",
+      "production_order_id": "WO-2026-000062",
+      "material_lot_id": "RAWLOT-SUP-0013-2026-000113",
+      "quantity_consumed": 2.21,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-22T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000254",
+      "production_order_id": "WO-2026-000062",
+      "material_lot_id": "RAWLOT-SUP-0020-2026-000120",
+      "quantity_consumed": 0.44,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-22T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000255",
+      "production_order_id": "WO-2026-000062",
+      "material_lot_id": "RAWLOT-SUP-0023-2026-000123",
+      "quantity_consumed": 443.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-22T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000256",
+      "production_order_id": "WO-2026-000063",
+      "material_lot_id": "RAWLOT-SUP-0004-2026-000079",
+      "quantity_consumed": 8.28,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-28T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000257",
+      "production_order_id": "WO-2026-000063",
+      "material_lot_id": "RAWLOT-SUP-0011-2026-000086",
+      "quantity_consumed": 6.21,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-28T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000258",
+      "production_order_id": "WO-2026-000063",
+      "material_lot_id": "RAWLOT-SUP-0022-2026-000147",
+      "quantity_consumed": 828.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-28T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000259",
+      "production_order_id": "WO-2026-000064",
+      "material_lot_id": "RAWLOT-SUP-0003-2026-000103",
+      "quantity_consumed": 36.45,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-01-31T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000260",
+      "production_order_id": "WO-2026-000064",
+      "material_lot_id": "RAWLOT-SUP-0010-2026-000110",
+      "quantity_consumed": 14.58,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-01-31T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000261",
+      "production_order_id": "WO-2026-000064",
+      "material_lot_id": "RAWLOT-SUP-0016-2026-000116",
+      "quantity_consumed": 1.46,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-01-31T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000262",
+      "production_order_id": "WO-2026-000064",
+      "material_lot_id": "RAWLOT-SUP-0002-2026-000177",
+      "quantity_consumed": 729.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-01-31T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000263",
+      "production_order_id": "WO-2026-000065",
+      "material_lot_id": "RAWLOT-SUP-0008-2026-000133",
+      "quantity_consumed": 22.93,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-04T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000264",
+      "production_order_id": "WO-2026-000065",
+      "material_lot_id": "RAWLOT-SUP-0022-2026-000197",
+      "quantity_consumed": 2.75,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-04T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000265",
+      "production_order_id": "WO-2026-000065",
+      "material_lot_id": "RAWLOT-SUP-0021-2026-000146",
+      "quantity_consumed": 9.17,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-04T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000266",
+      "production_order_id": "WO-2026-000065",
+      "material_lot_id": "RAWLOT-SUP-0009-2026-000009",
+      "quantity_consumed": 917.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-04T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000267",
+      "production_order_id": "WO-2026-000066",
+      "material_lot_id": "RAWLOT-SUP-0013-2026-000163",
+      "quantity_consumed": 3.79,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-18T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000268",
+      "production_order_id": "WO-2026-000066",
+      "material_lot_id": "RAWLOT-SUP-0003-2026-000028",
+      "quantity_consumed": 30.36,
+      "unit_of_measure": "L",
+      "consumption_date": "2026-02-18T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000269",
+      "production_order_id": "WO-2026-000066",
+      "material_lot_id": "RAWLOT-SUP-0010-2026-000035",
+      "quantity_consumed": 1.52,
+      "unit_of_measure": "L",
+      "consumption_date": "2026-02-18T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000270",
+      "production_order_id": "WO-2026-000066",
+      "material_lot_id": "RAWLOT-SUP-0017-2026-000042",
+      "quantity_consumed": 0.76,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-18T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000271",
+      "production_order_id": "WO-2026-000066",
+      "material_lot_id": "RAWLOT-SUP-0020-2026-000045",
+      "quantity_consumed": 759.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-18T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000272",
+      "production_order_id": "WO-2026-000067",
+      "material_lot_id": "RAWLOT-SUP-0024-2026-000199",
+      "quantity_consumed": 25.45,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-02T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000273",
+      "production_order_id": "WO-2026-000067",
+      "material_lot_id": "RAWLOT-SUP-0002-2026-000002",
+      "quantity_consumed": 15.27,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-02T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000274",
+      "production_order_id": "WO-2026-000067",
+      "material_lot_id": "RAWLOT-SUP-0008-2026-000008",
+      "quantity_consumed": 1.02,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-02T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000275",
+      "production_order_id": "WO-2026-000067",
+      "material_lot_id": "RAWLOT-SUP-0025-2026-000075",
+      "quantity_consumed": 509.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-02T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000276",
+      "production_order_id": "WO-2026-000068",
+      "material_lot_id": "RAWLOT-SUP-0025-2026-000025",
+      "quantity_consumed": 15.42,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-11T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000277",
+      "production_order_id": "WO-2026-000068",
+      "material_lot_id": "RAWLOT-SUP-0019-2026-000094",
+      "quantity_consumed": 51.4,
+      "unit_of_measure": "L",
+      "consumption_date": "2026-03-11T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000278",
+      "production_order_id": "WO-2026-000068",
+      "material_lot_id": "RAWLOT-SUP-0001-2026-000101",
+      "quantity_consumed": 2.57,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-11T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000279",
+      "production_order_id": "WO-2026-000068",
+      "material_lot_id": "RAWLOT-SUP-0008-2026-000108",
+      "quantity_consumed": 0.51,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-11T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000280",
+      "production_order_id": "WO-2026-000068",
+      "material_lot_id": "RAWLOT-SUP-0011-2026-000111",
+      "quantity_consumed": 514.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-11T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000281",
+      "production_order_id": "WO-2026-000069",
+      "material_lot_id": "RAWLOT-SUP-0011-2026-000061",
+      "quantity_consumed": 6.6,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-23T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000282",
+      "production_order_id": "WO-2026-000069",
+      "material_lot_id": "RAWLOT-SUP-0018-2026-000068",
+      "quantity_consumed": 4.95,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-23T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000283",
+      "production_order_id": "WO-2026-000069",
+      "material_lot_id": "RAWLOT-SUP-0010-2026-000135",
+      "quantity_consumed": 660.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-23T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000284",
+      "production_order_id": "WO-2026-000070",
+      "material_lot_id": "RAWLOT-SUP-0010-2026-000085",
+      "quantity_consumed": 35.1,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-22T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000285",
+      "production_order_id": "WO-2026-000070",
+      "material_lot_id": "RAWLOT-SUP-0017-2026-000092",
+      "quantity_consumed": 14.04,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-22T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000286",
+      "production_order_id": "WO-2026-000070",
+      "material_lot_id": "RAWLOT-SUP-0023-2026-000098",
+      "quantity_consumed": 1.4,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-22T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000287",
+      "production_order_id": "WO-2026-000070",
+      "material_lot_id": "RAWLOT-SUP-0015-2026-000165",
+      "quantity_consumed": 702.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-22T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000288",
+      "production_order_id": "WO-2026-000071",
+      "material_lot_id": "RAWLOT-SUP-0015-2026-000115",
+      "quantity_consumed": 28.2,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-01T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000289",
+      "production_order_id": "WO-2026-000071",
+      "material_lot_id": "RAWLOT-SUP-0022-2026-000122",
+      "quantity_consumed": 16.92,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-01T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000290",
+      "production_order_id": "WO-2026-000071",
+      "material_lot_id": "RAWLOT-SUP-0003-2026-000128",
+      "quantity_consumed": 1.13,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-01T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000291",
+      "production_order_id": "WO-2026-000071",
+      "material_lot_id": "RAWLOT-SUP-0020-2026-000195",
+      "quantity_consumed": 564.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-01T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000292",
+      "production_order_id": "WO-2026-000072",
+      "material_lot_id": "RAWLOT-SUP-0020-2026-000145",
+      "quantity_consumed": 16.77,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-03T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000293",
+      "production_order_id": "WO-2026-000072",
+      "material_lot_id": "RAWLOT-SUP-0016-2026-000016",
+      "quantity_consumed": 55.9,
+      "unit_of_measure": "L",
+      "consumption_date": "2026-02-03T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000294",
+      "production_order_id": "WO-2026-000072",
+      "material_lot_id": "RAWLOT-SUP-0023-2026-000023",
+      "quantity_consumed": 2.79,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-03T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000295",
+      "production_order_id": "WO-2026-000072",
+      "material_lot_id": "RAWLOT-SUP-0005-2026-000030",
+      "quantity_consumed": 0.56,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-03T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000296",
+      "production_order_id": "WO-2026-000072",
+      "material_lot_id": "RAWLOT-SUP-0008-2026-000033",
+      "quantity_consumed": 559.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-03T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000297",
+      "production_order_id": "WO-2026-000073",
+      "material_lot_id": "RAWLOT-SUP-0006-2026-000181",
+      "quantity_consumed": 6.4,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-09T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000298",
+      "production_order_id": "WO-2026-000073",
+      "material_lot_id": "RAWLOT-SUP-0013-2026-000188",
+      "quantity_consumed": 4.8,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-09T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000299",
+      "production_order_id": "WO-2026-000073",
+      "material_lot_id": "RAWLOT-SUP-0007-2026-000057",
+      "quantity_consumed": 640.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-09T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000300",
+      "production_order_id": "WO-2026-000074",
+      "material_lot_id": "RAWLOT-SUP-0001-2026-000001",
+      "quantity_consumed": 45.1,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-01-31T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000301",
+      "production_order_id": "WO-2026-000074",
+      "material_lot_id": "RAWLOT-SUP-0008-2026-000008",
+      "quantity_consumed": 18.04,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-01-31T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000302",
+      "production_order_id": "WO-2026-000074",
+      "material_lot_id": "RAWLOT-SUP-0014-2026-000014",
+      "quantity_consumed": 1.8,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-01-31T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000303",
+      "production_order_id": "WO-2026-000074",
+      "material_lot_id": "RAWLOT-SUP-0012-2026-000087",
+      "quantity_consumed": 902.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-01-31T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000304",
+      "production_order_id": "WO-2026-000075",
+      "material_lot_id": "RAWLOT-SUP-0006-2026-000031",
+      "quantity_consumed": 5.05,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-06T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000305",
+      "production_order_id": "WO-2026-000075",
+      "material_lot_id": "RAWLOT-SUP-0007-2026-000107",
+      "quantity_consumed": 0.61,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-06T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000306",
+      "production_order_id": "WO-2026-000075",
+      "material_lot_id": "RAWLOT-SUP-0019-2026-000044",
+      "quantity_consumed": 2.02,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-06T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000307",
+      "production_order_id": "WO-2026-000075",
+      "material_lot_id": "RAWLOT-SUP-0017-2026-000117",
+      "quantity_consumed": 202.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-06T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000308",
+      "production_order_id": "WO-2026-000076",
+      "material_lot_id": "RAWLOT-SUP-0011-2026-000061",
+      "quantity_consumed": 1.2,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-21T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000309",
+      "production_order_id": "WO-2026-000076",
+      "material_lot_id": "RAWLOT-SUP-0011-2026-000136",
+      "quantity_consumed": 9.56,
+      "unit_of_measure": "L",
+      "consumption_date": "2026-02-21T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000310",
+      "production_order_id": "WO-2026-000076",
+      "material_lot_id": "RAWLOT-SUP-0018-2026-000143",
+      "quantity_consumed": 0.48,
+      "unit_of_measure": "L",
+      "consumption_date": "2026-02-21T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000311",
+      "production_order_id": "WO-2026-000076",
+      "material_lot_id": "RAWLOT-SUP-0025-2026-000150",
+      "quantity_consumed": 0.24,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-21T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000312",
+      "production_order_id": "WO-2026-000076",
+      "material_lot_id": "RAWLOT-SUP-0003-2026-000153",
+      "quantity_consumed": 239.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-21T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000313",
+      "production_order_id": "WO-2026-000077",
+      "material_lot_id": "RAWLOT-SUP-0022-2026-000097",
+      "quantity_consumed": 45.35,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-04T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000314",
+      "production_order_id": "WO-2026-000077",
+      "material_lot_id": "RAWLOT-SUP-0004-2026-000104",
+      "quantity_consumed": 27.21,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-04T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000315",
+      "production_order_id": "WO-2026-000077",
+      "material_lot_id": "RAWLOT-SUP-0010-2026-000110",
+      "quantity_consumed": 1.81,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-04T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000316",
+      "production_order_id": "WO-2026-000077",
+      "material_lot_id": "RAWLOT-SUP-0008-2026-000183",
+      "quantity_consumed": 907.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-04T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000317",
+      "production_order_id": "WO-2026-000078",
+      "material_lot_id": "RAWLOT-SUP-0002-2026-000127",
+      "quantity_consumed": 21.03,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-11T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000318",
+      "production_order_id": "WO-2026-000078",
+      "material_lot_id": "RAWLOT-SUP-0004-2026-000004",
+      "quantity_consumed": 70.1,
+      "unit_of_measure": "L",
+      "consumption_date": "2026-03-11T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000319",
+      "production_order_id": "WO-2026-000078",
+      "material_lot_id": "RAWLOT-SUP-0011-2026-000011",
+      "quantity_consumed": 3.5,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-11T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000320",
+      "production_order_id": "WO-2026-000078",
+      "material_lot_id": "RAWLOT-SUP-0018-2026-000018",
+      "quantity_consumed": 0.7,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-11T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000321",
+      "production_order_id": "WO-2026-000078",
+      "material_lot_id": "RAWLOT-SUP-0021-2026-000021",
+      "quantity_consumed": 701.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-11T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000322",
+      "production_order_id": "WO-2026-000079",
+      "material_lot_id": "RAWLOT-SUP-0013-2026-000163",
+      "quantity_consumed": 12.52,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-14T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000323",
+      "production_order_id": "WO-2026-000079",
+      "material_lot_id": "RAWLOT-SUP-0020-2026-000170",
+      "quantity_consumed": 9.39,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-14T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000324",
+      "production_order_id": "WO-2026-000079",
+      "material_lot_id": "RAWLOT-SUP-0020-2026-000045",
+      "quantity_consumed": 1252.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-14T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000325",
+      "production_order_id": "WO-2026-000080",
+      "material_lot_id": "RAWLOT-SUP-0012-2026-000187",
+      "quantity_consumed": 19.65,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-20T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000326",
+      "production_order_id": "WO-2026-000080",
+      "material_lot_id": "RAWLOT-SUP-0019-2026-000194",
+      "quantity_consumed": 7.86,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-20T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000327",
+      "production_order_id": "WO-2026-000080",
+      "material_lot_id": "RAWLOT-SUP-0025-2026-000200",
+      "quantity_consumed": 0.79,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-20T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000328",
+      "production_order_id": "WO-2026-000080",
+      "material_lot_id": "RAWLOT-SUP-0025-2026-000075",
+      "quantity_consumed": 393.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-20T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000329",
+      "production_order_id": "WO-2026-000081",
+      "material_lot_id": "RAWLOT-SUP-0013-2026-000013",
+      "quantity_consumed": 38.95,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-11T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000330",
+      "production_order_id": "WO-2026-000081",
+      "material_lot_id": "RAWLOT-SUP-0020-2026-000020",
+      "quantity_consumed": 23.37,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-11T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000331",
+      "production_order_id": "WO-2026-000081",
+      "material_lot_id": "RAWLOT-SUP-0001-2026-000026",
+      "quantity_consumed": 1.56,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-11T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000332",
+      "production_order_id": "WO-2026-000081",
+      "material_lot_id": "RAWLOT-SUP-0005-2026-000105",
+      "quantity_consumed": 779.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-11T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000333",
+      "production_order_id": "WO-2026-000082",
+      "material_lot_id": "RAWLOT-SUP-0018-2026-000043",
+      "quantity_consumed": 27.87,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-14T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000334",
+      "production_order_id": "WO-2026-000082",
+      "material_lot_id": "RAWLOT-SUP-0024-2026-000124",
+      "quantity_consumed": 92.9,
+      "unit_of_measure": "L",
+      "consumption_date": "2026-03-14T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000335",
+      "production_order_id": "WO-2026-000082",
+      "material_lot_id": "RAWLOT-SUP-0006-2026-000131",
+      "quantity_consumed": 4.65,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-14T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000336",
+      "production_order_id": "WO-2026-000082",
+      "material_lot_id": "RAWLOT-SUP-0013-2026-000138",
+      "quantity_consumed": 0.93,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-14T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000337",
+      "production_order_id": "WO-2026-000082",
+      "material_lot_id": "RAWLOT-SUP-0016-2026-000141",
+      "quantity_consumed": 929.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-14T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000338",
+      "production_order_id": "WO-2026-000083",
+      "material_lot_id": "RAWLOT-SUP-0004-2026-000079",
+      "quantity_consumed": 17.56,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-05T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000339",
+      "production_order_id": "WO-2026-000083",
+      "material_lot_id": "RAWLOT-SUP-0011-2026-000086",
+      "quantity_consumed": 13.17,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-05T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000340",
+      "production_order_id": "WO-2026-000083",
+      "material_lot_id": "RAWLOT-SUP-0015-2026-000165",
+      "quantity_consumed": 1756.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-05T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000341",
+      "production_order_id": "WO-2026-000084",
+      "material_lot_id": "RAWLOT-SUP-0003-2026-000103",
+      "quantity_consumed": 22.6,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-12T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000342",
+      "production_order_id": "WO-2026-000084",
+      "material_lot_id": "RAWLOT-SUP-0010-2026-000110",
+      "quantity_consumed": 9.04,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-12T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000343",
+      "production_order_id": "WO-2026-000084",
+      "material_lot_id": "RAWLOT-SUP-0016-2026-000116",
+      "quantity_consumed": 0.9,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-12T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000344",
+      "production_order_id": "WO-2026-000084",
+      "material_lot_id": "RAWLOT-SUP-0020-2026-000195",
+      "quantity_consumed": 452.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-12T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000345",
+      "production_order_id": "WO-2026-000085",
+      "material_lot_id": "RAWLOT-SUP-0008-2026-000133",
+      "quantity_consumed": 15.93,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-20T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000346",
+      "production_order_id": "WO-2026-000085",
+      "material_lot_id": "RAWLOT-SUP-0017-2026-000017",
+      "quantity_consumed": 1.91,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-20T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000347",
+      "production_order_id": "WO-2026-000085",
+      "material_lot_id": "RAWLOT-SUP-0021-2026-000146",
+      "quantity_consumed": 6.37,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-20T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000348",
+      "production_order_id": "WO-2026-000085",
+      "material_lot_id": "RAWLOT-SUP-0002-2026-000027",
+      "quantity_consumed": 637.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-20T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000349",
+      "production_order_id": "WO-2026-000086",
+      "material_lot_id": "RAWLOT-SUP-0013-2026-000163",
+      "quantity_consumed": 2.14,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-10T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000350",
+      "production_order_id": "WO-2026-000086",
+      "material_lot_id": "RAWLOT-SUP-0021-2026-000046",
+      "quantity_consumed": 17.12,
+      "unit_of_measure": "L",
+      "consumption_date": "2026-02-10T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000351",
+      "production_order_id": "WO-2026-000086",
+      "material_lot_id": "RAWLOT-SUP-0003-2026-000053",
+      "quantity_consumed": 0.86,
+      "unit_of_measure": "L",
+      "consumption_date": "2026-02-10T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000352",
+      "production_order_id": "WO-2026-000086",
+      "material_lot_id": "RAWLOT-SUP-0010-2026-000060",
+      "quantity_consumed": 0.43,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-10T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000353",
+      "production_order_id": "WO-2026-000086",
+      "material_lot_id": "RAWLOT-SUP-0013-2026-000063",
+      "quantity_consumed": 428.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-10T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000354",
+      "production_order_id": "WO-2026-000087",
+      "material_lot_id": "RAWLOT-SUP-0024-2026-000199",
+      "quantity_consumed": 24.15,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-24T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000355",
+      "production_order_id": "WO-2026-000087",
+      "material_lot_id": "RAWLOT-SUP-0002-2026-000002",
+      "quantity_consumed": 14.49,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-24T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000356",
+      "production_order_id": "WO-2026-000087",
+      "material_lot_id": "RAWLOT-SUP-0008-2026-000008",
+      "quantity_consumed": 0.97,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-24T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000357",
+      "production_order_id": "WO-2026-000087",
+      "material_lot_id": "RAWLOT-SUP-0018-2026-000093",
+      "quantity_consumed": 483.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-24T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000358",
+      "production_order_id": "WO-2026-000088",
+      "material_lot_id": "RAWLOT-SUP-0025-2026-000025",
+      "quantity_consumed": 7.17,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-22T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000359",
+      "production_order_id": "WO-2026-000088",
+      "material_lot_id": "RAWLOT-SUP-0012-2026-000112",
+      "quantity_consumed": 23.9,
+      "unit_of_measure": "L",
+      "consumption_date": "2026-03-22T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000360",
+      "production_order_id": "WO-2026-000088",
+      "material_lot_id": "RAWLOT-SUP-0019-2026-000119",
+      "quantity_consumed": 1.2,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-22T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000361",
+      "production_order_id": "WO-2026-000088",
+      "material_lot_id": "RAWLOT-SUP-0001-2026-000126",
+      "quantity_consumed": 0.24,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-22T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000362",
+      "production_order_id": "WO-2026-000088",
+      "material_lot_id": "RAWLOT-SUP-0004-2026-000129",
+      "quantity_consumed": 239.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-22T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000363",
+      "production_order_id": "WO-2026-000089",
+      "material_lot_id": "RAWLOT-SUP-0011-2026-000061",
+      "quantity_consumed": 12.08,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-09T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000364",
+      "production_order_id": "WO-2026-000089",
+      "material_lot_id": "RAWLOT-SUP-0018-2026-000068",
+      "quantity_consumed": 9.06,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-09T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000365",
+      "production_order_id": "WO-2026-000089",
+      "material_lot_id": "RAWLOT-SUP-0003-2026-000153",
+      "quantity_consumed": 1208.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-09T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000366",
+      "production_order_id": "WO-2026-000090",
+      "material_lot_id": "RAWLOT-SUP-0010-2026-000085",
+      "quantity_consumed": 37.5,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-16T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000367",
+      "production_order_id": "WO-2026-000090",
+      "material_lot_id": "RAWLOT-SUP-0017-2026-000092",
+      "quantity_consumed": 15.0,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-16T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000368",
+      "production_order_id": "WO-2026-000090",
+      "material_lot_id": "RAWLOT-SUP-0023-2026-000098",
+      "quantity_consumed": 1.5,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-16T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000369",
+      "production_order_id": "WO-2026-000090",
+      "material_lot_id": "RAWLOT-SUP-0008-2026-000183",
+      "quantity_consumed": 750.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-16T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000370",
+      "production_order_id": "WO-2026-000091",
+      "material_lot_id": "RAWLOT-SUP-0015-2026-000115",
+      "quantity_consumed": 36.7,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-05T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000371",
+      "production_order_id": "WO-2026-000091",
+      "material_lot_id": "RAWLOT-SUP-0022-2026-000122",
+      "quantity_consumed": 22.02,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-05T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000372",
+      "production_order_id": "WO-2026-000091",
+      "material_lot_id": "RAWLOT-SUP-0003-2026-000128",
+      "quantity_consumed": 1.47,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-05T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000373",
+      "production_order_id": "WO-2026-000091",
+      "material_lot_id": "RAWLOT-SUP-0015-2026-000015",
+      "quantity_consumed": 734.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-05T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000374",
+      "production_order_id": "WO-2026-000092",
+      "material_lot_id": "RAWLOT-SUP-0020-2026-000145",
+      "quantity_consumed": 8.82,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-14T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000375",
+      "production_order_id": "WO-2026-000092",
+      "material_lot_id": "RAWLOT-SUP-0009-2026-000034",
+      "quantity_consumed": 29.4,
+      "unit_of_measure": "L",
+      "consumption_date": "2026-03-14T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000376",
+      "production_order_id": "WO-2026-000092",
+      "material_lot_id": "RAWLOT-SUP-0016-2026-000041",
+      "quantity_consumed": 1.47,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-14T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000377",
+      "production_order_id": "WO-2026-000092",
+      "material_lot_id": "RAWLOT-SUP-0023-2026-000048",
+      "quantity_consumed": 0.29,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-14T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000378",
+      "production_order_id": "WO-2026-000092",
+      "material_lot_id": "RAWLOT-SUP-0001-2026-000051",
+      "quantity_consumed": 294.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-14T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000379",
+      "production_order_id": "WO-2026-000093",
+      "material_lot_id": "RAWLOT-SUP-0006-2026-000181",
+      "quantity_consumed": 5.64,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-06T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000380",
+      "production_order_id": "WO-2026-000093",
+      "material_lot_id": "RAWLOT-SUP-0013-2026-000188",
+      "quantity_consumed": 4.23,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-06T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000381",
+      "production_order_id": "WO-2026-000093",
+      "material_lot_id": "RAWLOT-SUP-0025-2026-000075",
+      "quantity_consumed": 564.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-06T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000382",
+      "production_order_id": "WO-2026-000094",
+      "material_lot_id": "RAWLOT-SUP-0001-2026-000001",
+      "quantity_consumed": 46.8,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-06T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000383",
+      "production_order_id": "WO-2026-000094",
+      "material_lot_id": "RAWLOT-SUP-0008-2026-000008",
+      "quantity_consumed": 18.72,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-06T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000384",
+      "production_order_id": "WO-2026-000094",
+      "material_lot_id": "RAWLOT-SUP-0014-2026-000014",
+      "quantity_consumed": 1.87,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-06T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000385",
+      "production_order_id": "WO-2026-000094",
+      "material_lot_id": "RAWLOT-SUP-0005-2026-000105",
+      "quantity_consumed": 936.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-06T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000386",
+      "production_order_id": "WO-2026-000095",
+      "material_lot_id": "RAWLOT-SUP-0006-2026-000031",
+      "quantity_consumed": 19.4,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-26T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000387",
+      "production_order_id": "WO-2026-000095",
+      "material_lot_id": "RAWLOT-SUP-0025-2026-000125",
+      "quantity_consumed": 2.33,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-26T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000388",
+      "production_order_id": "WO-2026-000095",
+      "material_lot_id": "RAWLOT-SUP-0019-2026-000044",
+      "quantity_consumed": 7.76,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-26T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000389",
+      "production_order_id": "WO-2026-000095",
+      "material_lot_id": "RAWLOT-SUP-0010-2026-000135",
+      "quantity_consumed": 776.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-26T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000390",
+      "production_order_id": "WO-2026-000096",
+      "material_lot_id": "RAWLOT-SUP-0011-2026-000061",
+      "quantity_consumed": 3.88,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-07T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000391",
+      "production_order_id": "WO-2026-000096",
+      "material_lot_id": "RAWLOT-SUP-0004-2026-000154",
+      "quantity_consumed": 31.0,
+      "unit_of_measure": "L",
+      "consumption_date": "2026-03-07T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000392",
+      "production_order_id": "WO-2026-000096",
+      "material_lot_id": "RAWLOT-SUP-0011-2026-000161",
+      "quantity_consumed": 1.55,
+      "unit_of_measure": "L",
+      "consumption_date": "2026-03-07T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000393",
+      "production_order_id": "WO-2026-000096",
+      "material_lot_id": "RAWLOT-SUP-0018-2026-000168",
+      "quantity_consumed": 0.78,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-07T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000394",
+      "production_order_id": "WO-2026-000096",
+      "material_lot_id": "RAWLOT-SUP-0021-2026-000171",
+      "quantity_consumed": 775.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-07T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000395",
+      "production_order_id": "WO-2026-000097",
+      "material_lot_id": "RAWLOT-SUP-0022-2026-000097",
+      "quantity_consumed": 12.5,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-02T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000396",
+      "production_order_id": "WO-2026-000097",
+      "material_lot_id": "RAWLOT-SUP-0004-2026-000104",
+      "quantity_consumed": 7.5,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-02T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000397",
+      "production_order_id": "WO-2026-000097",
+      "material_lot_id": "RAWLOT-SUP-0010-2026-000110",
+      "quantity_consumed": 0.5,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-02T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000398",
+      "production_order_id": "WO-2026-000097",
+      "material_lot_id": "RAWLOT-SUP-0003-2026-000003",
+      "quantity_consumed": 250.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-02T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000399",
+      "production_order_id": "WO-2026-000098",
+      "material_lot_id": "RAWLOT-SUP-0002-2026-000127",
+      "quantity_consumed": 19.17,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-27T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000400",
+      "production_order_id": "WO-2026-000098",
+      "material_lot_id": "RAWLOT-SUP-0022-2026-000022",
+      "quantity_consumed": 63.9,
+      "unit_of_measure": "L",
+      "consumption_date": "2026-02-27T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000401",
+      "production_order_id": "WO-2026-000098",
+      "material_lot_id": "RAWLOT-SUP-0004-2026-000029",
+      "quantity_consumed": 3.2,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-27T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000402",
+      "production_order_id": "WO-2026-000098",
+      "material_lot_id": "RAWLOT-SUP-0011-2026-000036",
+      "quantity_consumed": 0.64,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-27T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000403",
+      "production_order_id": "WO-2026-000098",
+      "material_lot_id": "RAWLOT-SUP-0014-2026-000039",
+      "quantity_consumed": 639.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-27T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000404",
+      "production_order_id": "WO-2026-000099",
+      "material_lot_id": "RAWLOT-SUP-0013-2026-000163",
+      "quantity_consumed": 11.84,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-21T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000405",
+      "production_order_id": "WO-2026-000099",
+      "material_lot_id": "RAWLOT-SUP-0020-2026-000170",
+      "quantity_consumed": 8.88,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-03-21T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000406",
+      "production_order_id": "WO-2026-000099",
+      "material_lot_id": "RAWLOT-SUP-0013-2026-000063",
+      "quantity_consumed": 1184.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-03-21T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000407",
+      "production_order_id": "WO-2026-000100",
+      "material_lot_id": "RAWLOT-SUP-0012-2026-000187",
+      "quantity_consumed": 16.85,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-16T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000408",
+      "production_order_id": "WO-2026-000100",
+      "material_lot_id": "RAWLOT-SUP-0019-2026-000194",
+      "quantity_consumed": 6.74,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-16T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000409",
+      "production_order_id": "WO-2026-000100",
+      "material_lot_id": "RAWLOT-SUP-0025-2026-000200",
+      "quantity_consumed": 0.67,
+      "unit_of_measure": "KG",
+      "consumption_date": "2026-02-16T08:00:00"
+    },
+    {
+      "consumption_id": "PC-2026-000410",
+      "production_order_id": "WO-2026-000100",
+      "material_lot_id": "RAWLOT-SUP-0018-2026-000093",
+      "quantity_consumed": 337.0,
+      "unit_of_measure": "UNITS",
+      "consumption_date": "2026-02-16T08:00:00"
+    }
+  ]
+}

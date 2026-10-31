@@ -1,0 +1,83 @@
+id,bom_id,material_category,material_name,required_quantity,unit_of_measure,is_mandatory
+1,BOM-PRD-0001-V1,API,Acetaminophen USP Micronized,0.05,KG,True
+2,BOM-PRD-0001-V1,EXCIPIENT,Microcrystalline Cellulose PH-102,0.03,KG,True
+3,BOM-PRD-0001-V1,EXCIPIENT,Magnesium Stearate Vegetable,0.002,KG,True
+4,BOM-PRD-0001-V1,PACKAGING,High-Density Polyethylene Bottles 150ml,1.0,UNITS,True
+5,BOM-PRD-0001-V2,API,Acetaminophen USP Micronized,0.05,KG,True
+6,BOM-PRD-0001-V2,EXCIPIENT,Lactose Monohydrate Fine,0.03,KG,True
+7,BOM-PRD-0001-V2,EXCIPIENT,Croscarmellose Sodium,0.003,KG,True
+8,BOM-PRD-0001-V2,PACKAGING,High-Density Polyethylene Bottles 150ml,1.0,UNITS,True
+9,BOM-PRD-0002-V1,API,Amoxicillin Trihydrate Powder,0.03,KG,True
+10,BOM-PRD-0002-V1,SOLVENT,Purified Water for Injection USP,0.1,L,True
+11,BOM-PRD-0002-V1,FLAVORING,Natural Wild Cherry Flavor Powder,0.005,KG,True
+12,BOM-PRD-0002-V1,PRESERVATIVE,Sodium Benzoate NF Dense,0.001,KG,True
+13,BOM-PRD-0002-V1,PACKAGING,High-Density Polyethylene Bottles 150ml,1.0,UNITS,True
+14,BOM-PRD-0002-V2,API,Amoxicillin Trihydrate Powder,0.03,KG,True
+15,BOM-PRD-0002-V2,SOLVENT,Purified Water for Injection USP,0.1,L,True
+16,BOM-PRD-0002-V2,FLAVORING,Natural Wild Cherry Flavor Powder,0.005,KG,True
+17,BOM-PRD-0002-V2,PRESERVATIVE,Sodium Benzoate NF Dense,0.001,KG,True
+18,BOM-PRD-0002-V2,PACKAGING,High-Density Polyethylene Bottles 150ml,1.0,UNITS,True
+19,BOM-PRD-0003-V1,API,Ibuprofen BP Fine Powder,0.02,KG,True
+20,BOM-PRD-0003-V1,EXCIPIENT,Microcrystalline Cellulose PH-102,0.015,KG,True
+21,BOM-PRD-0003-V1,PACKAGING,Blister Aluminum Foil Strip 200mm,2.0,UNITS,True
+22,BOM-PRD-0003-V2,API,Ibuprofen BP Fine Powder,0.02,KG,True
+23,BOM-PRD-0003-V2,EXCIPIENT,Microcrystalline Cellulose PH-102,0.015,KG,True
+24,BOM-PRD-0003-V2,PACKAGING,Blister Aluminum Foil Strip 200mm,2.0,UNITS,True
+25,BOM-PRD-0004-V1,API,Metformin Hydrochloride,0.05,KG,True
+26,BOM-PRD-0004-V1,EXCIPIENT,Hydroxypropyl Methylcellulose,0.02,KG,True
+27,BOM-PRD-0004-V1,EXCIPIENT,Magnesium Stearate Vegetable,0.002,KG,True
+28,BOM-PRD-0004-V1,PACKAGING,High-Density Polyethylene Bottles 150ml,1.0,UNITS,True
+29,BOM-PRD-0004-V2,API,Metformin Hydrochloride,0.05,KG,True
+30,BOM-PRD-0004-V2,EXCIPIENT,Hydroxypropyl Methylcellulose,0.02,KG,True
+31,BOM-PRD-0004-V2,EXCIPIENT,Magnesium Stearate Vegetable,0.002,KG,True
+32,BOM-PRD-0004-V2,PACKAGING,High-Density Polyethylene Bottles 150ml,1.0,UNITS,True
+33,BOM-PRD-0005-V1,API,Ascorbic Acid USP Grade,0.025,KG,True
+34,BOM-PRD-0005-V1,FLAVORING,Natural Wild Cherry Flavor Powder,0.003,KG,True
+35,BOM-PRD-0005-V1,EXCIPIENT,Lactose Monohydrate Fine,0.01,KG,True
+36,BOM-PRD-0005-V1,PACKAGING,Sterile Amber Glass Vials 10ml,1.0,UNITS,True
+37,BOM-PRD-0005-V2,API,Ascorbic Acid USP Grade,0.025,KG,True
+38,BOM-PRD-0005-V2,FLAVORING,Natural Wild Cherry Flavor Powder,0.003,KG,True
+39,BOM-PRD-0005-V2,EXCIPIENT,Lactose Monohydrate Fine,0.01,KG,True
+40,BOM-PRD-0005-V2,PACKAGING,Sterile Amber Glass Vials 10ml,1.0,UNITS,True
+41,BOM-PRD-0006-V1,API,Dextromethorphan HBr,0.005,KG,True
+42,BOM-PRD-0006-V1,SOLVENT,Propylene Glycol Pharma Grade,0.04,L,True
+43,BOM-PRD-0006-V1,FLAVORING,Peppermint Oil Extract Pure,0.002,L,True
+44,BOM-PRD-0006-V1,PRESERVATIVE,Potassium Sorbate Granular,0.001,KG,True
+45,BOM-PRD-0006-V1,PACKAGING,High-Density Polyethylene Bottles 150ml,1.0,UNITS,True
+46,BOM-PRD-0006-V2,API,Dextromethorphan HBr,0.005,KG,True
+47,BOM-PRD-0006-V2,SOLVENT,Propylene Glycol Pharma Grade,0.04,L,True
+48,BOM-PRD-0006-V2,FLAVORING,Peppermint Oil Extract Pure,0.002,L,True
+49,BOM-PRD-0006-V2,PRESERVATIVE,Potassium Sorbate Granular,0.001,KG,True
+50,BOM-PRD-0006-V2,PACKAGING,High-Density Polyethylene Bottles 150ml,1.0,UNITS,True
+51,BOM-PRD-0007-V1,API,Acetaminophen USP Micronized,0.05,KG,True
+52,BOM-PRD-0007-V1,EXCIPIENT,Microcrystalline Cellulose PH-102,0.03,KG,True
+53,BOM-PRD-0007-V1,EXCIPIENT,Magnesium Stearate Vegetable,0.002,KG,True
+54,BOM-PRD-0007-V1,PACKAGING,High-Density Polyethylene Bottles 150ml,1.0,UNITS,True
+55,BOM-PRD-0007-V2,API,Acetaminophen USP Micronized,0.05,KG,True
+56,BOM-PRD-0007-V2,EXCIPIENT,Lactose Monohydrate Fine,0.03,KG,True
+57,BOM-PRD-0007-V2,EXCIPIENT,Croscarmellose Sodium,0.003,KG,True
+58,BOM-PRD-0007-V2,PACKAGING,High-Density Polyethylene Bottles 150ml,1.0,UNITS,True
+59,BOM-PRD-0008-V1,API,Amoxicillin Trihydrate Powder,0.03,KG,True
+60,BOM-PRD-0008-V1,SOLVENT,Purified Water for Injection USP,0.1,L,True
+61,BOM-PRD-0008-V1,FLAVORING,Natural Wild Cherry Flavor Powder,0.005,KG,True
+62,BOM-PRD-0008-V1,PRESERVATIVE,Sodium Benzoate NF Dense,0.001,KG,True
+63,BOM-PRD-0008-V1,PACKAGING,High-Density Polyethylene Bottles 150ml,1.0,UNITS,True
+64,BOM-PRD-0008-V2,API,Amoxicillin Trihydrate Powder,0.03,KG,True
+65,BOM-PRD-0008-V2,SOLVENT,Purified Water for Injection USP,0.1,L,True
+66,BOM-PRD-0008-V2,FLAVORING,Natural Wild Cherry Flavor Powder,0.005,KG,True
+67,BOM-PRD-0008-V2,PRESERVATIVE,Sodium Benzoate NF Dense,0.001,KG,True
+68,BOM-PRD-0008-V2,PACKAGING,High-Density Polyethylene Bottles 150ml,1.0,UNITS,True
+69,BOM-PRD-0009-V1,API,Ibuprofen BP Fine Powder,0.02,KG,True
+70,BOM-PRD-0009-V1,EXCIPIENT,Microcrystalline Cellulose PH-102,0.015,KG,True
+71,BOM-PRD-0009-V1,PACKAGING,Blister Aluminum Foil Strip 200mm,2.0,UNITS,True
+72,BOM-PRD-0009-V2,API,Ibuprofen BP Fine Powder,0.02,KG,True
+73,BOM-PRD-0009-V2,EXCIPIENT,Microcrystalline Cellulose PH-102,0.015,KG,True
+74,BOM-PRD-0009-V2,PACKAGING,Blister Aluminum Foil Strip 200mm,2.0,UNITS,True
+75,BOM-PRD-0010-V1,API,Metformin Hydrochloride,0.05,KG,True
+76,BOM-PRD-0010-V1,EXCIPIENT,Hydroxypropyl Methylcellulose,0.02,KG,True
+77,BOM-PRD-0010-V1,EXCIPIENT,Magnesium Stearate Vegetable,0.002,KG,True
+78,BOM-PRD-0010-V1,PACKAGING,High-Density Polyethylene Bottles 150ml,1.0,UNITS,True
+79,BOM-PRD-0010-V2,API,Metformin Hydrochloride,0.05,KG,True
+80,BOM-PRD-0010-V2,EXCIPIENT,Hydroxypropyl Methylcellulose,0.02,KG,True
+81,BOM-PRD-0010-V2,EXCIPIENT,Magnesium Stearate Vegetable,0.002,KG,True
+82,BOM-PRD-0010-V2,PACKAGING,High-Density Polyethylene Bottles 150ml,1.0,UNITS,True

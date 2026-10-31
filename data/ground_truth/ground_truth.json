@@ -1,0 +1,85 @@
+{
+  "profile": "starter",
+  "seed": 20261022,
+  "records_count": 7,
+  "generated_at": "2026-10-31T17:31:19.297698",
+  "ground_truth": [
+    {
+      "scenario": "SCENARIO_A",
+      "issue_type": "MISSING_INPUT_LOT",
+      "ground_truth_label": "ANOMALY_A_MISSING_INPUT_LOT",
+      "affected_entity_type": "FinishedLot",
+      "affected_entity_id": "FINLOT-2026-000001",
+      "expected_business_decision": "Quarantine finished lot and reject release certification due to broken BOM traceability",
+      "severity": "CRITICAL",
+      "expected_outcome": "REJECTED_GENEALOGY",
+      "notes": "Finished lot FINLOT-2026-000001 references phantom raw lot RAWLOT-SUP-9999-2026-999999"
+    },
+    {
+      "scenario": "SCENARIO_B",
+      "issue_type": "DELIVERED_EXCEEDS_PRODUCED",
+      "ground_truth_label": "ANOMALY_B_DELIVERY_EXCEEDS_PRODUCED",
+      "affected_entity_type": "Delivery",
+      "affected_entity_id": "DEL-2026-000001",
+      "expected_business_decision": "Halt invoice reconciliation, audit physical warehouse stock count and counterfeit investigation",
+      "severity": "CRITICAL",
+      "expected_outcome": "RECONCILIATION_EXCEPTION",
+      "notes": "Delivery DEL-2026-000001 logged 671.13 units against batch production of 171.13"
+    },
+    {
+      "scenario": "SCENARIO_C",
+      "issue_type": "MISSED_CUSTOMER_NOTIFICATION",
+      "ground_truth_label": "ANOMALY_C_MISSED_CUSTOMER_NOTIFICATION",
+      "affected_entity_type": "Customer",
+      "affected_entity_id": "CUST-0001",
+      "expected_business_decision": "Recall engine must independently discover customer through downstream delivery graph and emit high-priority escalation notice",
+      "severity": "HIGH",
+      "expected_outcome": "DISCOVERED_BY_AUDIT",
+      "notes": "Customer CUST-0001 received recalled lot but was omitted from initial notification set"
+    },
+    {
+      "scenario": "SCENARIO_D",
+      "issue_type": "RECALLED_INVENTORY_AVAILABLE_FOR_SALE",
+      "ground_truth_label": "ANOMALY_D_RECALLED_STOCK_SALEABLE",
+      "affected_entity_type": "Inventory",
+      "affected_entity_id": "INV-2026-000203",
+      "expected_business_decision": "Execute automated ERP inventory hold: lock bin location and set status to QUARANTINED immediately",
+      "severity": "CRITICAL",
+      "expected_outcome": "SECURITY_VIOLATION_BLOCKED",
+      "notes": "Contaminated lot FINLOT-2026-000003 had warehouse stock flagged as AVAILABLE"
+    },
+    {
+      "scenario": "BASELINE_RECALL",
+      "issue_type": "PRODUCT_RECALL_MANDATE",
+      "ground_truth_label": "GROUND_TRUTH_REC-2026-000001",
+      "affected_entity_type": "RecallCase",
+      "affected_entity_id": "REC-2026-000001",
+      "expected_business_decision": "Traverse complete upstream/downstream genealogy, quarantine warehouse inventory, and notify 100% of affected customers",
+      "severity": "CLASS_I",
+      "expected_outcome": "COMPLETE_CONTAINMENT",
+      "notes": "Source lot RAWLOT-SUP-0001-2026-000001 (RAW) requires complete traceability traversal"
+    },
+    {
+      "scenario": "BASELINE_RECALL",
+      "issue_type": "PRODUCT_RECALL_MANDATE",
+      "ground_truth_label": "GROUND_TRUTH_REC-2026-000002",
+      "affected_entity_type": "RecallCase",
+      "affected_entity_id": "REC-2026-000002",
+      "expected_business_decision": "Traverse complete upstream/downstream genealogy, quarantine warehouse inventory, and notify 100% of affected customers",
+      "severity": "CLASS_II",
+      "expected_outcome": "COMPLETE_CONTAINMENT",
+      "notes": "Source lot FINLOT-2026-000002 (FINISHED) requires complete traceability traversal"
+    },
+    {
+      "scenario": "BASELINE_RECALL",
+      "issue_type": "PRODUCT_RECALL_MANDATE",
+      "ground_truth_label": "GROUND_TRUTH_REC-2026-000003",
+      "affected_entity_type": "RecallCase",
+      "affected_entity_id": "REC-2026-000003",
+      "expected_business_decision": "Traverse complete upstream/downstream genealogy, quarantine warehouse inventory, and notify 100% of affected customers",
+      "severity": "CLASS_I",
+      "expected_outcome": "COMPLETE_CONTAINMENT",
+      "notes": "Source lot RAWLOT-SUP-0003-2026-000003 (RAW) requires complete traceability traversal"
+    }
+  ]
+}

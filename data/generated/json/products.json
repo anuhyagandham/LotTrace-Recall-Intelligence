@@ -1,0 +1,126 @@
+{
+  "table_name": "products",
+  "row_count": 10,
+  "data": [
+    {
+      "product_id": "PRD-0001",
+      "sku": "SKU-PHARM-0001",
+      "product_name": "Acetaminophen 500mg Extra Strength Tablets [Batch Series 1]",
+      "category": "PHARMACEUTICAL",
+      "unit_of_measure": "BOTTLES",
+      "shelf_life_days": 730,
+      "standard_cost": 6.8,
+      "is_active": true,
+      "created_at": "2025-08-23T08:00:00",
+      "updated_at": "2025-08-23T08:00:00"
+    },
+    {
+      "product_id": "PRD-0002",
+      "sku": "SKU-PHARM-0002",
+      "product_name": "Amoxicillin 250mg Oral Suspension [Batch Series 2]",
+      "category": "PHARMACEUTICAL",
+      "unit_of_measure": "BOTTLES",
+      "shelf_life_days": 365,
+      "standard_cost": 9.4,
+      "is_active": true,
+      "created_at": "2025-09-01T08:00:00",
+      "updated_at": "2025-09-01T08:00:00"
+    },
+    {
+      "product_id": "PRD-0003",
+      "sku": "SKU-PHARM-0003",
+      "product_name": "Ibuprofen 200mg Rapid Action Caplets [Batch Series 3]",
+      "category": "PHARMACEUTICAL",
+      "unit_of_measure": "BOXES",
+      "shelf_life_days": 1095,
+      "standard_cost": 5.25,
+      "is_active": true,
+      "created_at": "2025-10-05T08:00:00",
+      "updated_at": "2025-10-05T08:00:00"
+    },
+    {
+      "product_id": "PRD-0004",
+      "sku": "SKU-PHARM-0004",
+      "product_name": "Metformin HCl 500mg Extended Release [Batch Series 4]",
+      "category": "PHARMACEUTICAL",
+      "unit_of_measure": "BOTTLES",
+      "shelf_life_days": 730,
+      "standard_cost": 7.1,
+      "is_active": true,
+      "created_at": "2025-07-28T08:00:00",
+      "updated_at": "2025-07-28T08:00:00"
+    },
+    {
+      "product_id": "PRD-0005",
+      "sku": "SKU-NUTRA-0005",
+      "product_name": "Vitamin C 1000mg Effervescent Boost [Batch Series 5]",
+      "category": "NUTRACEUTICAL",
+      "unit_of_measure": "TUBES",
+      "shelf_life_days": 730,
+      "standard_cost": 4.5,
+      "is_active": true,
+      "created_at": "2025-09-14T08:00:00",
+      "updated_at": "2025-09-14T08:00:00"
+    },
+    {
+      "product_id": "PRD-0006",
+      "sku": "SKU-PHARM-0006",
+      "product_name": "Pediatric Cough & Cold Elixir 120ml [Batch Series 6]",
+      "category": "PHARMACEUTICAL",
+      "unit_of_measure": "BOTTLES",
+      "shelf_life_days": 540,
+      "standard_cost": 8.15,
+      "is_active": true,
+      "created_at": "2025-08-04T08:00:00",
+      "updated_at": "2025-08-04T08:00:00"
+    },
+    {
+      "product_id": "PRD-0007",
+      "sku": "SKU-PHARM-0007",
+      "product_name": "Acetaminophen 500mg Extra Strength Tablets [Batch Series 7]",
+      "category": "PHARMACEUTICAL",
+      "unit_of_measure": "BOTTLES",
+      "shelf_life_days": 730,
+      "standard_cost": 6.8,
+      "is_active": true,
+      "created_at": "2025-09-25T08:00:00",
+      "updated_at": "2025-09-25T08:00:00"
+    },
+    {
+      "product_id": "PRD-0008",
+      "sku": "SKU-PHARM-0008",
+      "product_name": "Amoxicillin 250mg Oral Suspension [Batch Series 8]",
+      "category": "PHARMACEUTICAL",
+      "unit_of_measure": "BOTTLES",
+      "shelf_life_days": 365,
+      "standard_cost": 9.4,
+      "is_active": true,
+      "created_at": "2025-08-03T08:00:00",
+      "updated_at": "2025-08-03T08:00:00"
+    },
+    {
+      "product_id": "PRD-0009",
+      "sku": "SKU-PHARM-0009",
+      "product_name": "Ibuprofen 200mg Rapid Action Caplets [Batch Series 9]",
+      "category": "PHARMACEUTICAL",
+      "unit_of_measure": "BOXES",
+      "shelf_life_days": 1095,
+      "standard_cost": 5.25,
+      "is_active": true,
+      "created_at": "2025-07-12T08:00:00",
+      "updated_at": "2025-07-12T08:00:00"
+    },
+    {
+      "product_id": "PRD-0010",
+      "sku": "SKU-PHARM-0010",
+      "product_name": "Metformin HCl 500mg Extended Release [Batch Series 10]",
+      "category": "PHARMACEUTICAL",
+      "unit_of_measure": "BOTTLES",
+      "shelf_life_days": 730,
+      "standard_cost": 7.1,
+      "is_active": true,
+      "created_at": "2025-09-14T08:00:00",
+      "updated_at": "2025-09-14T08:00:00"
+    }
+  ]
+}

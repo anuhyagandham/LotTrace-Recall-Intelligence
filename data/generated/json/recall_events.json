@@ -1,0 +1,87 @@
+{
+  "table_name": "recall_events",
+  "row_count": 9,
+  "data": [
+    {
+      "event_id": "RECEVT-2026-000001",
+      "recall_id": "REC-2026-000001",
+      "previous_status": "NONE",
+      "new_status": "OPEN",
+      "reason": "Recall initiated following confirmed CONTAMINATED_RAW_LOT for lot RAWLOT-SUP-0001-2026-000001",
+      "trigger_source": "QUALITY_AUDIT",
+      "created_at": "2026-04-05T08:00:00"
+    },
+    {
+      "event_id": "RECEVT-2026-000002",
+      "recall_id": "REC-2026-000002",
+      "previous_status": "NONE",
+      "new_status": "OPEN",
+      "reason": "Recall initiated following confirmed CONTAMINATED_FINISHED_LOT for lot FINLOT-2026-000002",
+      "trigger_source": "QUALITY_AUDIT",
+      "created_at": "2026-04-10T08:00:00"
+    },
+    {
+      "event_id": "RECEVT-2026-000003",
+      "recall_id": "REC-2026-000003",
+      "previous_status": "NONE",
+      "new_status": "OPEN",
+      "reason": "Recall initiated following confirmed CONTAMINATED_RAW_LOT for lot RAWLOT-SUP-0003-2026-000003",
+      "trigger_source": "QUALITY_AUDIT",
+      "created_at": "2026-04-15T08:00:00"
+    },
+    {
+      "event_id": "RECEVT-2026-000004",
+      "recall_id": "REC-2026-000001",
+      "previous_status": "OPEN",
+      "new_status": "INVESTIGATING",
+      "reason": "Downstream genealogy scope analysis started",
+      "trigger_source": "RECALL_ENGINE",
+      "created_at": "2026-10-31T17:36:16.497839"
+    },
+    {
+      "event_id": "RECEVT-2026-000005",
+      "recall_id": "REC-2026-000001",
+      "previous_status": "INVESTIGATING",
+      "new_status": "CONTAINMENT_IN_PROGRESS",
+      "reason": "Initiating warehouse stock quarantine and hold",
+      "trigger_source": "RECALL_ENGINE",
+      "created_at": "2026-10-31T17:36:16.565200"
+    },
+    {
+      "event_id": "RECEVT-2026-000006",
+      "recall_id": "REC-2026-000001",
+      "previous_status": "CONTAINMENT_IN_PROGRESS",
+      "new_status": "CUSTOMERS_NOTIFIED",
+      "reason": "Dispatching urgent customer safety notices",
+      "trigger_source": "RECALL_ENGINE",
+      "created_at": "2026-10-31T17:36:16.599222"
+    },
+    {
+      "event_id": "RECEVT-2026-000007",
+      "recall_id": "REC-2026-000001",
+      "previous_status": "CUSTOMERS_NOTIFIED",
+      "new_status": "RECOVERY_IN_PROGRESS",
+      "reason": "Simulating product returns and field recovery",
+      "trigger_source": "RECALL_ENGINE",
+      "created_at": "2026-10-31T17:36:16.641249"
+    },
+    {
+      "event_id": "RECEVT-2026-000008",
+      "recall_id": "REC-2026-000001",
+      "previous_status": "RECOVERY_IN_PROGRESS",
+      "new_status": "COMPLETED",
+      "reason": "All mandatory containment, notification, and recovery milestones satisfied",
+      "trigger_source": "RECALL_ENGINE",
+      "created_at": "2026-10-31T17:36:16.658074"
+    },
+    {
+      "event_id": "RECEVT-2026-000009",
+      "recall_id": "REC-2026-000001",
+      "previous_status": "COMPLETED",
+      "new_status": "COMPLETED",
+      "reason": "All mandatory containment, notification, and recovery milestones satisfied",
+      "trigger_source": "RECALL_ENGINE",
+      "created_at": "2026-10-31T17:37:53.088172"
+    }
+  ]
+}

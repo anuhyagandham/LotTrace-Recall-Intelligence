@@ -1,0 +1,846 @@
+{
+  "table_name": "shipment_items",
+  "row_count": 120,
+  "data": [
+    {
+      "item_id": "SHPITEM-2026-000001",
+      "shipment_id": "SHP-2026-000001",
+      "finished_lot_id": "FINLOT-2026-000001",
+      "quantity_shipped": 68.45,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000002",
+      "shipment_id": "SHP-2026-000002",
+      "finished_lot_id": "FINLOT-2026-000002",
+      "quantity_shipped": 68.45,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000003",
+      "shipment_id": "SHP-2026-000003",
+      "finished_lot_id": "FINLOT-2026-000003",
+      "quantity_shipped": 150.58,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000004",
+      "shipment_id": "SHP-2026-000004",
+      "finished_lot_id": "FINLOT-2026-000004",
+      "quantity_shipped": 150.58,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000005",
+      "shipment_id": "SHP-2026-000005",
+      "finished_lot_id": "FINLOT-2026-000005",
+      "quantity_shipped": 141.28,
+      "unit_of_measure": "BOXES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000006",
+      "shipment_id": "SHP-2026-000006",
+      "finished_lot_id": "FINLOT-2026-000006",
+      "quantity_shipped": 141.28,
+      "unit_of_measure": "BOXES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000007",
+      "shipment_id": "SHP-2026-000007",
+      "finished_lot_id": "FINLOT-2026-000007",
+      "quantity_shipped": 66.84,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000008",
+      "shipment_id": "SHP-2026-000008",
+      "finished_lot_id": "FINLOT-2026-000008",
+      "quantity_shipped": 66.84,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000009",
+      "shipment_id": "SHP-2026-000009",
+      "finished_lot_id": "FINLOT-2026-000009",
+      "quantity_shipped": 132.98,
+      "unit_of_measure": "TUBES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000010",
+      "shipment_id": "SHP-2026-000010",
+      "finished_lot_id": "FINLOT-2026-000010",
+      "quantity_shipped": 132.98,
+      "unit_of_measure": "TUBES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000011",
+      "shipment_id": "SHP-2026-000011",
+      "finished_lot_id": "FINLOT-2026-000011",
+      "quantity_shipped": 173.62,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000012",
+      "shipment_id": "SHP-2026-000012",
+      "finished_lot_id": "FINLOT-2026-000012",
+      "quantity_shipped": 173.62,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000013",
+      "shipment_id": "SHP-2026-000013",
+      "finished_lot_id": "FINLOT-2026-000013",
+      "quantity_shipped": 84.84,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000014",
+      "shipment_id": "SHP-2026-000014",
+      "finished_lot_id": "FINLOT-2026-000014",
+      "quantity_shipped": 84.84,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000015",
+      "shipment_id": "SHP-2026-000015",
+      "finished_lot_id": "FINLOT-2026-000015",
+      "quantity_shipped": 185.72,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000016",
+      "shipment_id": "SHP-2026-000016",
+      "finished_lot_id": "FINLOT-2026-000016",
+      "quantity_shipped": 185.72,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000017",
+      "shipment_id": "SHP-2026-000017",
+      "finished_lot_id": "FINLOT-2026-000017",
+      "quantity_shipped": 100.94,
+      "unit_of_measure": "BOXES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000018",
+      "shipment_id": "SHP-2026-000018",
+      "finished_lot_id": "FINLOT-2026-000018",
+      "quantity_shipped": 100.94,
+      "unit_of_measure": "BOXES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000019",
+      "shipment_id": "SHP-2026-000019",
+      "finished_lot_id": "FINLOT-2026-000019",
+      "quantity_shipped": 76.88,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000020",
+      "shipment_id": "SHP-2026-000020",
+      "finished_lot_id": "FINLOT-2026-000020",
+      "quantity_shipped": 76.88,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000021",
+      "shipment_id": "SHP-2026-000021",
+      "finished_lot_id": "FINLOT-2026-000021",
+      "quantity_shipped": 74.02,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000022",
+      "shipment_id": "SHP-2026-000022",
+      "finished_lot_id": "FINLOT-2026-000022",
+      "quantity_shipped": 74.02,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000023",
+      "shipment_id": "SHP-2026-000023",
+      "finished_lot_id": "FINLOT-2026-000023",
+      "quantity_shipped": 113.82,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000024",
+      "shipment_id": "SHP-2026-000024",
+      "finished_lot_id": "FINLOT-2026-000024",
+      "quantity_shipped": 113.82,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000025",
+      "shipment_id": "SHP-2026-000025",
+      "finished_lot_id": "FINLOT-2026-000025",
+      "quantity_shipped": 185.81,
+      "unit_of_measure": "BOXES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000026",
+      "shipment_id": "SHP-2026-000026",
+      "finished_lot_id": "FINLOT-2026-000026",
+      "quantity_shipped": 185.81,
+      "unit_of_measure": "BOXES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000027",
+      "shipment_id": "SHP-2026-000027",
+      "finished_lot_id": "FINLOT-2026-000027",
+      "quantity_shipped": 153.12,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000028",
+      "shipment_id": "SHP-2026-000028",
+      "finished_lot_id": "FINLOT-2026-000028",
+      "quantity_shipped": 153.12,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000029",
+      "shipment_id": "SHP-2026-000029",
+      "finished_lot_id": "FINLOT-2026-000029",
+      "quantity_shipped": 160.22,
+      "unit_of_measure": "TUBES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000030",
+      "shipment_id": "SHP-2026-000030",
+      "finished_lot_id": "FINLOT-2026-000030",
+      "quantity_shipped": 160.22,
+      "unit_of_measure": "TUBES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000031",
+      "shipment_id": "SHP-2026-000031",
+      "finished_lot_id": "FINLOT-2026-000031",
+      "quantity_shipped": 163.01,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000032",
+      "shipment_id": "SHP-2026-000032",
+      "finished_lot_id": "FINLOT-2026-000032",
+      "quantity_shipped": 163.01,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000033",
+      "shipment_id": "SHP-2026-000033",
+      "finished_lot_id": "FINLOT-2026-000033",
+      "quantity_shipped": 127.54,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000034",
+      "shipment_id": "SHP-2026-000034",
+      "finished_lot_id": "FINLOT-2026-000034",
+      "quantity_shipped": 127.54,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000035",
+      "shipment_id": "SHP-2026-000035",
+      "finished_lot_id": "FINLOT-2026-000035",
+      "quantity_shipped": 70.69,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000036",
+      "shipment_id": "SHP-2026-000036",
+      "finished_lot_id": "FINLOT-2026-000036",
+      "quantity_shipped": 70.69,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000037",
+      "shipment_id": "SHP-2026-000037",
+      "finished_lot_id": "FINLOT-2026-000037",
+      "quantity_shipped": 60.6,
+      "unit_of_measure": "BOXES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000038",
+      "shipment_id": "SHP-2026-000038",
+      "finished_lot_id": "FINLOT-2026-000038",
+      "quantity_shipped": 60.6,
+      "unit_of_measure": "BOXES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000039",
+      "shipment_id": "SHP-2026-000039",
+      "finished_lot_id": "FINLOT-2026-000039",
+      "quantity_shipped": 182.06,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000040",
+      "shipment_id": "SHP-2026-000040",
+      "finished_lot_id": "FINLOT-2026-000040",
+      "quantity_shipped": 182.06,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000041",
+      "shipment_id": "SHP-2026-000041",
+      "finished_lot_id": "FINLOT-2026-000041",
+      "quantity_shipped": 148.08,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000042",
+      "shipment_id": "SHP-2026-000042",
+      "finished_lot_id": "FINLOT-2026-000042",
+      "quantity_shipped": 148.08,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000043",
+      "shipment_id": "SHP-2026-000043",
+      "finished_lot_id": "FINLOT-2026-000043",
+      "quantity_shipped": 113.87,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000044",
+      "shipment_id": "SHP-2026-000044",
+      "finished_lot_id": "FINLOT-2026-000044",
+      "quantity_shipped": 113.87,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000045",
+      "shipment_id": "SHP-2026-000045",
+      "finished_lot_id": "FINLOT-2026-000045",
+      "quantity_shipped": 185.67,
+      "unit_of_measure": "BOXES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000046",
+      "shipment_id": "SHP-2026-000046",
+      "finished_lot_id": "FINLOT-2026-000046",
+      "quantity_shipped": 185.67,
+      "unit_of_measure": "BOXES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000047",
+      "shipment_id": "SHP-2026-000047",
+      "finished_lot_id": "FINLOT-2026-000047",
+      "quantity_shipped": 102.5,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000048",
+      "shipment_id": "SHP-2026-000048",
+      "finished_lot_id": "FINLOT-2026-000048",
+      "quantity_shipped": 102.5,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000049",
+      "shipment_id": "SHP-2026-000049",
+      "finished_lot_id": "FINLOT-2026-000049",
+      "quantity_shipped": 147.57,
+      "unit_of_measure": "TUBES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000050",
+      "shipment_id": "SHP-2026-000050",
+      "finished_lot_id": "FINLOT-2026-000050",
+      "quantity_shipped": 147.57,
+      "unit_of_measure": "TUBES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000051",
+      "shipment_id": "SHP-2026-000051",
+      "finished_lot_id": "FINLOT-2026-000051",
+      "quantity_shipped": 104.25,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000052",
+      "shipment_id": "SHP-2026-000052",
+      "finished_lot_id": "FINLOT-2026-000052",
+      "quantity_shipped": 104.25,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000053",
+      "shipment_id": "SHP-2026-000053",
+      "finished_lot_id": "FINLOT-2026-000053",
+      "quantity_shipped": 193.32,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000054",
+      "shipment_id": "SHP-2026-000054",
+      "finished_lot_id": "FINLOT-2026-000054",
+      "quantity_shipped": 193.32,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000055",
+      "shipment_id": "SHP-2026-000055",
+      "finished_lot_id": "FINLOT-2026-000055",
+      "quantity_shipped": 134.79,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000056",
+      "shipment_id": "SHP-2026-000056",
+      "finished_lot_id": "FINLOT-2026-000056",
+      "quantity_shipped": 134.79,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000057",
+      "shipment_id": "SHP-2026-000057",
+      "finished_lot_id": "FINLOT-2026-000057",
+      "quantity_shipped": 65.9,
+      "unit_of_measure": "BOXES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000058",
+      "shipment_id": "SHP-2026-000058",
+      "finished_lot_id": "FINLOT-2026-000058",
+      "quantity_shipped": 65.9,
+      "unit_of_measure": "BOXES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000059",
+      "shipment_id": "SHP-2026-000059",
+      "finished_lot_id": "FINLOT-2026-000059",
+      "quantity_shipped": 80.07,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000060",
+      "shipment_id": "SHP-2026-000060",
+      "finished_lot_id": "FINLOT-2026-000060",
+      "quantity_shipped": 80.07,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000061",
+      "shipment_id": "SHP-2026-000061",
+      "finished_lot_id": "FINLOT-2026-000061",
+      "quantity_shipped": 168.45,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000062",
+      "shipment_id": "SHP-2026-000062",
+      "finished_lot_id": "FINLOT-2026-000062",
+      "quantity_shipped": 168.45,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000063",
+      "shipment_id": "SHP-2026-000063",
+      "finished_lot_id": "FINLOT-2026-000063",
+      "quantity_shipped": 110.03,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000064",
+      "shipment_id": "SHP-2026-000064",
+      "finished_lot_id": "FINLOT-2026-000064",
+      "quantity_shipped": 110.03,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000065",
+      "shipment_id": "SHP-2026-000065",
+      "finished_lot_id": "FINLOT-2026-000065",
+      "quantity_shipped": 119.52,
+      "unit_of_measure": "BOXES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000066",
+      "shipment_id": "SHP-2026-000066",
+      "finished_lot_id": "FINLOT-2026-000066",
+      "quantity_shipped": 119.52,
+      "unit_of_measure": "BOXES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000067",
+      "shipment_id": "SHP-2026-000067",
+      "finished_lot_id": "FINLOT-2026-000067",
+      "quantity_shipped": 83.59,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000068",
+      "shipment_id": "SHP-2026-000068",
+      "finished_lot_id": "FINLOT-2026-000068",
+      "quantity_shipped": 83.59,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000069",
+      "shipment_id": "SHP-2026-000069",
+      "finished_lot_id": "FINLOT-2026-000069",
+      "quantity_shipped": 46.36,
+      "unit_of_measure": "TUBES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000070",
+      "shipment_id": "SHP-2026-000070",
+      "finished_lot_id": "FINLOT-2026-000070",
+      "quantity_shipped": 46.36,
+      "unit_of_measure": "TUBES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000071",
+      "shipment_id": "SHP-2026-000071",
+      "finished_lot_id": "FINLOT-2026-000071",
+      "quantity_shipped": 96.92,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000072",
+      "shipment_id": "SHP-2026-000072",
+      "finished_lot_id": "FINLOT-2026-000072",
+      "quantity_shipped": 96.92,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000073",
+      "shipment_id": "SHP-2026-000073",
+      "finished_lot_id": "FINLOT-2026-000073",
+      "quantity_shipped": 144.5,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000074",
+      "shipment_id": "SHP-2026-000074",
+      "finished_lot_id": "FINLOT-2026-000074",
+      "quantity_shipped": 144.5,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000075",
+      "shipment_id": "SHP-2026-000075",
+      "finished_lot_id": "FINLOT-2026-000075",
+      "quantity_shipped": 110.98,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000076",
+      "shipment_id": "SHP-2026-000076",
+      "finished_lot_id": "FINLOT-2026-000076",
+      "quantity_shipped": 110.98,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000077",
+      "shipment_id": "SHP-2026-000077",
+      "finished_lot_id": "FINLOT-2026-000077",
+      "quantity_shipped": 59.68,
+      "unit_of_measure": "BOXES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000078",
+      "shipment_id": "SHP-2026-000078",
+      "finished_lot_id": "FINLOT-2026-000078",
+      "quantity_shipped": 59.68,
+      "unit_of_measure": "BOXES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000079",
+      "shipment_id": "SHP-2026-000079",
+      "finished_lot_id": "FINLOT-2026-000079",
+      "quantity_shipped": 132.48,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000080",
+      "shipment_id": "SHP-2026-000080",
+      "finished_lot_id": "FINLOT-2026-000080",
+      "quantity_shipped": 132.48,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000081",
+      "shipment_id": "SHP-2026-000081",
+      "finished_lot_id": "FINLOT-2026-000081",
+      "quantity_shipped": 77.88,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000082",
+      "shipment_id": "SHP-2026-000082",
+      "finished_lot_id": "FINLOT-2026-000082",
+      "quantity_shipped": 77.88,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000083",
+      "shipment_id": "SHP-2026-000083",
+      "finished_lot_id": "FINLOT-2026-000083",
+      "quantity_shipped": 63.82,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000084",
+      "shipment_id": "SHP-2026-000084",
+      "finished_lot_id": "FINLOT-2026-000084",
+      "quantity_shipped": 63.82,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000085",
+      "shipment_id": "SHP-2026-000085",
+      "finished_lot_id": "FINLOT-2026-000085",
+      "quantity_shipped": 174.58,
+      "unit_of_measure": "BOXES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000086",
+      "shipment_id": "SHP-2026-000086",
+      "finished_lot_id": "FINLOT-2026-000086",
+      "quantity_shipped": 174.58,
+      "unit_of_measure": "BOXES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000087",
+      "shipment_id": "SHP-2026-000087",
+      "finished_lot_id": "FINLOT-2026-000087",
+      "quantity_shipped": 144.23,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000088",
+      "shipment_id": "SHP-2026-000088",
+      "finished_lot_id": "FINLOT-2026-000088",
+      "quantity_shipped": 144.23,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000089",
+      "shipment_id": "SHP-2026-000089",
+      "finished_lot_id": "FINLOT-2026-000089",
+      "quantity_shipped": 75.0,
+      "unit_of_measure": "TUBES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000090",
+      "shipment_id": "SHP-2026-000090",
+      "finished_lot_id": "FINLOT-2026-000090",
+      "quantity_shipped": 75.0,
+      "unit_of_measure": "TUBES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000091",
+      "shipment_id": "SHP-2026-000091",
+      "finished_lot_id": "FINLOT-2026-000091",
+      "quantity_shipped": 84.21,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000092",
+      "shipment_id": "SHP-2026-000092",
+      "finished_lot_id": "FINLOT-2026-000092",
+      "quantity_shipped": 84.21,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000093",
+      "shipment_id": "SHP-2026-000093",
+      "finished_lot_id": "FINLOT-2026-000093",
+      "quantity_shipped": 89.34,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000094",
+      "shipment_id": "SHP-2026-000094",
+      "finished_lot_id": "FINLOT-2026-000094",
+      "quantity_shipped": 89.34,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000095",
+      "shipment_id": "SHP-2026-000095",
+      "finished_lot_id": "FINLOT-2026-000095",
+      "quantity_shipped": 145.96,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000096",
+      "shipment_id": "SHP-2026-000096",
+      "finished_lot_id": "FINLOT-2026-000096",
+      "quantity_shipped": 145.96,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000097",
+      "shipment_id": "SHP-2026-000097",
+      "finished_lot_id": "FINLOT-2026-000097",
+      "quantity_shipped": 127.48,
+      "unit_of_measure": "BOXES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000098",
+      "shipment_id": "SHP-2026-000098",
+      "finished_lot_id": "FINLOT-2026-000098",
+      "quantity_shipped": 127.48,
+      "unit_of_measure": "BOXES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000099",
+      "shipment_id": "SHP-2026-000099",
+      "finished_lot_id": "FINLOT-2026-000099",
+      "quantity_shipped": 56.92,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000100",
+      "shipment_id": "SHP-2026-000100",
+      "finished_lot_id": "FINLOT-2026-000100",
+      "quantity_shipped": 56.92,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000101",
+      "shipment_id": "SHP-2026-000101",
+      "finished_lot_id": "FINLOT-2026-000101",
+      "quantity_shipped": 199.98,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000102",
+      "shipment_id": "SHP-2026-000102",
+      "finished_lot_id": "FINLOT-2026-000102",
+      "quantity_shipped": 373.34,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000103",
+      "shipment_id": "SHP-2026-000103",
+      "finished_lot_id": "FINLOT-2026-000103",
+      "quantity_shipped": 270.16,
+      "unit_of_measure": "BOXES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000104",
+      "shipment_id": "SHP-2026-000104",
+      "finished_lot_id": "FINLOT-2026-000104",
+      "quantity_shipped": 254.46,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000105",
+      "shipment_id": "SHP-2026-000105",
+      "finished_lot_id": "FINLOT-2026-000105",
+      "quantity_shipped": 377.47,
+      "unit_of_measure": "TUBES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000106",
+      "shipment_id": "SHP-2026-000106",
+      "finished_lot_id": "FINLOT-2026-000106",
+      "quantity_shipped": 292.2,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000107",
+      "shipment_id": "SHP-2026-000107",
+      "finished_lot_id": "FINLOT-2026-000107",
+      "quantity_shipped": 317.93,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000108",
+      "shipment_id": "SHP-2026-000108",
+      "finished_lot_id": "FINLOT-2026-000108",
+      "quantity_shipped": 131.0,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000109",
+      "shipment_id": "SHP-2026-000109",
+      "finished_lot_id": "FINLOT-2026-000109",
+      "quantity_shipped": 161.32,
+      "unit_of_measure": "BOXES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000110",
+      "shipment_id": "SHP-2026-000110",
+      "finished_lot_id": "FINLOT-2026-000110",
+      "quantity_shipped": 347.31,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000111",
+      "shipment_id": "SHP-2026-000111",
+      "finished_lot_id": "FINLOT-2026-000111",
+      "quantity_shipped": 346.81,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000112",
+      "shipment_id": "SHP-2026-000112",
+      "finished_lot_id": "FINLOT-2026-000112",
+      "quantity_shipped": 174.28,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000113",
+      "shipment_id": "SHP-2026-000113",
+      "finished_lot_id": "FINLOT-2026-000113",
+      "quantity_shipped": 164.27,
+      "unit_of_measure": "BOXES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000114",
+      "shipment_id": "SHP-2026-000114",
+      "finished_lot_id": "FINLOT-2026-000114",
+      "quantity_shipped": 286.63,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000115",
+      "shipment_id": "SHP-2026-000115",
+      "finished_lot_id": "FINLOT-2026-000115",
+      "quantity_shipped": 367.76,
+      "unit_of_measure": "TUBES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000116",
+      "shipment_id": "SHP-2026-000116",
+      "finished_lot_id": "FINLOT-2026-000116",
+      "quantity_shipped": 298.94,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000117",
+      "shipment_id": "SHP-2026-000117",
+      "finished_lot_id": "FINLOT-2026-000117",
+      "quantity_shipped": 197.21,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000118",
+      "shipment_id": "SHP-2026-000118",
+      "finished_lot_id": "FINLOT-2026-000118",
+      "quantity_shipped": 199.11,
+      "unit_of_measure": "BOTTLES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000119",
+      "shipment_id": "SHP-2026-000119",
+      "finished_lot_id": "FINLOT-2026-000119",
+      "quantity_shipped": 131.42,
+      "unit_of_measure": "BOXES"
+    },
+    {
+      "item_id": "SHPITEM-2026-000120",
+      "shipment_id": "SHP-2026-000120",
+      "finished_lot_id": "FINLOT-2026-000120",
+      "quantity_shipped": 270.82,
+      "unit_of_measure": "BOTTLES"
+    }
+  ]
+}

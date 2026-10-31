@@ -1,0 +1,744 @@
+{
+  "table_name": "bom_materials",
+  "row_count": 82,
+  "data": [
+    {
+      "id": 1,
+      "bom_id": "BOM-PRD-0001-V1",
+      "material_category": "API",
+      "material_name": "Acetaminophen USP Micronized",
+      "required_quantity": 0.05,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 2,
+      "bom_id": "BOM-PRD-0001-V1",
+      "material_category": "EXCIPIENT",
+      "material_name": "Microcrystalline Cellulose PH-102",
+      "required_quantity": 0.03,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 3,
+      "bom_id": "BOM-PRD-0001-V1",
+      "material_category": "EXCIPIENT",
+      "material_name": "Magnesium Stearate Vegetable",
+      "required_quantity": 0.002,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 4,
+      "bom_id": "BOM-PRD-0001-V1",
+      "material_category": "PACKAGING",
+      "material_name": "High-Density Polyethylene Bottles 150ml",
+      "required_quantity": 1.0,
+      "unit_of_measure": "UNITS",
+      "is_mandatory": true
+    },
+    {
+      "id": 5,
+      "bom_id": "BOM-PRD-0001-V2",
+      "material_category": "API",
+      "material_name": "Acetaminophen USP Micronized",
+      "required_quantity": 0.05,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 6,
+      "bom_id": "BOM-PRD-0001-V2",
+      "material_category": "EXCIPIENT",
+      "material_name": "Lactose Monohydrate Fine",
+      "required_quantity": 0.03,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 7,
+      "bom_id": "BOM-PRD-0001-V2",
+      "material_category": "EXCIPIENT",
+      "material_name": "Croscarmellose Sodium",
+      "required_quantity": 0.003,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 8,
+      "bom_id": "BOM-PRD-0001-V2",
+      "material_category": "PACKAGING",
+      "material_name": "High-Density Polyethylene Bottles 150ml",
+      "required_quantity": 1.0,
+      "unit_of_measure": "UNITS",
+      "is_mandatory": true
+    },
+    {
+      "id": 9,
+      "bom_id": "BOM-PRD-0002-V1",
+      "material_category": "API",
+      "material_name": "Amoxicillin Trihydrate Powder",
+      "required_quantity": 0.03,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 10,
+      "bom_id": "BOM-PRD-0002-V1",
+      "material_category": "SOLVENT",
+      "material_name": "Purified Water for Injection USP",
+      "required_quantity": 0.1,
+      "unit_of_measure": "L",
+      "is_mandatory": true
+    },
+    {
+      "id": 11,
+      "bom_id": "BOM-PRD-0002-V1",
+      "material_category": "FLAVORING",
+      "material_name": "Natural Wild Cherry Flavor Powder",
+      "required_quantity": 0.005,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 12,
+      "bom_id": "BOM-PRD-0002-V1",
+      "material_category": "PRESERVATIVE",
+      "material_name": "Sodium Benzoate NF Dense",
+      "required_quantity": 0.001,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 13,
+      "bom_id": "BOM-PRD-0002-V1",
+      "material_category": "PACKAGING",
+      "material_name": "High-Density Polyethylene Bottles 150ml",
+      "required_quantity": 1.0,
+      "unit_of_measure": "UNITS",
+      "is_mandatory": true
+    },
+    {
+      "id": 14,
+      "bom_id": "BOM-PRD-0002-V2",
+      "material_category": "API",
+      "material_name": "Amoxicillin Trihydrate Powder",
+      "required_quantity": 0.03,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 15,
+      "bom_id": "BOM-PRD-0002-V2",
+      "material_category": "SOLVENT",
+      "material_name": "Purified Water for Injection USP",
+      "required_quantity": 0.1,
+      "unit_of_measure": "L",
+      "is_mandatory": true
+    },
+    {
+      "id": 16,
+      "bom_id": "BOM-PRD-0002-V2",
+      "material_category": "FLAVORING",
+      "material_name": "Natural Wild Cherry Flavor Powder",
+      "required_quantity": 0.005,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 17,
+      "bom_id": "BOM-PRD-0002-V2",
+      "material_category": "PRESERVATIVE",
+      "material_name": "Sodium Benzoate NF Dense",
+      "required_quantity": 0.001,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 18,
+      "bom_id": "BOM-PRD-0002-V2",
+      "material_category": "PACKAGING",
+      "material_name": "High-Density Polyethylene Bottles 150ml",
+      "required_quantity": 1.0,
+      "unit_of_measure": "UNITS",
+      "is_mandatory": true
+    },
+    {
+      "id": 19,
+      "bom_id": "BOM-PRD-0003-V1",
+      "material_category": "API",
+      "material_name": "Ibuprofen BP Fine Powder",
+      "required_quantity": 0.02,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 20,
+      "bom_id": "BOM-PRD-0003-V1",
+      "material_category": "EXCIPIENT",
+      "material_name": "Microcrystalline Cellulose PH-102",
+      "required_quantity": 0.015,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 21,
+      "bom_id": "BOM-PRD-0003-V1",
+      "material_category": "PACKAGING",
+      "material_name": "Blister Aluminum Foil Strip 200mm",
+      "required_quantity": 2.0,
+      "unit_of_measure": "UNITS",
+      "is_mandatory": true
+    },
+    {
+      "id": 22,
+      "bom_id": "BOM-PRD-0003-V2",
+      "material_category": "API",
+      "material_name": "Ibuprofen BP Fine Powder",
+      "required_quantity": 0.02,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 23,
+      "bom_id": "BOM-PRD-0003-V2",
+      "material_category": "EXCIPIENT",
+      "material_name": "Microcrystalline Cellulose PH-102",
+      "required_quantity": 0.015,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 24,
+      "bom_id": "BOM-PRD-0003-V2",
+      "material_category": "PACKAGING",
+      "material_name": "Blister Aluminum Foil Strip 200mm",
+      "required_quantity": 2.0,
+      "unit_of_measure": "UNITS",
+      "is_mandatory": true
+    },
+    {
+      "id": 25,
+      "bom_id": "BOM-PRD-0004-V1",
+      "material_category": "API",
+      "material_name": "Metformin Hydrochloride",
+      "required_quantity": 0.05,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 26,
+      "bom_id": "BOM-PRD-0004-V1",
+      "material_category": "EXCIPIENT",
+      "material_name": "Hydroxypropyl Methylcellulose",
+      "required_quantity": 0.02,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 27,
+      "bom_id": "BOM-PRD-0004-V1",
+      "material_category": "EXCIPIENT",
+      "material_name": "Magnesium Stearate Vegetable",
+      "required_quantity": 0.002,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 28,
+      "bom_id": "BOM-PRD-0004-V1",
+      "material_category": "PACKAGING",
+      "material_name": "High-Density Polyethylene Bottles 150ml",
+      "required_quantity": 1.0,
+      "unit_of_measure": "UNITS",
+      "is_mandatory": true
+    },
+    {
+      "id": 29,
+      "bom_id": "BOM-PRD-0004-V2",
+      "material_category": "API",
+      "material_name": "Metformin Hydrochloride",
+      "required_quantity": 0.05,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 30,
+      "bom_id": "BOM-PRD-0004-V2",
+      "material_category": "EXCIPIENT",
+      "material_name": "Hydroxypropyl Methylcellulose",
+      "required_quantity": 0.02,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 31,
+      "bom_id": "BOM-PRD-0004-V2",
+      "material_category": "EXCIPIENT",
+      "material_name": "Magnesium Stearate Vegetable",
+      "required_quantity": 0.002,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 32,
+      "bom_id": "BOM-PRD-0004-V2",
+      "material_category": "PACKAGING",
+      "material_name": "High-Density Polyethylene Bottles 150ml",
+      "required_quantity": 1.0,
+      "unit_of_measure": "UNITS",
+      "is_mandatory": true
+    },
+    {
+      "id": 33,
+      "bom_id": "BOM-PRD-0005-V1",
+      "material_category": "API",
+      "material_name": "Ascorbic Acid USP Grade",
+      "required_quantity": 0.025,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 34,
+      "bom_id": "BOM-PRD-0005-V1",
+      "material_category": "FLAVORING",
+      "material_name": "Natural Wild Cherry Flavor Powder",
+      "required_quantity": 0.003,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 35,
+      "bom_id": "BOM-PRD-0005-V1",
+      "material_category": "EXCIPIENT",
+      "material_name": "Lactose Monohydrate Fine",
+      "required_quantity": 0.01,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 36,
+      "bom_id": "BOM-PRD-0005-V1",
+      "material_category": "PACKAGING",
+      "material_name": "Sterile Amber Glass Vials 10ml",
+      "required_quantity": 1.0,
+      "unit_of_measure": "UNITS",
+      "is_mandatory": true
+    },
+    {
+      "id": 37,
+      "bom_id": "BOM-PRD-0005-V2",
+      "material_category": "API",
+      "material_name": "Ascorbic Acid USP Grade",
+      "required_quantity": 0.025,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 38,
+      "bom_id": "BOM-PRD-0005-V2",
+      "material_category": "FLAVORING",
+      "material_name": "Natural Wild Cherry Flavor Powder",
+      "required_quantity": 0.003,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 39,
+      "bom_id": "BOM-PRD-0005-V2",
+      "material_category": "EXCIPIENT",
+      "material_name": "Lactose Monohydrate Fine",
+      "required_quantity": 0.01,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 40,
+      "bom_id": "BOM-PRD-0005-V2",
+      "material_category": "PACKAGING",
+      "material_name": "Sterile Amber Glass Vials 10ml",
+      "required_quantity": 1.0,
+      "unit_of_measure": "UNITS",
+      "is_mandatory": true
+    },
+    {
+      "id": 41,
+      "bom_id": "BOM-PRD-0006-V1",
+      "material_category": "API",
+      "material_name": "Dextromethorphan HBr",
+      "required_quantity": 0.005,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 42,
+      "bom_id": "BOM-PRD-0006-V1",
+      "material_category": "SOLVENT",
+      "material_name": "Propylene Glycol Pharma Grade",
+      "required_quantity": 0.04,
+      "unit_of_measure": "L",
+      "is_mandatory": true
+    },
+    {
+      "id": 43,
+      "bom_id": "BOM-PRD-0006-V1",
+      "material_category": "FLAVORING",
+      "material_name": "Peppermint Oil Extract Pure",
+      "required_quantity": 0.002,
+      "unit_of_measure": "L",
+      "is_mandatory": true
+    },
+    {
+      "id": 44,
+      "bom_id": "BOM-PRD-0006-V1",
+      "material_category": "PRESERVATIVE",
+      "material_name": "Potassium Sorbate Granular",
+      "required_quantity": 0.001,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 45,
+      "bom_id": "BOM-PRD-0006-V1",
+      "material_category": "PACKAGING",
+      "material_name": "High-Density Polyethylene Bottles 150ml",
+      "required_quantity": 1.0,
+      "unit_of_measure": "UNITS",
+      "is_mandatory": true
+    },
+    {
+      "id": 46,
+      "bom_id": "BOM-PRD-0006-V2",
+      "material_category": "API",
+      "material_name": "Dextromethorphan HBr",
+      "required_quantity": 0.005,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 47,
+      "bom_id": "BOM-PRD-0006-V2",
+      "material_category": "SOLVENT",
+      "material_name": "Propylene Glycol Pharma Grade",
+      "required_quantity": 0.04,
+      "unit_of_measure": "L",
+      "is_mandatory": true
+    },
+    {
+      "id": 48,
+      "bom_id": "BOM-PRD-0006-V2",
+      "material_category": "FLAVORING",
+      "material_name": "Peppermint Oil Extract Pure",
+      "required_quantity": 0.002,
+      "unit_of_measure": "L",
+      "is_mandatory": true
+    },
+    {
+      "id": 49,
+      "bom_id": "BOM-PRD-0006-V2",
+      "material_category": "PRESERVATIVE",
+      "material_name": "Potassium Sorbate Granular",
+      "required_quantity": 0.001,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 50,
+      "bom_id": "BOM-PRD-0006-V2",
+      "material_category": "PACKAGING",
+      "material_name": "High-Density Polyethylene Bottles 150ml",
+      "required_quantity": 1.0,
+      "unit_of_measure": "UNITS",
+      "is_mandatory": true
+    },
+    {
+      "id": 51,
+      "bom_id": "BOM-PRD-0007-V1",
+      "material_category": "API",
+      "material_name": "Acetaminophen USP Micronized",
+      "required_quantity": 0.05,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 52,
+      "bom_id": "BOM-PRD-0007-V1",
+      "material_category": "EXCIPIENT",
+      "material_name": "Microcrystalline Cellulose PH-102",
+      "required_quantity": 0.03,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 53,
+      "bom_id": "BOM-PRD-0007-V1",
+      "material_category": "EXCIPIENT",
+      "material_name": "Magnesium Stearate Vegetable",
+      "required_quantity": 0.002,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 54,
+      "bom_id": "BOM-PRD-0007-V1",
+      "material_category": "PACKAGING",
+      "material_name": "High-Density Polyethylene Bottles 150ml",
+      "required_quantity": 1.0,
+      "unit_of_measure": "UNITS",
+      "is_mandatory": true
+    },
+    {
+      "id": 55,
+      "bom_id": "BOM-PRD-0007-V2",
+      "material_category": "API",
+      "material_name": "Acetaminophen USP Micronized",
+      "required_quantity": 0.05,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 56,
+      "bom_id": "BOM-PRD-0007-V2",
+      "material_category": "EXCIPIENT",
+      "material_name": "Lactose Monohydrate Fine",
+      "required_quantity": 0.03,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 57,
+      "bom_id": "BOM-PRD-0007-V2",
+      "material_category": "EXCIPIENT",
+      "material_name": "Croscarmellose Sodium",
+      "required_quantity": 0.003,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 58,
+      "bom_id": "BOM-PRD-0007-V2",
+      "material_category": "PACKAGING",
+      "material_name": "High-Density Polyethylene Bottles 150ml",
+      "required_quantity": 1.0,
+      "unit_of_measure": "UNITS",
+      "is_mandatory": true
+    },
+    {
+      "id": 59,
+      "bom_id": "BOM-PRD-0008-V1",
+      "material_category": "API",
+      "material_name": "Amoxicillin Trihydrate Powder",
+      "required_quantity": 0.03,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 60,
+      "bom_id": "BOM-PRD-0008-V1",
+      "material_category": "SOLVENT",
+      "material_name": "Purified Water for Injection USP",
+      "required_quantity": 0.1,
+      "unit_of_measure": "L",
+      "is_mandatory": true
+    },
+    {
+      "id": 61,
+      "bom_id": "BOM-PRD-0008-V1",
+      "material_category": "FLAVORING",
+      "material_name": "Natural Wild Cherry Flavor Powder",
+      "required_quantity": 0.005,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 62,
+      "bom_id": "BOM-PRD-0008-V1",
+      "material_category": "PRESERVATIVE",
+      "material_name": "Sodium Benzoate NF Dense",
+      "required_quantity": 0.001,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 63,
+      "bom_id": "BOM-PRD-0008-V1",
+      "material_category": "PACKAGING",
+      "material_name": "High-Density Polyethylene Bottles 150ml",
+      "required_quantity": 1.0,
+      "unit_of_measure": "UNITS",
+      "is_mandatory": true
+    },
+    {
+      "id": 64,
+      "bom_id": "BOM-PRD-0008-V2",
+      "material_category": "API",
+      "material_name": "Amoxicillin Trihydrate Powder",
+      "required_quantity": 0.03,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 65,
+      "bom_id": "BOM-PRD-0008-V2",
+      "material_category": "SOLVENT",
+      "material_name": "Purified Water for Injection USP",
+      "required_quantity": 0.1,
+      "unit_of_measure": "L",
+      "is_mandatory": true
+    },
+    {
+      "id": 66,
+      "bom_id": "BOM-PRD-0008-V2",
+      "material_category": "FLAVORING",
+      "material_name": "Natural Wild Cherry Flavor Powder",
+      "required_quantity": 0.005,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 67,
+      "bom_id": "BOM-PRD-0008-V2",
+      "material_category": "PRESERVATIVE",
+      "material_name": "Sodium Benzoate NF Dense",
+      "required_quantity": 0.001,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 68,
+      "bom_id": "BOM-PRD-0008-V2",
+      "material_category": "PACKAGING",
+      "material_name": "High-Density Polyethylene Bottles 150ml",
+      "required_quantity": 1.0,
+      "unit_of_measure": "UNITS",
+      "is_mandatory": true
+    },
+    {
+      "id": 69,
+      "bom_id": "BOM-PRD-0009-V1",
+      "material_category": "API",
+      "material_name": "Ibuprofen BP Fine Powder",
+      "required_quantity": 0.02,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 70,
+      "bom_id": "BOM-PRD-0009-V1",
+      "material_category": "EXCIPIENT",
+      "material_name": "Microcrystalline Cellulose PH-102",
+      "required_quantity": 0.015,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 71,
+      "bom_id": "BOM-PRD-0009-V1",
+      "material_category": "PACKAGING",
+      "material_name": "Blister Aluminum Foil Strip 200mm",
+      "required_quantity": 2.0,
+      "unit_of_measure": "UNITS",
+      "is_mandatory": true
+    },
+    {
+      "id": 72,
+      "bom_id": "BOM-PRD-0009-V2",
+      "material_category": "API",
+      "material_name": "Ibuprofen BP Fine Powder",
+      "required_quantity": 0.02,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 73,
+      "bom_id": "BOM-PRD-0009-V2",
+      "material_category": "EXCIPIENT",
+      "material_name": "Microcrystalline Cellulose PH-102",
+      "required_quantity": 0.015,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 74,
+      "bom_id": "BOM-PRD-0009-V2",
+      "material_category": "PACKAGING",
+      "material_name": "Blister Aluminum Foil Strip 200mm",
+      "required_quantity": 2.0,
+      "unit_of_measure": "UNITS",
+      "is_mandatory": true
+    },
+    {
+      "id": 75,
+      "bom_id": "BOM-PRD-0010-V1",
+      "material_category": "API",
+      "material_name": "Metformin Hydrochloride",
+      "required_quantity": 0.05,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 76,
+      "bom_id": "BOM-PRD-0010-V1",
+      "material_category": "EXCIPIENT",
+      "material_name": "Hydroxypropyl Methylcellulose",
+      "required_quantity": 0.02,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 77,
+      "bom_id": "BOM-PRD-0010-V1",
+      "material_category": "EXCIPIENT",
+      "material_name": "Magnesium Stearate Vegetable",
+      "required_quantity": 0.002,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 78,
+      "bom_id": "BOM-PRD-0010-V1",
+      "material_category": "PACKAGING",
+      "material_name": "High-Density Polyethylene Bottles 150ml",
+      "required_quantity": 1.0,
+      "unit_of_measure": "UNITS",
+      "is_mandatory": true
+    },
+    {
+      "id": 79,
+      "bom_id": "BOM-PRD-0010-V2",
+      "material_category": "API",
+      "material_name": "Metformin Hydrochloride",
+      "required_quantity": 0.05,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 80,
+      "bom_id": "BOM-PRD-0010-V2",
+      "material_category": "EXCIPIENT",
+      "material_name": "Hydroxypropyl Methylcellulose",
+      "required_quantity": 0.02,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 81,
+      "bom_id": "BOM-PRD-0010-V2",
+      "material_category": "EXCIPIENT",
+      "material_name": "Magnesium Stearate Vegetable",
+      "required_quantity": 0.002,
+      "unit_of_measure": "KG",
+      "is_mandatory": true
+    },
+    {
+      "id": 82,
+      "bom_id": "BOM-PRD-0010-V2",
+      "material_category": "PACKAGING",
+      "material_name": "High-Density Polyethylene Bottles 150ml",
+      "required_quantity": 1.0,
+      "unit_of_measure": "UNITS",
+      "is_mandatory": true
+    }
+  ]
+}
