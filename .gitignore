@@ -73,3 +73,5 @@ $RECYCLE.BIN/
 # SQLite database local files
 *.db
 *.db-journal
+*.db-shm
+*.db-wal
